@@ -9,6 +9,6 @@ router.put('/planet/:id', PlanetController.update);
 router.post('/planet', PlanetController.add);
 router.get('/planets/all', PlanetController.getAll);
 router.get('/planet/:id', PlanetController.findById);
-router.deletep('planet/:id', PlanetController.delete);
+router.deletep('/planet/:id', PlanetController.delete);
 
 module.exports = router;
