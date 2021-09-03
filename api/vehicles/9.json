@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "name": "Storm IV Twin-Pod cloud car",
+  "model": "Storm IV Twin-Pod",
+  "manufacturer": "Bespin Motors",
+  "cost_in_credits": "75000",
+  "length": "7",
+  "max_atmosphering_speed": "1500",
+  "crew": "2",
+  "passengers": "0",
+  "cargo_capacity": "10",
+  "consumables": "1 day",
+  "films": [
+    "The Empire Strikes Back"
+  ],
+  "created": "2014-12-15T12:58:50.530000Z",
+  "hyperdrive_rating": null,
+  "image": "https://static.wikia.nocookie.net/starwars/images/3/3b/Cloud-car-v2.png",
+  "resume": "O carro tempestade IV Twin-Pod nuvem era um modelo de carro nuvem fabricado pela Bespin Motors, e utilizado pela ala Guarda Bespin para patrulhar os céus cercam o Cloud City colônia e resort em Bespin"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 51,
+  "name": "Mace Windu",
+  "height": 1.92,
+  "mass": 84,
+  "gender": "male",
+  "homeworld": "haruun kal",
+  "wiki": "http://starwars.wikia.com/wiki/Mace_Windu",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/5/58/Mace_ROTS.png",
+  "born": 72,
+  "died": -19,
+  "diedLocation": "coruscant",
+  "species": "human",
+  "hairColor": "black; later none",
+  "eyeColor": "brown",
+  "skinColor": "dark",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Jedi assault team",
+    "Mace Windu's squad",
+    "Galactic Republic",
+    "Grand Army of the Republic"
+  ],
+  "masters": "Cyslin Myr",
+  "apprentices": "Depa Billaba",
+  "resume": "Um severo Mestre Jedi com um sabre de luz com lâmina de ametista, Mace Windu era o campeão da Ordem Jedi, com pouca tolerância para as falhas do Senado, os argumentos de políticos ou as opiniões de Jedi rebeldes. À medida que as Guerras Clônicas se intensificavam, Mace sentiu o lado negro da Força em ação e sabia que os inimigos dos Jedi planejavam destruir a Ordem e acabar com sua administração da galáxia."
+}

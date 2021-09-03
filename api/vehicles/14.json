@@ -1,0 +1,21 @@
+{
+  "id": 14,
+  "name": "Vulture Droid",
+  "model": "Vulture-class droid starfighter",
+  "manufacturer": "Haor Chall Engineering, Baktoid Armor Workshop",
+  "cost_in_credits": "unknown",
+  "length": "3.5",
+  "max_atmosphering_speed": "1200",
+  "crew": "0",
+  "passengers": "0",
+  "cargo_capacity": "0",
+  "consumables": "none",
+  "films": [
+    "The Phantom Menace",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-19T17:09:53.584000Z",
+  "hyperdrive_rating": null,
+  "image": "https://static.wikia.nocookie.net/starwars/images/e/e3/CIS_Vulture_droid.jpg",
+  "resume": "O Droide de Batalha Autopropulsionado de Geometria Variável, Mark I, também conhecido como o droide estelar da classe Vulture, ou mais simplesmente como droide abutre, era um modelo não tripulado de caça estelar droide fabricado pela Haor Chall Engineering e utilizado pela Federação de Comércio e posteriormente a Confederação de Sistemas Independentes   "
+}

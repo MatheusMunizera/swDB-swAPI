@@ -1,0 +1,20 @@
+{
+  "id": 60,
+  "name": "Gregar Typho",
+  "height": 1.85,
+  "mass": 85,
+  "gender": "male",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Gregar_Typho",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/5/52/Gregar_Typho.jpg",
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "affiliations": [
+    "Royal House of Naboo",
+    "Royal Naboo Security Forces",
+    "Galactic Republic"
+  ],
+  "skinColor": "dark",
+  "resume": "Gregar Typho sucedeu ao capitão Panaka como chefe do destacamento de segurança de Padmé Amidala, protegendo-a como rainha de Naboo e depois como senadora. Durante a crise separatista, Typho endossou o plano de Padmé para escapar dos assassinos, retornando secretamente para Naboo com Anakin Skywalker. Ele defendeu lealmente o senador contra uma série de inimigos nas Guerras Clônicas."
+}

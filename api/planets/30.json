@@ -1,0 +1,22 @@
+{
+  "id": 30,
+  "name": "Socorro",
+  "rotation_period": "20",
+  "orbital_period": "326",
+  "diameter": "0",
+  "climate": "arid",
+  "gravity": "1 standard",
+  "terrain": "deserts, mountains",
+  "surface_water": "unknown",
+  "population": "300000000",
+  "residents": [
+    "Lando Calrissian"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-15T12:56:31.121000Z",
+  "edited": "2014-12-20T20:58:18.469000Z",
+  "image": "https://static.wikia.nocookie.net/starwars/images/7/79/Socorro.png",
+  "resume": "Socorro era um um objecto astronómico localizado no sistema de ouro dentro da galáxia Anel Externo territórios. Era o mundo natal de Landonis Balthazar Calrissian, ex- Barão Administrador da Cidade das Nuvens. Era também a localização de cinturões de asteróides com grandes quantidades de minério de doonium. [4] A ex- rainha pirata Maz Kanata marcou como um porto das sombras em um mapa que ela incluiu no livro que ficou conhecido como o Guia do Contrabandista. "
+}

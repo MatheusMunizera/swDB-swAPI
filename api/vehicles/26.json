@@ -1,0 +1,22 @@
+{
+  "id": 26,
+  "name": "Y-wing",
+  "model": "BTL Y-wing",
+  "manufacturer": "Koensayr Manufacturing",
+  "cost_in_credits": "134999",
+  "length": "14",
+  "max_atmosphering_speed": "1000km",
+  "crew": "2",
+  "passengers": "0",
+  "cargo_capacity": "110",
+  "consumables": "1 week",
+  "films": [
+    "A New Hope",
+    "The Empire Strikes Back",
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-12T11:00:39.817000Z",
+  "hyperdrive_rating": 1,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/Y-Wing-Fighter_0e78c9ae.jpeg",
+  "resume": "O Y-wing é um caça estelar burro de carga que está em uso desde as Guerras Clônicas. Usado para combates aéreos e para bombardeios contra naves capitais e alvos terrestres, as asas Y são frequentemente ofuscadas por modelos mais novos, como o X-wing e o A-wing. Mas a importância histórica do Y-wing é notável e serviu de forma confiável a várias gerações de pilotos estelares."
+}

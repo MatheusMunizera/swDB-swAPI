@@ -1,0 +1,22 @@
+{
+  "id": 27,
+  "name": "X-wing",
+  "model": "T-65 X-wing",
+  "manufacturer": "Incom Corporation",
+  "cost_in_credits": "149999",
+  "length": "12.5",
+  "max_atmosphering_speed": "1050",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "110",
+  "consumables": "1 week",
+  "films": [
+    "A New Hope",
+    "The Empire Strikes Back",
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-12T11:19:05.340000Z",
+  "hyperdrive_rating": 1,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/X-Wing-Fighter_47c7c342.jpeg",
+  "resume": "O X-wing é um caça estelar versátil da Rebel Alliance que equilibra velocidade e poder de fogo. Armado com quatro canhões de laser e dois lançadores de torpedo de prótons, o X-wing pode enfrentar qualquer coisa que o Império jogar nele. Motores ágeis dão ao X-wing uma vantagem durante os dogfights, e ele pode fazer saltos de longo alcance com seu hiperdrive e seu co-piloto droide astromecânico. Luke Skywalker é famoso por destruir a Estrela da Morte por trás dos controles de um asa-X."
+}

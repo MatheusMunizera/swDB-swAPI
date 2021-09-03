@@ -1,0 +1,22 @@
+{
+  "id": 21,
+  "name": "Eriadu",
+  "rotation_period": "24",
+  "orbital_period": "360",
+  "diameter": "13490",
+  "climate": "polluted",
+  "gravity": "1 standard",
+  "terrain": "cityscape",
+  "surface_water": "unknown",
+  "population": "22000000000",
+  "residents": [
+    "Wilhuff Tarkin"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-10T16:26:54.384000Z",
+  "edited": "2014-12-20T20:58:18.454000Z",
+  "image": "https://static.wikia.nocookie.net/starwars/images/7/75/Eriadu_AoRGMT.png",
+  "resume": "Eriadu era um planeta na Orla Externa. O planeta apresentava montanhas e selvas e tinha uma mortalha negra. A principal indústria e exportação de Eriadu girava em torno do minério de lommite, que era abundante no planeta. Eriadu também era o mundo natal da família Tarkin, incluindo Grand Moff Wilhuff Tarkin ."
+}

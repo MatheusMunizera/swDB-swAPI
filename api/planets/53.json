@@ -1,0 +1,22 @@
+{
+  "id": 53,
+  "name": "Concord Dawn",
+  "rotation_period": "unknown",
+  "orbital_period": "unknown",
+  "diameter": "unknown",
+  "climate": "unknown",
+  "gravity": "unknown",
+  "terrain": "jungles, forests, deserts",
+  "surface_water": "unknown",
+  "population": "unknown",
+  "residents": [
+    "Jango Fett"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T16:54:39.909000Z",
+  "edited": "2014-12-20T20:58:18.512000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/concord-dawn_4277a880.jpeg",
+  "resume": "Concord Dawn era um sistema sob controle Mandaloriano, liderado pelo lendário guerreiro Fenn Rau e seu grupo de Protetores. Enquanto Rau entrava em um acordo com o Império, ele finalmente concedeu aos rebeldes passagem segura pelo sistema Concord Dawn."
+}

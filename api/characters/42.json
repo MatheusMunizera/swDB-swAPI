@@ -1,0 +1,24 @@
+{
+  "id": 42,
+  "name": "Quarsh Panaka",
+  "height": 1.83,
+  "gender": "male",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Quarsh_Panaka",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/7/72/PanakaHS-TPM.png",
+  "died": -3,
+  "diedLocation": "onoam",
+  "species": "human",
+  "hairColor": "black, later with flecks of gray",
+  "eyeColor": "brown",
+  "skinColor": "dark",
+  "affiliations": [
+    "Royal House of Naboo",
+    "Royal Naboo Security Forces",
+    "Galactic Republic",
+    "Republic Special Task Force",
+    "Galactic Empire"
+  ],
+  "born": 62,
+  "resume": "O protetor leal da Rainha Amidala durante a crise de invasão da Federação do Comércio foi o Capitão Panaka. Panaka era freqüentemente referido como o olho mais rápido em Naboo por sua atenção aos detalhes e dedicação abnegada à segurança da Rainha. Panaka comandou uma equipe de guardas do palácio real e soldados de segurança estacionados em Theed. Durante a invasão da Federação de Comércio, Panaka ficou perto da Rainha, garantindo sua proteção contra os planos dos Neimoidianos. Sua lealdade era tal que ele questionaria abertamente a estratégia dos Cavaleiros Jedi se pensasse que de alguma forma colocaria Amidala em perigo."
+}

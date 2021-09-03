@@ -1,0 +1,21 @@
+{
+  "id": 77,
+  "name": "San Hill",
+  "height": 1.91,
+  "gender": "male",
+  "homeworld": "scipio",
+  "wiki": "http://starwars.wikia.com/wiki/San_Hill",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/san-hill_852a226d.jpeg",
+  "died": -19,
+  "diedLocation": "mustafar",
+  "species": "muun",
+  "eyeColor": "yellow",
+  "skinColor": "pale",
+  "affiliations": [
+    "InterGalactic Banking Clan",
+    "Muunilinst Banking Clan",
+    "Confederacy of Independent Systems",
+    "Separatist Council"
+  ],
+  "resume": "San Hill era um homem Muun que era o presidente do Clã Bancário InterGaláctico no início das Guerras Clônicas e assinou o tratado do Conde Dooku. Ele serviu como representante do IG no Conselho Separatista até ser assassinado sem cerimônia pelo Lorde Sith Darth Vader logo após o fim da guerra."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 24,
+  "name": "Death Star",
+  "model": "DS-1 Orbital Battle Station",
+  "manufacturer": "Imperial Department of Military Research, Sienar Fleet Systems",
+  "cost_in_credits": "1000000000000",
+  "length": "120000",
+  "max_atmosphering_speed": "n/a",
+  "crew": "342,953",
+  "passengers": "843,342",
+  "cargo_capacity": "1000000000000",
+  "consumables": "3 years",
+  "films": [
+    "A New Hope"
+  ],
+  "created": "2014-12-10T16:36:50.509000Z",
+  "hyperdrive_rating": 4,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/Death-Star-I-copy_36ad2500.jpeg",
+  "resume": "A Estrela da Morte era a arma definitiva do Império: uma estação espacial do tamanho da lua com a capacidade de destruir um planeta inteiro. Mas o imperador e oficiais imperiais como Grand Moff Tarkin subestimaram a tenacidade da Aliança Rebelde, que se recusou a se curvar a esse terror tecnológico"
+}

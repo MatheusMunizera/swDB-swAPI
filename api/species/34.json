@@ -1,0 +1,23 @@
+{
+  "id": 34,
+  "name": "Muun",
+  "classification": "mammal",
+  "resume": "Os muuns eram uma espécie humanóide alta e magra do mundo congelado de Cipião, embora também tivessem uma grande colônia no planeta rico em minerais de Muunilinst. ",
+  "image": "https://static.wikia.nocookie.net/starwars/images/4/4f/San_hill.jpg",
+  "designation": "sentient",
+  "average_height": "190",
+  "skin_colors": "grey, white",
+  "hair_colors": "none",
+  "eye_colors": "black",
+  "average_lifespan": "100",
+  "language": "Muun",
+  "people": [
+    "San Hill"
+  ],
+  "films": [
+    "Attack of the Clones",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T17:58:19.088000Z",
+  "edited": "2014-12-20T21:36:42.207000Z"
+}

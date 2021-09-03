@@ -1,0 +1,30 @@
+{
+  "id": 2,
+  "name": "Droid",
+  "classification": "artificial",
+  "resume": "Droids, menos comumente conhecidos como robôs e autômatos, eram seres mecânicos que possuíam inteligência artificial. Eles eram usados ​​em uma variedade de funções e ambientes, freqüentemente aqueles considerados muito servis ou muito perigosos para outras espécies, mas também em campos que exigiam grande especialização e conhecimento.",
+  "image": "https://static.wikia.nocookie.net/starwars/images/f/fb/Droid_Trio_TLJ_alt.png",
+  "designation": "sentient",
+  "average_height": "n/a",
+  "skin_colors": "n/a",
+  "hair_colors": "n/a",
+  "eye_colors": "n/a",
+  "average_lifespan": "indefinite",
+  "language": "n/a",
+  "people": [
+    "C-3PO",
+    "R2-D2",
+    "R5-D4",
+    "IG-88"
+  ],
+  "films": [
+    "A New Hope",
+    "The Empire Strikes Back",
+    "Return of the Jedi",
+    "The Phantom Menace",
+    "Attack of the Clones",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T15:16:16.259000Z",
+  "edited": "2014-12-20T21:36:42.139000Z"
+}

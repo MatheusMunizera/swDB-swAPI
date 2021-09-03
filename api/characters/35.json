@@ -1,0 +1,29 @@
+{
+  "id": 35,
+  "name": "Padmé Amidala",
+  "height": 1.65,
+  "mass": 45,
+  "gender": "female",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Padm%C3%A9_Amidala",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b2/Padmegreenscrshot.jpg",
+  "born": 46,
+  "bornLocation": "naboo",
+  "died": -19,
+  "diedLocation": "polis massa (2 days after empire day)",
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "light brown",
+  "skinColor": "light",
+  "affiliations": [
+    "Apprentice Legislators",
+    "Legislative Youth Program",
+    "Royal House of Naboo",
+    "Galactic Republic",
+    "Loyalist Committee",
+    "Delegation of 2,000",
+    "Galactic Empire",
+    "Imperial Senate"
+  ],
+  "resume": "Padmé Amidala foi uma líder corajosa e esperançosa, servindo como Rainha e então Senadora de Naboo - e também era hábil com um blaster. Apesar de seus ideais e de tudo que ela fez pela causa da paz, seu casamento secreto e proibido com o Jedi Anakin Skywalker provaria ter consequências terríveis para a galáxia."
+}

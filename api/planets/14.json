@@ -1,0 +1,23 @@
+{
+  "id": 14,
+  "name": "Kashyyyk",
+  "rotation_period": "26",
+  "orbital_period": "381",
+  "diameter": "12765",
+  "climate": "tropical",
+  "gravity": "1 standard",
+  "terrain": "jungle, forests, lakes, rivers",
+  "surface_water": "60",
+  "population": "45000000",
+  "residents": [
+    "Chewbacca",
+    "Tarfful"
+  ],
+  "films": [
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T13:32:00.124000Z",
+  "edited": "2014-12-20T20:58:18.442000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_kasyyyk_01_169_aa13a490.jpeg",
+  "resume": "Kashyyyk é o planeta natal Wookiee, coberto por uma densa floresta. Embora os wookiees construam suas casas nas árvores do planeta, eles não são uma espécie primitiva, e a arquitetura Kashyyyk incorpora tecnologia sofisticada. Uma das últimas batalhas das Guerras Clônicas foi travada aqui sob a liderança de Yoda, com Wookiees e clones lutando contra o exército dróide Separatista - até que o Imperador emitiu a Ordem 66, ordenando aos clones que massacrassem todos os Jedi. Yoda sobreviveu, no entanto, com a ajuda dos nativos Chewbacca e Tarfful, que usaram uma nave oculta para evacuar o Mestre Jedi do planeta."
+}

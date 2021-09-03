@@ -1,0 +1,22 @@
+{
+  "id": 60,
+  "name": "Umbara",
+  "rotation_period": "unknown",
+  "orbital_period": "unknown",
+  "diameter": "unknown",
+  "climate": "unknown",
+  "gravity": "unknown",
+  "terrain": "unknown",
+  "surface_water": "unknown",
+  "population": "unknown",
+  "residents": [
+    "Sly Moore"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T20:18:36.256000Z",
+  "edited": "2014-12-20T20:58:18.525000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_umbara_01_169_beef68c7.jpeg",
+  "resume": "Umbara, conhecido como Mundo das Sombras devido aos raios de seu sol nunca atingirem completamente sua superfície, é perpetuamente escuro. A vida selvagem nativa se adaptou para sobreviver nessa escuridão, tornando o planeta perpetuamente perigoso. Umbara já fez parte da República Galáctica, representada no Senado pelo senador Mee Deechi. Mais tarde, nas Guerras Clônicas, a lealdade do planeta vacilou e os nativos de Umbara se aliaram aos Separatistas, trazendo sua tecnologia extremamente avançada para a Aliança Separatista."
+}

@@ -1,0 +1,22 @@
+{
+  "id": 36,
+  "name": "Dathomir",
+  "rotation_period": "24",
+  "orbital_period": "491",
+  "diameter": "10480",
+  "climate": "temperate",
+  "gravity": "0.9",
+  "terrain": "forests, deserts, savannas",
+  "surface_water": "unknown",
+  "population": "5200",
+  "residents": [
+    "Darth Maul"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-19T18:00:40.142000Z",
+  "edited": "2014-12-20T20:58:18.480000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_dathomir_01_169_304c5db2.jpeg",
+  "resume": "Um planeta remoto, Dathomir está encharcado de luz vermelho-sangue de sua estrela central. O planeta tem continentes invadidos por vegetação retorcida, com florestas de árvores tortas carregadas por grandes frutos semelhantes a casulos. Ao lado de densos pântanos, estão as maciças fortalezas de pedra das Irmãs da Noite, um clã de bruxas. As Irmãs da Noite mantinham-se reservadas, mas ocasionalmente eram conhecidas por oferecer seus serviços àqueles que despertavam seus interesses. Longe das Irmãs da Noite viviam os Irmãos da Noite - um clã tatuado de guerreiros Zabrak eram subservientes às suas contrapartes femininas."
+}

@@ -1,0 +1,22 @@
+{
+  "id": 76,
+  "name": "Wat Tambor",
+  "height": 1.98,
+  "mass": 48,
+  "gender": "male",
+  "homeworld": "skako",
+  "wiki": "http://starwars.wikia.com/wiki/Wat_Tambor",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/a/a5/Wat_Tambor.png",
+  "died": -19,
+  "diedLocation": "mustafar",
+  "species": "skakoan",
+  "eyeColor": "black",
+  "skinColor": "green",
+  "affiliations": [
+    "Techno Union",
+    "Baktoid Armor Workshop",
+    "Confederacy of Independent Systems",
+    "Separatist Council"
+  ],
+  "resume": "O capataz da União Techno, Wat Tambor foi um dos líderes Separatistas originais e mais fervorosos, prometendo sua lealdade e seus exércitos de dróides de batalha ao Conde Dooku em uma reunião crucial em Geonosis. Mais tarde na guerra, Tambor foi nomeado emir de Ryloth. Sua ocupação era cruel, em que Tambor despojou os Twi'leks de todos os objetos de valor que pôde encontrar e, em seguida, bombardeou suas aldeias."
+}

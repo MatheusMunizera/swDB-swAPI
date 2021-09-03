@@ -1,0 +1,22 @@
+{
+  "id": 14,
+  "name": "Dug",
+  "classification": "mammal",
+  "resume": "Dugs eram uma espécie de mamífero agressivo nativa do planeta Malastare que usava seus membros superiores para locomoção e seus membros inferiores para lutar.",
+  "image": "https://static.wikia.nocookie.net/starwars/images/b/bd/Dug_NEGAS.jpg",
+  "designation": "sentient",
+  "average_height": "100",
+  "skin_colors": "brown, purple, grey, red",
+  "hair_colors": "none",
+  "eye_colors": "yellow, blue",
+  "average_lifespan": "unknown",
+  "language": "Dugese",
+  "people": [
+    "Sebulba"
+  ],
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-19T17:53:11.214000Z",
+  "edited": "2014-12-20T21:36:42.167000Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 40,
+  "name": "Naboo Royal Starship",
+  "model": "J-type 327 Nubian royal starship",
+  "manufacturer": "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives",
+  "cost_in_credits": "unknown",
+  "length": "76",
+  "max_atmosphering_speed": "920",
+  "crew": "8",
+  "passengers": "unknown",
+  "cargo_capacity": "unknown",
+  "consumables": "unknown",
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-19T17:45:03.506000Z",
+  "hyperdrive_rating": 1.8,
+  "image": "https://static.wikia.nocookie.net/starwars/images/9/9e/Naboo_Royal_Starship.png",
+  "resume": "A Naboo Royal Starship, uma nave estelar Nubian 327 modificada do tipo J, era a nave real da Rainha Padmé Amidala durante a Invasão de Naboo   Ela o usou para escapar da ocupação de Naboo pela Federação do Comércio, onde pousou em Tatooine para reparos, antes de seguir para Coruscant e, eventualmente, voltar para Naboo."
+}

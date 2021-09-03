@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "name": "Rodian",
+  "classification": "sentient",
+  "resume": "Rodianos eram humanóides de pele verde nativos do planeta Rodia. Durante as Guerras Clônicas, Rodia foi representado pelo senador Onaconda Farr na República Galáctica 's Senado .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/d/d3/Rodian_DICE.png",
+  "designation": "reptilian",
+  "average_height": "170",
+  "skin_colors": "green, blue",
+  "hair_colors": "n/a",
+  "eye_colors": "black",
+  "average_lifespan": "unknown",
+  "language": "Galatic Basic",
+  "people": [
+    "Greedo"
+  ],
+  "films": [
+    "A New Hope"
+  ],
+  "created": "2014-12-10T17:05:26.471000Z",
+  "edited": "2014-12-20T21:36:42.144000Z"
+}

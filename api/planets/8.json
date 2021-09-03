@@ -1,0 +1,35 @@
+{
+  "id": 8,
+  "name": "Naboo",
+  "rotation_period": "26",
+  "orbital_period": "312",
+  "diameter": "12120",
+  "climate": "temperate",
+  "gravity": "1 standard",
+  "terrain": "grassy hills, swamps, forests, mountains",
+  "surface_water": "12",
+  "population": "4500000000",
+  "residents": [
+    "R2-D2",
+    "Palpatine",
+    "Padmé Amidala",
+    "Jar Jar Binks",
+    "Roos Tarpals",
+    "Rugor Nass",
+    "Ric Olié",
+    "Quarsh Panaka",
+    "Gregar Typho",
+    "Cordé",
+    "Dormé"
+  ],
+  "films": [
+    "Return of the Jedi",
+    "The Phantom Menace",
+    "Attack of the Clones",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T11:52:31.066000Z",
+  "edited": "2014-12-20T20:58:18.430000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_naboo_01_169_6cd7e1e0.jpeg",
+  "resume": "Um mundo idílico perto da fronteira dos Territórios da Orla Externa, Naboo é habitada por humanos pacíficos conhecidos como Naboo e uma espécie indígena de anfíbios inteligentes chamados Gungans. A superfície de Naboo consiste em lagos pantanosos, planícies onduladas e colinas verdes. Seus centros populacionais são lindos - as cidades ribeirinhas de Naboo são repletas de arquitetura clássica e vegetação, enquanto os assentamentos subaquáticos Gungan são uma bela exibição da exótica tecnologia de bolhas hidrostáticas."
+}

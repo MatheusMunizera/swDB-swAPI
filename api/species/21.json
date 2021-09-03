@@ -1,0 +1,22 @@
+{
+  "id": 21,
+  "name": "Nautolan",
+  "classification": "amphibian",
+  "resume": "Os Nautolanos eram uma espécie humanóide do planeta Glee Anselm. Eles eram anfíbios e adaptados para sobreviver em ambientes hostis. A sociedade nautolana era em grande parte pacífica, mas eles estavam em desacordo com os Anselmi, uma espécie aparentada também nativa de seu planeta natal.",
+  "image": "https://static.wikia.nocookie.net/starwars/images/8/81/Kitfisto_detail.png",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "green, blue, brown, red",
+  "hair_colors": "none",
+  "eye_colors": "black",
+  "average_lifespan": "70",
+  "language": "Nautila",
+  "people": [
+    "Kit Fisto"
+  ],
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-20T10:18:58.610000Z",
+  "edited": "2014-12-20T21:36:42.181000Z"
+}

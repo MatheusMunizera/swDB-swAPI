@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "name": "Trandoshan",
+  "classification": "reptile",
+  "resume": "Trandoshans, também chamados de T'doshok, eram grandes humanóides bípedes reptilianos sencientes do planeta Trandosha, e eram renomados como grandes caçadores. Os trandoshanos adoravam a emoção de uma caça e eram conhecidos por embarcar em um rito de passagem relacionado à caça. ",
+  "image": "https://static.wikia.nocookie.net/starwars/images/7/72/Bossk_full_body.png",
+  "designation": "sentient",
+  "average_height": "200",
+  "skin_colors": "brown, green",
+  "hair_colors": "none",
+  "eye_colors": "yellow, orange",
+  "average_lifespan": "unknown",
+  "language": "Dosh",
+  "people": [
+    "Bossk"
+  ],
+  "films": [
+    "The Empire Strikes Back"
+  ],
+  "created": "2014-12-15T13:07:47.704000Z",
+  "edited": "2014-12-20T21:36:42.151000Z"
+}

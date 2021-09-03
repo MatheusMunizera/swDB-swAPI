@@ -1,0 +1,23 @@
+{
+  "id": 55,
+  "name": "Adi Gallia",
+  "height": 1.84,
+  "mass": 50,
+  "gender": "female",
+  "homeworld": "coruscant",
+  "wiki": "http://starwars.wikia.com/wiki/Adi_Gallia",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/b/ba/AdiGallia.jpg",
+  "died": -20,
+  "diedLocation": "florrum",
+  "species": "tholothian",
+  "eyeColor": "blue",
+  "skinColor": "dark (with blue patches)",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Jedi assault team",
+    "Galactic Republic",
+    "Grand Army of the Republic"
+  ],
+  "resume": "O Mestre Jedi Adi Gallia foi membro do Alto Conselho da Ordem durante as Guerras Clônicas. Ela e os outros membros daquele corpo governante se reuniam em um templo bem acima da paisagem de Coruscant, decidindo questões importantes dos Jedi. Severa e concentrada, ela comentava sobre as táticas mais ultrajantes executadas por Anakin Skywalker ou Obi-Wan Kenobi no decorrer da guerra, mas raramente condenava suas ações eficazes. Embora não fosse tão impetuoso quanto Anakin, Adi Gallia era conhecido por ser um guerreiro agressivo que não tinha nenhum problema em levar a luta até o inimigo."
+}

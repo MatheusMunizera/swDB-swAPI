@@ -1,0 +1,24 @@
+{
+  "id": 64,
+  "name": "Luminara Unduli",
+  "height": 1.76,
+  "mass": 56.2,
+  "gender": "female",
+  "homeworld": "mirial",
+  "wiki": "http://starwars.wikia.com/wiki/Luminara_Unduli",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/2/21/LuminaraHS-SWE_%28new%29.png",
+  "died": 66,
+  "species": "mirialan",
+  "hairColor": "black",
+  "eyeColor": "royal-blue",
+  "skinColor": "green (with black tattoos)",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi assault team",
+    "Galactic Republic",
+    "41st Elite Corps"
+  ],
+  "apprentices": "Barriss Offee",
+  "born": 58,
+  "resume": "Mirialan de pele verde, Luminara Unduli serviu à Ordem Jedi durante os anos finais da República Galáctica e treinou o capaz Padawan Barriss Offee. Uma mestre Jedi séria, Luminara lutou nas batalhas das Guerras Clônicas, como Geonosis e Kashyyyk, e acredita-se que tenha morrido durante a Ordem 66. Na realidade, ela foi levada à custódia Imperial e executada, com transmissões holográficas de seu cativeiro usadas como isca para capturar o fugitivo Jedi."
+}

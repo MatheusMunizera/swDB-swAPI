@@ -1,0 +1,23 @@
+{
+  "id": 23,
+  "name": "Tholothian",
+  "classification": "mammal",
+  "resume": "Tholothians eram as espécies nativas de Tholoth. Adi Gallia e Stass Allie, ambos membros da Ordem Jedi, eram Tholothianos, embora os pais de Gallia, ambos diplomatas, tivessem nascido em Corellia. Katooni, um Jedi youngling também foi um Tholothian.",
+  "image": "https://static.wikia.nocookie.net/starwars/images/b/ba/Adigalliafull.jpg",
+  "designation": "sentient",
+  "average_height": "unknown",
+  "skin_colors": "dark",
+  "hair_colors": "unknown",
+  "eye_colors": "blue, indigo",
+  "average_lifespan": "unknown",
+  "language": "unknown",
+  "people": [
+    "Adi Gallia"
+  ],
+  "films": [
+    "The Phantom Menace",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T10:29:13.798000Z",
+  "edited": "2014-12-20T21:36:42.186000Z"
+}

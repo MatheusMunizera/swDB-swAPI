@@ -1,0 +1,19 @@
+{
+  "id": 39,
+  "name": "Ric Olié",
+  "height": 1.83,
+  "gender": "male",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Ric_Oli%C3%A9",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4c/RicOlieHS-SWE.png",
+  "species": "human",
+  "hairColor": "light brown",
+  "eyeColor": "bluish green",
+  "affiliations": [
+    "Royal House of Naboo",
+    "Royal Naboo Security Forces",
+    "Bravo Flight"
+  ],
+  "skinColor": "fair",
+  "resume": "Um veterano do Naboo Space Fighter Corps, Ric Olie era o líder do Bravo Flight e teve a honra de voar com a Royal Starship da Rainha Amidala de e para Naboo. Respondendo diretamente ao capitão Panaka, Olie era capaz de pilotar qualquer nave em Naboo. Durante a Batalha de Naboo, o esquadrão de caças N-1 de Olie teve sucesso em destruir a Nave de Controle Droid da Federação do Comércio com a ajuda de Anakin Skywalker."
+}

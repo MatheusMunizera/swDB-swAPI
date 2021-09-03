@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "name": "Ewok",
+  "classification": "mammal",
+  "resume": "Ewoks eram uma espécie diminuta de bípedes peludos nativos da lua da floresta de Endor. Eles foram mais notáveis ​​por ajudar a Aliança Rebelde a derrotar as forças do Império Galáctico na Batalha de Endor, permitindo que o gerador de escudo fosse destruído e, por sua vez, a Estação de Batalha Móvel DS-2 Death Star II .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/a/a8/Ewoks_Encyclopedia.png",
+  "designation": "sentient",
+  "average_height": "100",
+  "skin_colors": "brown",
+  "hair_colors": "white, brown, black",
+  "eye_colors": "orange, brown",
+  "average_lifespan": "unknown",
+  "language": "Ewokese",
+  "people": [
+    "Wicket Systri Warrick"
+  ],
+  "films": [
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-18T11:22:00.285000Z",
+  "edited": "2014-12-20T21:36:42.155000Z"
+}

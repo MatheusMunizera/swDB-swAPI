@@ -1,0 +1,18 @@
+{
+  "id": 40,
+  "name": "Watto",
+  "height": 1.37,
+  "gender": "male",
+  "homeworld": "toydaria",
+  "wiki": "http://starwars.wikia.com/wiki/Watto",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/WattoHS.jpg",
+  "species": "toydarian",
+  "eyeColor": "orange",
+  "skinColor": "blue",
+  "affiliations": [
+    "Watto's shop",
+    "Mos Espa"
+  ],
+  "hairColor": "black",
+  "resume": "Watto era um negociante de lixo Toydarian em Mos Espa que comprou Shmi Skywalker e seu filho Anakin de Gardulla, o Hutt. Um jogador inveterado, ele patrocinou Anakin em várias corridas de Pod, mas muitas vezes apostou contra seu próprio escravo, que era talentoso, mas inexperiente. Watto perdeu Anakin para Qui-Gon Jinn em uma aposta na corrida de Boonta Eve. Anos depois, ele vendeu Shmi para o produtor de umidade Cliegg Lars."
+}

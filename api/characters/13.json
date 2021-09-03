@@ -1,0 +1,26 @@
+{
+  "id": 13,
+  "name": "Chewbacca",
+  "height": 2.28,
+  "mass": 112,
+  "gender": "male",
+  "homeworld": "kashyyyk",
+  "wiki": "http://starwars.wikia.com/wiki/Chewbacca",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/4/48/Chewbacca_TLJ.png",
+  "born": 200,
+  "bornLocation": "kashyyyk",
+  "species": "wookiee",
+  "hairColor": "brown",
+  "eyeColor": "blue",
+  "affiliations": [
+    "Galactic Republic",
+    "Alliance to Restore the Republic",
+    "Leia Organa's team",
+    "Pathfinders",
+    "Endor strike team",
+    "Bright Tree tribe",
+    "New Republic",
+    "Resistance"
+  ],
+  "resume": "Um lendário guerreiro Wookiee e co-piloto de longa data de Han Solo, Chewbacca continua a servir como fiel primeiro imediato para realizar missões ousadas contra a Primeira Ordem por trás dos controles do Millennium Falcon. Conhecido como Chewie por seus amigos mais próximos, ele fazia parte de um grupo de rebeldes que restaurou a liberdade à galáxia durante o reinado do Império Galáctico. Conhecido por seu temperamento explosivo e precisão com um lançador de arco, Chewie também tem um grande coração e lealdade inabalável para com seus amigos."
+}

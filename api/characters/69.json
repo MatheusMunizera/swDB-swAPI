@@ -1,0 +1,22 @@
+{
+  "id": 69,
+  "name": "Jango Fett",
+  "height": 1.83,
+  "mass": 79,
+  "gender": "male",
+  "homeworld": "concord dawn",
+  "wiki": "http://starwars.wikia.com/wiki/Jango_Fett",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/5/56/JangoInfobox.png",
+  "died": -22,
+  "diedLocation": "geonosis",
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "skinColor": "tan",
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Tyranus"
+  ],
+  "born": 66,
+  "resume": "Nos anos finais da República, Jango Fett foi considerado o melhor caçador de recompensas da galáxia. Um atirador proficiente e combatente desarmado, Fett estava coberto com uma armadura elegante que escondia seu rosto cheio de cicatrizes. Seu equipamento de combate apresentava um arsenal de armas, incluindo lâminas de pulso retráteis, uma armadilha, pistolas blaster duplas e outras ferramentas mais exóticas do comércio. Em combate, Jango usou seu jetpack para ganhar vantagem de velocidade e altura sobre seus inimigos. A mochila também trazia uma surpresa desagradável - um foguete explosivo poderia ser lançado a partir dela. Para viagens interestelares, Jango viajou a bordo de sua nave estelar, Slave I."
+}

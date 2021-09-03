@@ -1,0 +1,41 @@
+{
+  "name": "Rogue One",
+  "id": 8,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/rogueone_onesheeta_1000_309ed8f6.jpeg",
+  "trailer": "https://youtu.be/frdj1zb9sMY",
+  "resume": "Da Lucasfilm vem o primeiro dos filmes independentes de Star Wars, “Rogue One: A Star Wars Story,” uma aventura épica totalmente nova. Em uma época de conflito, um grupo de heróis improváveis ​​se reúne em uma missão para roubar os planos da Estrela da Morte, a arma de destruição final do Império. Este evento-chave na linha do tempo de Star Wars reúne pessoas comuns que optam por fazer coisas extraordinárias e, ao fazê-lo, tornam-se parte de algo maior do que elas.",
+  "opening_crawl": "Não há",
+  "director": "Gareth Edwards",
+  "producer": "Kathleen Kennedy, Tony To, Allison Shearmur, John Knoll , Simon Emanuel, Jason McGatlin, Kiri Hart, John Swartz",
+  "release_date": "2016-16-25",
+  "characters": [
+    "Jyn Erso",
+    "R2-D2",
+    "Leia Organa",
+    "Pao",
+    "Chirrut Imwe",
+    "Edrio Two Tubes",
+    "C2-B5",
+    "Se-2 (Essie)",
+    "General Merrick"
+  ],
+  "planets": [
+    "Scarif",
+    "Yavin 4",
+    "Mustafar",
+    "Jedha",
+    "Wobani"
+  ],
+  "vehicles": [
+    "X-Wing StarFighter",
+    "AT-ACT",
+    "TIE Striker",
+    "U-Wing",
+    "Hammerhead Corvette",
+    "TIE/LN starfighter"
+  ],
+  "species": [
+    "Human",
+    "Droid"
+  ]
+}

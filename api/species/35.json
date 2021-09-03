@@ -1,0 +1,23 @@
+{
+  "id": 35,
+  "name": "Togruta",
+  "classification": "mammal",
+  "resume": "Os Togrutas eram uma espécie humanóide senciente, caracterizada por seus tons de pele coloridos, grandes montrais, caudas na cabeça e pigmentos faciais brancos. Eles vieram do planeta Shili, na Região de Expansão. ",
+  "image": "https://static.wikia.nocookie.net/starwars/images/a/af/ShaakTi-TCWs3BR1.png",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "red, white, orange, yellow, green, blue",
+  "hair_colors": "none",
+  "eye_colors": "red, orange, yellow, green, blue, black",
+  "average_lifespan": "94",
+  "language": "Togruti",
+  "people": [
+    "Shaak Ti"
+  ],
+  "films": [
+    "Attack of the Clones",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T18:44:03.246000Z",
+  "edited": "2014-12-20T21:36:42.209000Z"
+}

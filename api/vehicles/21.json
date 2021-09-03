@@ -1,0 +1,22 @@
+{
+  "id": 21,
+  "name": "CR90 corvette",
+  "model": "CR90 corvette",
+  "manufacturer": "Corellian Engineering Corporation",
+  "cost_in_credits": "3500000",
+  "length": "150",
+  "max_atmosphering_speed": "950",
+  "crew": "30-165",
+  "passengers": "600",
+  "cargo_capacity": "3000000",
+  "consumables": "1 year",
+  "films": [
+    "A New Hope",
+    "Return of the Jedi",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T14:20:33.369000Z",
+  "hyperdrive_rating": 2,
+  "image": "https://static.wikia.nocookie.net/starwars/images/2/24/TantiveIV-TSWB.png",
+  "resume": "As corvetas CR90, também conhecidas como corvetas Corellian ou corredores de bloqueio, eram vasos consulares fabricados pela Corellian Engineering Corporation "
+}

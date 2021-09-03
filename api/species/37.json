@@ -1,0 +1,22 @@
+{
+  "id": 37,
+  "name": "Pau'an",
+  "classification": "mammal",
+  "resume": "Pau'ans foram magro, de pernas compridas humanóides de Utapau. Eles moravam nos fossos de seu planeta e domesticaram o varactyl local para cavalgar. Devido à sua longa vida, eles também eram conhecidos como os Antigos. ",
+  "image": "https://static.wikia.nocookie.net/starwars/images/2/22/Pau%27an.jpg",
+  "designation": "sentient",
+  "average_height": "190",
+  "skin_colors": "grey",
+  "hair_colors": "none",
+  "eye_colors": "black",
+  "average_lifespan": "700",
+  "language": "Utapese",
+  "people": [
+    "Tion Medon"
+  ],
+  "films": [
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T20:35:06.777000Z",
+  "edited": "2014-12-20T21:36:42.212000Z"
+}

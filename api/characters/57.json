@@ -1,0 +1,19 @@
+{
+  "id": 57,
+  "name": "Yarael Poof",
+  "height": 2.64,
+  "gender": "male",
+  "homeworld": "quermia",
+  "wiki": "http://starwars.wikia.com/wiki/Yarael_Poof",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/6/66/Yarael_Poof_Canon.jpeg",
+  "died": -27,
+  "species": "quermian",
+  "eyeColor": "red",
+  "skinColor": "pasty white",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Galactic Republic"
+  ],
+  "resume": "Um Quermian magro e de pescoço longo, Yarael Poof tinha dois cérebros e quatro braços, que mantinha escondidos sob suas vestes Jedi. Poof era um membro do Conselho Jedi durante os anos finais da República, e estava na Câmara do Conselho Jedi quando Qui-Gon Jinn voltou de Tatooine com a extraordinária notícia de que o antigo Sith havia retornado para desafiar os Jedi mais uma vez."
+}

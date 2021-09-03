@@ -1,0 +1,26 @@
+{
+  "id": 25,
+  "name": "Lando Calrissian",
+  "height": 1.77,
+  "mass": 79,
+  "gender": "male",
+  "homeworld": "socorro",
+  "wiki": "http://starwars.wikia.com/wiki/Lando_Calrissian",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/8/8f/Lando_ROTJ.png",
+  "born": 30,
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "skinColor": "dark",
+  "affiliations": [
+    "Cloud City colony",
+    "Galactic Empire",
+    "Alliance to Restore the Republic",
+    "Gold Squadron",
+    "New Republic",
+    "New Republic military",
+    "Uprising",
+    "Calrissian Enterprises"
+  ],
+  "resume": "Lando Calrissian pode ter chegado tarde na luta contra o Império, mas seu papel na destruição da segunda Estrela da Morte cimentou sua reputação como herói. Na juventude, Lando era um esportista em busca de fortuna nas mesas de sabacc. Depois de perder seu amado navio para Han Solo, Lando passou anos vivendo uma vida de luxo e perseguindo esquemas de enriquecimento rápido, com resultados desiguais. Ele se tornou semi-respeitável como o administrador barão da Cidade das Nuvens, apenas para ser atraído para a luta contra o Império. Depois de uma tragédia pessoal, Lando buscou consolo no isolamento em Pasaana, sem saber que a galáxia precisaria dele novamente."
+}

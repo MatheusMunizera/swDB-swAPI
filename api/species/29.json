@@ -1,0 +1,24 @@
+{
+  "id": 29,
+  "name": "Mirialan",
+  "classification": "mammal",
+  "resume": "Mirialans eram uma espécie quase humana nativa do planeta Mirial. Eles tinham tons de pele variando de verde e amarelo a rosa ou roxo. A maioria tinha tatuagens geométricas pretas tradicionais em seus rostos, que simbolizavam realizações pessoais. ",
+  "image": "https://static.wikia.nocookie.net/starwars/images/b/b7/Mirialan_Diplomat.png",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "yellow, green",
+  "hair_colors": "black, brown",
+  "eye_colors": "blue, green, red, yellow, brown, orange",
+  "average_lifespan": "unknown",
+  "language": "Mirialan",
+  "people": [
+    "Luminara Unduli",
+    "Barriss Offee"
+  ],
+  "films": [
+    "Attack of the Clones",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T16:46:48.290000Z",
+  "edited": "2014-12-20T21:36:42.197000Z"
+}

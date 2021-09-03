@@ -1,0 +1,22 @@
+{
+  "id": 22,
+  "name": "Boba Fett",
+  "height": 1.83,
+  "mass": 78,
+  "gender": "male",
+  "homeworld": "kamino",
+  "wiki": "http://starwars.wikia.com/wiki/Boba_Fett",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/7/79/Boba_Fett_HS_Fathead.png",
+  "born": "Shortly after the Battle of Naboo",
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "skinColor": "tan",
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Boba Fett's syndicate",
+    "Jabba Desilijic Tiure's criminal empire",
+    "Galactic Empire"
+  ],
+  "resume": "Com sua armadura Mandaloriana customizada, armamento mortal e comportamento silencioso, Boba Fett era um dos mais temidos caçadores de recompensas da galáxia. Um clone genético de seu “pai”, o caçador de recompensas Jango Fett, Boba aprendeu habilidades marciais e de combate desde muito jovem. Ao longo de sua carreira, que incluiu contratos para o Império e o submundo do crime, ele se tornou uma lenda."
+}

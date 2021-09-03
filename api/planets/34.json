@@ -1,0 +1,22 @@
+{
+  "id": 34,
+  "name": "Toydaria",
+  "rotation_period": "21",
+  "orbital_period": "184",
+  "diameter": "7900",
+  "climate": "temperate",
+  "gravity": "1",
+  "terrain": "swamps, lakes",
+  "surface_water": "unknown",
+  "population": "11000000",
+  "residents": [
+    "Watto"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-19T17:47:54.403000Z",
+  "edited": "2014-12-20T20:58:18.476000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_toydaria_01_169_70b20e0e.jpeg",
+  "resume": "Toydaria é um mundo de névoa, pântano e floresta. Ele desempenhou um papel estratégico fundamental nas Guerras Clônicas, já que o rei do planeta, Katuunko, optou por permanecer neutro no conflito em curso. Após uma visita de Jar Jar Binks e Bail Organa, no entanto, o rei jurou lealdade à República e permitiu que Toydaria fosse usada como um ponto intermediário para entrega de suprimentos aos clones."
+}

@@ -1,0 +1,22 @@
+{
+  "id": 59,
+  "name": "Mas Amedda",
+  "height": 1.96,
+  "gender": "male",
+  "homeworld": "champala",
+  "wiki": "http://starwars.wikia.com/wiki/Mas_Amedda",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Mas_Amedda_SWCT.png",
+  "species": "chagrian",
+  "eyeColor": "blue",
+  "skinColor": "blue",
+  "affiliations": [
+    "Galactic Republic",
+    "Galactic Senate",
+    "Office of the Chancellor",
+    "Strategic Advisory Cell",
+    "Galactic Empire",
+    "Imperial Ruling Council",
+    "Coruscant provisional government"
+  ],
+  "resume": "Mas Amedda foi o Vice-Presidente do Senado Galáctico durante o mandato do Chanceler Valorum, uma posição que ele continuou a ocupar enquanto o Chanceler Palpatine transformava a República no Império Galáctico. A voz estrondosa de Amedda freqüentemente clamava por ordem quando a natureza partidária do governo da República degenerava em brigas inúteis. Em um gesto estranho de autoridade, ele frequentemente pontuava essas ligações com um piscar de sua língua comprida e bifurcada."
+}

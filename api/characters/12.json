@@ -1,0 +1,31 @@
+{
+  "id": 12,
+  "name": "Wilhuff Tarkin",
+  "height": 1.82,
+  "gender": "male",
+  "homeworld": "eriadu",
+  "wiki": "http://starwars.wikia.com/wiki/Wilhuff_Tarkin",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c1/Tarkininfobox.jpg",
+  "born": 64,
+  "died": 0,
+  "diedLocation": " death star, yavin system",
+  "species": "human",
+  "hairColor": "auburn, later gray",
+  "eyeColor": "gray-blue",
+  "skinColor": "light",
+  "affiliations": [
+    "Galactic Republic",
+    "Sullust Sector Spacefarers Academy",
+    "Judicial Forces",
+    "Republic Navy",
+    "Strategic Advisory Cell",
+    "Outland Regions Security Force",
+    "Outland's anti-pirate taskforce",
+    "Galactic Empire",
+    "Battle Station Command",
+    "Imperial Officer Corps",
+    "Imperial Navy",
+    "Tarkin Initiative"
+  ],
+  "resume": "Um proponente ambicioso e implacável do poder militar, Wilhuff Tarkin tornou-se o favorito do Chanceler Supremo Palpatine e ascendeu rapidamente na hierarquia imperial. Pouco depois da criação do Império, ele foi encarregado da construção da Estrela da Morte. Tarkin viu a Estrela da Morte como uma forma de esmagar todos os dissidentes ao governo do Império - o medo do superlaser destruidor de planetas da estação manteria os sistemas estelares da galáxia alinhados. Ele demonstrou o poder da estação destruindo Alderaan, mas morreu logo depois, quando a própria Estrela da Morte foi destruída."
+}

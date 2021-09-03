@@ -1,0 +1,27 @@
+{
+  "id": 6,
+  "name": "Yoda's species",
+  "classification": "mammal",
+  "resume": "A espécie à qual o lendário Grande Mestre Jedi Yoda pertencia era antiga e envolta em mistério. Membros desta espécie raramente eram vistos em qualquer lugar da galáxia. Os poucos membros desta espécie vistos na galáxia eram todos sensíveis à Força, e o mundo natal da espécie e o nome eram desconhecidos.",
+  "image": "https://static.wikia.nocookie.net/starwars/images/c/c3/Yoda_TPM_RotS.png",
+  "designation": "sentient",
+  "average_height": "66",
+  "skin_colors": "green, yellow",
+  "hair_colors": "brown, white",
+  "eye_colors": "brown, green, yellow",
+  "average_lifespan": "900",
+  "language": "Galactic basic",
+  "people": [
+    "Yoda"
+  ],
+  "films": [
+    "The Empire Strikes Back",
+    "Return of the Jedi",
+    "The Phantom Menace",
+    "Attack of the Clones",
+    "Revenge of the Sith",
+    ""
+  ],
+  "created": "2014-12-15T12:27:22.877000Z",
+  "edited": "2014-12-20T21:36:42.148000Z"
+}

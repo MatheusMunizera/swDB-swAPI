@@ -1,0 +1,20 @@
+{
+  "id": 15,
+  "name": "Multi-Troop Transport",
+  "model": "Multi-Troop Transport",
+  "manufacturer": "Baktoid Armor Workshop",
+  "cost_in_credits": "138000",
+  "length": "31",
+  "max_atmosphering_speed": "35",
+  "crew": "4",
+  "passengers": "112",
+  "cargo_capacity": "12000",
+  "consumables": "unknown",
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-19T17:12:04.400000Z",
+  "hyperdrive_rating": null,
+  "image": "https://static.wikia.nocookie.net/starwars/images/a/ab/MTT_BF2.png",
+  "resume": "O Multi-Troop Transport (MTT) era um veículo de transporte repulsorlift fortemente blindado fabricado pela Baktoid Armor Workshop e usado pela Federação do Comércio durante a invasão de Naboo e posteriormente pela Confederação de Sistemas Independentes para transportar dróides de batalha da série B1 antes e durante o Clone Wars"
+}

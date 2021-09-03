@@ -1,0 +1,20 @@
+{
+  "id": 36,
+  "name": "B-wing",
+  "model": "A/SF-01 B-wing starfighter",
+  "manufacturer": "Slayn & Korpil",
+  "cost_in_credits": "220000",
+  "length": "16.9",
+  "max_atmosphering_speed": "950",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "45",
+  "consumables": "1 week",
+  "films": [
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-18T11:18:04.763000Z",
+  "hyperdrive_rating": 2,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_bwingfighter_01_169_460cc528.jpeg",
+  "resume": "Talvez o caça estelar de aparência mais estranha da frota da Aliança Rebelde, o caça B-wing é tão poderoso quanto desajeitado. A estrutura do navio é quase inteiramente ocupada por seu aerofólio principal, que abriga uma cabine cilíndrica em uma extremidade, um conjunto de motores no centro e um compartimento de armas pesadas em sua base. Localizado logo abaixo do cluster do motor está um par de S-foils que podem ser implantados para estender o arco de disparo de canhões de laser gêmeos. O pod de comando do B-wing possui um sistema de controle giroscópico exclusivo. O piloto pode orientá-lo para que fique sempre nivelado com a linha do horizonte. Não importa em que direção a asa B possa manobrar lateralmente, seu piloto permanece em pé."
+}

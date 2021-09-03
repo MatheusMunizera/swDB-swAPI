@@ -1,0 +1,22 @@
+{
+  "id": 27,
+  "name": "Ord Mantell",
+  "rotation_period": "26",
+  "orbital_period": "334",
+  "diameter": "14050",
+  "climate": "temperate",
+  "gravity": "1 standard",
+  "terrain": "plains, seas, mesas",
+  "surface_water": "10",
+  "population": "4000000000",
+  "residents": [
+    "Coming Soon"
+  ],
+  "films": [
+    "The Empire Strikes Back"
+  ],
+  "created": "2014-12-15T12:23:41.661000Z",
+  "edited": "2014-12-20T20:58:18.464000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/image_cdc70c91.jpeg",
+  "resume": "Nos últimos dias da República, Ord Mantell abrigou uma base de operações para o sindicato do crime Black Sun. Durante as Guerras Clônicas, uma batalha foi travada no planeta entre os separatistas e o Shadow Collective, do qual Black Sun era um membro. Mais tarde, o general da Aliança Rebelde e ex-contrabandista Han Solo teve um encontro com um caçador de recompensas no planeta."
+}

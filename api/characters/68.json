@@ -1,0 +1,39 @@
+{
+  "id": 68,
+  "name": "Bail Prestor Organa",
+  "height": 1.91,
+  "gender": "male",
+  "homeworld": "alderaan",
+  "wiki": "http://starwars.wikia.com/wiki/Bail_Prestor_Organa",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Bail_Organa_Mug.jpg",
+  "born": 67,
+  "died": 0,
+  "diedLocation": "alderaan",
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "skinColor": "tan",
+  "era": [
+    "Rise of the Empire era",
+    "Rebellion era"
+  ],
+  "affiliations": [
+    "House of Organa",
+    "High Court of Alderaan",
+    "Galactic Republic",
+    "Galactic Senate",
+    "Loyalist Committee",
+    "Security Committee",
+    "Delegation of 2000",
+    "Galactic Empire",
+    "Imperial Senate",
+    "Finance Committee",
+    "Appropriations Committee",
+    "Intelligence Oversight Committee",
+    "Military Oversight Committee",
+    "Alderaanian Resistance",
+    "Kota's Militia",
+    "Alliance to Restore the Republic"
+  ],
+  "resume": "Bail Organa, membro da família real de Alderaan e representante do planeta no Senado da República, conquistou o respeito de Coruscant por sua honestidade e compromisso com a justiça. Antes das Guerras Clônicas, Bail serviu ao lado da Senadora Padmé Amidala como membro do Comitê Legalista do Chanceler Palpatine. Os dois tornaram-se amigos íntimos e recrutaram aliados com ideias semelhantes para evitar as alarmantes tentativas de Palpatine pelo poder. No final da guerra, Bail Organa adotou a filha de Padmé, Leia e a criou como uma princesa Alderaaniana. Enquanto representava Alderaan no Senado Imperial, ele trabalhou secretamente com aliados como Mon Mothma e Ahsoka Tano para ajudar as células rebeldes espalhadas pela galáxia, trabalhando para o dia em que uma rebelião unificada pudesse emergir. Bail morreu quando a Estrela da Morte destruiu seu planeta natal."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 17,
+  "name": "Single Trooper Aerial Platform",
+  "model": "Single Trooper Aerial Platform",
+  "manufacturer": "Baktoid Armor Workshop",
+  "cost_in_credits": "2500",
+  "length": "2",
+  "max_atmosphering_speed": "400",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "none",
+  "consumables": "none",
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-19T17:15:09.511000Z",
+  "hyperdrive_rating": null,
+  "image": "https://static.wikia.nocookie.net/starwars/images/c/ce/STAP-SWE.png",
+  "resume": "O Single Trooper Aerial Platform, ou simplesmente STAP, era um repulsor usado pela Federação do Comércio e mais tarde pela Confederação de Sistemas Independentes   "
+}

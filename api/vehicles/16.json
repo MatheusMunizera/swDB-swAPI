@@ -1,0 +1,20 @@
+{
+  "id": 16,
+  "name": "Armored Assault Tank",
+  "model": "Armoured Assault Tank",
+  "manufacturer": "Baktoid Armor Workshop",
+  "cost_in_credits": "unknown",
+  "length": "9.75",
+  "max_atmosphering_speed": "55",
+  "crew": "4",
+  "passengers": "6",
+  "cargo_capacity": "unknown",
+  "consumables": "unknown",
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-19T17:13:29.799000Z",
+  "hyperdrive_rating": null,
+  "image": "https://static.wikia.nocookie.net/starwars/images/2/2d/AAT_swtcgvg.jpg",
+  "resume": "O Tanque de Assalto Blindado ( AAT-1 ou AAT ) era um tanque repulsor de tamanho médio usado principalmente pela Federação do Comércio e pela Confederação de Sistemas Independentes antes da ascensão do Império Galáctico "
+}

@@ -1,0 +1,22 @@
+{
+  "id": 54,
+  "name": "Zolan",
+  "rotation_period": "unknown",
+  "orbital_period": "unknown",
+  "diameter": "unknown",
+  "climate": "unknown",
+  "gravity": "unknown",
+  "terrain": "unknown",
+  "surface_water": "unknown",
+  "population": "unknown",
+  "residents": [
+    "Zam Wesell"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T16:56:37.250000Z",
+  "edited": "2014-12-20T20:58:18.514000Z",
+  "image": "https://static.wikia.nocookie.net/starwars/images/6/66/Zolan.jpg",
+  "resume": "Zolan era um planeta que era o mundo natal da espécie Zolander e sua ramificação Clawdite."
+}

@@ -1,0 +1,21 @@
+{
+  "id": 39,
+  "name": "Naboo fighter",
+  "model": "N-1 starfighter",
+  "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+  "cost_in_credits": "200000",
+  "length": "11",
+  "max_atmosphering_speed": "1100",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "65",
+  "consumables": "7 days",
+  "films": [
+    "The Phantom Menace",
+    "Attack of the Clones"
+  ],
+  "created": "2014-12-19T17:39:17.582000Z",
+  "hyperdrive_rating": 1,
+  "image": "https://static.wikia.nocookie.net/starwars/images/6/64/N-1_Starfighter.png",
+  "resume": "O caça estelar Naboo Royal N-1, às vezes conhecido simplesmente como caça estelar Naboo, foi um caça estelar usado pelo governo de Naboo durante os últimos anos da República Galáctica e nos primeiros dias do Império Galáctico para tarefas de defesa, patrulha e escolta."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 84,
+  "name": "Finn",
+  "height": 1.78,
+  "mass": 73,
+  "gender": "male",
+  "wiki": "http://starwars.wikia.com/wiki/Finn",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/a/af/Finn_TLJ_Collector%27s_Edition.png",
+  "born": 11,
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "skinColor": "dark",
+  "affiliations": [
+    "First Order",
+    "FN Corps",
+    "Resistance"
+  ],
+  "resume": "Comprometido com a causa da Resistência, Finn luta ao lado de seus amigos mais próximos na luta para derrotar a Primeira Ordem, o regime do mal que ele serviu como um stormtrooper. Como FN-2187, ele foi treinado desde o nascimento para servir à Primeira Ordem, mas uma escaramuça em Jakku despertou sua consciência e o conduziu por um caminho diferente, que provou ser heróico e perigoso."
+}

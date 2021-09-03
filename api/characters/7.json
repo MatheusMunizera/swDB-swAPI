@@ -1,0 +1,19 @@
+{
+  "id": 7,
+  "name": "Beru Whitesun lars",
+  "height": 1.65,
+  "mass": 75,
+  "gender": "female",
+  "homeworld": "tatooine",
+  "wiki": "http://starwars.wikia.com/wiki/Beru_Whitesun_Lars",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cc/BeruCardTrader.png",
+  "died": 0,
+  "diedLocation": "tatooine",
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "blue",
+  "skinColor": "light",
+  "born": 47,
+  "affiliations": [],
+  "resume": "Como uma garota jovem e tímida, as aspirações de Beru Whitesun não iam além de Tatooine. Ela estava satisfeita em se casar com Owen Lars e levar uma vida dura de fazendeiro. Beru também cumpriu o papel de guardiã e mãe substituta do jovem Luke Skywalker, e repetidamente expressou seu apoio ao sonho de se juntar aos amigos da Academia. Beru foi vítima do Império quando tropas de choque imperiais invadiram a fazenda da família em busca de andróides que pensavam ter planos secretos para a arma definitiva do Império, a Estrela da Morte."
+}

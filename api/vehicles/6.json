@@ -1,0 +1,21 @@
+{
+  "id": 6,
+  "name": "TIE bomber",
+  "model": "TIE/sa bomber",
+  "manufacturer": "Sienar Fleet Systems",
+  "cost_in_credits": "unknown",
+  "length": "7.8",
+  "max_atmosphering_speed": "850",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "none",
+  "consumables": "2 days",
+  "films": [
+    "The Empire Strikes Back",
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-15T12:33:15.838000Z",
+  "hyperdrive_rating": null,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/ep5_key_504_6c3982bb.jpeg",
+  "resume": "O Império usou voos de bombardeiros TIE para lançar grandes quantidades de munições em planetas rebeldes e alvos no espaço, lançando ataques devastadores com uma precisão assustadora."
+}

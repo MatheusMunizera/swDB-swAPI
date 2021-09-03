@@ -1,0 +1,22 @@
+{
+  "id": 17,
+  "name": "Vulptereen",
+  "classification": "unknown",
+  "resume": "Vulptereens foram uma forma de barril sensíveis espécies com pá como bocas do planeta de Vulpter .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/c/cd/Dud_Bolt_FF_Scan.png",
+  "designation": "sentient",
+  "average_height": "100",
+  "skin_colors": "grey",
+  "hair_colors": "none",
+  "eye_colors": "yellow",
+  "average_lifespan": "unknown",
+  "language": "vulpterish",
+  "people": [
+    "Dud Bolt"
+  ],
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-20T09:57:33.128000Z",
+  "edited": "2014-12-20T21:36:42.173000Z"
+}

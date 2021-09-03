@@ -1,0 +1,21 @@
+{
+  "id": 33,
+  "name": "Nute Gunray",
+  "height": 1.91,
+  "mass": 90,
+  "gender": "male",
+  "homeworld": "neimoidia",
+  "wiki": "http://starwars.wikia.com/wiki/Nute_Gunray",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fd/Nute_Gunray_SWE.png",
+  "died": -19,
+  "diedLocation": "mustafar",
+  "species": "neimoidian",
+  "eyeColor": "red",
+  "skinColor": "green",
+  "affiliations": [
+    "Trade Federation",
+    "Confederacy of Independent Systems",
+    "Separatist Council"
+  ],
+  "resume": "Neimoidianos são conhecidos por suas habilidades comerciais, mas Nute Gunray, vice-rei da Federação do Comércio, era mais cruel do que a maioria. Foi Gunray quem conspirou com o Lorde Sith Darth Sidious para lançar o bloqueio e subsequente invasão de Naboo. Uma vez que o planeta estava sob cerco, Gunray tentou forçar a Rainha Amidala a assinar um tratado que legitimasse a ocupação. Amidala escapou e voltou para se infiltrar em seu próprio palácio e atacar os protetores de Gunray. Preso por oficiais da República, Gunray foi levado para responder por seus crimes, mas escapou da prisão e manteve seu posto."
+}

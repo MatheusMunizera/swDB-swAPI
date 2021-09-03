@@ -1,0 +1,21 @@
+{
+  "id": 8,
+  "name": "AT-ST",
+  "model": "All Terrain Scout Transport",
+  "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+  "cost_in_credits": "unknown",
+  "length": "2",
+  "max_atmosphering_speed": "90",
+  "crew": "2",
+  "passengers": "0",
+  "cargo_capacity": "200",
+  "consumables": "none",
+  "films": [
+    "The Empire Strikes Back",
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-15T12:46:42.384000Z",
+  "hyperdrive_rating": null,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/e6d_ia_5724_a150e6d4.jpeg",
+  "resume": "Embora não seja tão imponente quanto seu primo AT-AT walker maior, o AT-ST, no entanto, serviu como uma adição significativa ao lado imperial dos campos de batalha na Guerra Civil Galáctica. A nave de dois homens é levemente armada com canhões de laser montados no queixo e cápsulas de armas montadas nas laterais. O transporte de duas pernas, apelidado de caminhante explorador por muitos, serve como um veículo de reconhecimento e patrulha, frequentemente flanqueando os AT-ATs que se aproximam e limpando a infantaria que passa furtivamente pelos caminhantes maiores. Os imperiais usaram AT-STs na Batalha de Hoth e na Batalha de Endor."
+}

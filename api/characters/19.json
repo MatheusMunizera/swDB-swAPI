@@ -1,0 +1,23 @@
+{
+  "id": 19,
+  "name": "Jek Tono Porkins",
+  "height": 1.8,
+  "mass": 110,
+  "gender": "male",
+  "homeworld": "bestine",
+  "wiki": "http://starwars.wikia.com/wiki/Jek_Tono_Porkins",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/JekPorkins-DB.png",
+  "died": 0,
+  "diedLocation": "yavin system",
+  "species": "human",
+  "skinColor": "light",
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "Tierfon Yellow Aces",
+    "Red Squadron",
+    "Massassi Group"
+  ],
+  "hairColor": "brown",
+  "eyeColor": "blue",
+  "resume": "Jek Porkins era um piloto e comerciante que abandonou seu mundo natal quando o Império se mudou e desenvolveu uma nova base militar lá. O robusto piloto rebelde voou um X-wing na Batalha de Yavin sob o indicativo de chamada Red 6. Seu X-wing desenvolveu um problema mecânico no início da batalha, deixando-o lutando para manobrar. Antes que Porkins ou seu astromecânico pudessem resolver o problema, um dos turbolasers da Estrela da Morte mirou no asa-X, incinerando-o e matando Porkins instantaneamente."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 10,
+  "name": "Kamino",
+  "rotation_period": "27",
+  "orbital_period": "463",
+  "diameter": "19720",
+  "climate": "temperate",
+  "gravity": "1 standard",
+  "terrain": "ocean",
+  "surface_water": "100",
+  "population": "1000000000",
+  "residents": [
+    "Boba Fett",
+    "Lama Su",
+    "Taun We"
+  ],
+  "films": [
+    "Attack of the Clones"
+  ],
+  "created": "2014-12-10T12:45:06.577000Z",
+  "edited": "2014-12-20T20:58:18.434000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_kamino_01_169_f9027822.jpeg",
+  "resume": "Purgado dos Arquivos Jedi completos, tudo é evidência do misterioso mundo de Kamino. Um mundo solitário além da Orla Externa e logo ao sul do Rishi Maze, poucos poderiam ter previsto que Kamino se tornaria um contribuinte chave para uma mudança massiva no poder político nos dias finais da República. Kamino é um planeta de oceanos e tempestades intermináveis. Poucas características marcam sua superfície, exceto por enormes cidades sobre palafitas onde residem os habitantes naturais do planeta, os Kaminoanos. Da cidade de Tipoca, o primeiro-ministro do planeta governa. Lama Su monitorou de perto as operações do produto de exportação mais valioso de Kamino: os clones."
+}

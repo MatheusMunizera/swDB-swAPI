@@ -1,0 +1,25 @@
+{
+  "id": 52,
+  "name": "Ki-Adi-Mundi",
+  "height": 1.98,
+  "mass": 82,
+  "gender": "male",
+  "homeworld": "cerea",
+  "wiki": "http://starwars.wikia.com/wiki/Ki-Adi-Mundi",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9e/KiAdiMundi.jpg",
+  "died": -19,
+  "diedLocation": "mygeeto",
+  "species": "cerean",
+  "hairColor": "white",
+  "eyeColor": "yellow",
+  "skinColor": "light",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Jedi assault team",
+    "Galactic Republic",
+    "Galactic Marines"
+  ],
+  "born": 92,
+  "resume": "Ki-Adi-Mundi era um alienígena Cerean que fazia parte do Conselho Jedi. Sendo um ser humanoide, a característica física mais marcante de Ki era um crânio cônico ampliado que continha um cérebro binário. Quando o Mestre Jedi Qui-Gon Jinn relatou um ataque Sith durante os eventos em torno da Batalha de Naboo, Ki-Adi-Mundi expressou choque com a ideia. Impossível, observou ele, os Sith estão extintos há um milênio. Ele também falhou em ver o quão longe o Conde Dooku havia caído dos ideais Jedi pouco antes das Guerras Clônicas, acreditando que Dookan era incapaz de violência ou assassinato."
+}

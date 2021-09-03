@@ -1,0 +1,20 @@
+{
+  "id": 54,
+  "name": "Eeth Koth",
+  "height": 1.71,
+  "gender": "male",
+  "homeworld": "nar shaddaa",
+  "wiki": "http://starwars.wikia.com/wiki/Eeth_Koth",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4e/EethKothCardTrader.png",
+  "species": "iridonian zabrak",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "skinColor": "tan",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Jedi assault team",
+    "Galactic Republic"
+  ],
+  "resume": "Eeth Koth foi um membro do Alto Conselho Jedi nos anos finais da ordem. De dentro das torres polidas do Templo Jedi em Coruscant, o Conselho governava as ações dos Cavaleiros Jedi. Koth era um dos 12 Jedi presentes quando Qui-Gon Jinn apresentou Anakin Skywalker como o Escolhido para o Conselho. Um guerreiro determinado com uma conexão espiritual profunda com a Força, Koth resistiu à tortura nas mãos do General Grievous durante as Guerras Clônicas, e foi até mesmo capaz de comunicar secretamente sua localização ao Conselho Jedi. Koth foi salvo das garras Separatistas pelos ousados ​​esforços de seus companheiros Jedi."
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "name": "Yavin IV",
+  "rotation_period": "24",
+  "orbital_period": "4818",
+  "diameter": "10200",
+  "climate": "temperate, tropical",
+  "gravity": "1 standard",
+  "terrain": "jungle, rainforests",
+  "surface_water": "8",
+  "population": "1000",
+  "residents": [
+    "Coming Soon"
+  ],
+  "films": [
+    "A New Hope"
+  ],
+  "created": "2014-12-10T11:37:19.144000Z",
+  "edited": "2014-12-20T20:58:18.421000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_yavin4_01_169_b6945e20.jpeg",
+  "resume": "Uma das várias luas orbitando o gigante gasoso Yavin na Orla Externa da galáxia, Yavin 4 é um mundo cheio de vapor coberto de selva e floresta. Foi o local da principal base rebelde no início da Guerra Civil Galáctica e o local de onde a Rebelião lançou o ataque que destruiu a primeira Estrela da Morte - um confronto conhecido depois como Batalha de Yavin."
+}

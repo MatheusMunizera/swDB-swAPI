@@ -1,0 +1,23 @@
+{
+  "id": 22,
+  "name": "Zabrak",
+  "classification": "mammal",
+  "resume": "Zabraks eram uma espécie carnívora quase humana nativa do planeta Iridonia. A maioria dos membros da espécie tinha chifres distintos no topo da cabeça, bem como dois corações .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/a/a4/Zabrak_DICE.png",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "pale, brown, red, orange, yellow",
+  "hair_colors": "black",
+  "eye_colors": "brown, orange",
+  "average_lifespan": "unknown",
+  "language": "Zabraki",
+  "people": [
+    "Darth Maul",
+    "Eeth Koth"
+  ],
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-20T10:26:59.894000Z",
+  "edited": "2014-12-20T21:36:42.183000Z"
+}

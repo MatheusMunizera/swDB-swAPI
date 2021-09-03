@@ -1,0 +1,20 @@
+{
+  "id": 28,
+  "name": "TIE Advanced x1",
+  "model": "Twin Ion Engine Advanced x1",
+  "manufacturer": "Sienar Fleet Systems",
+  "cost_in_credits": "unknown",
+  "length": "9.2",
+  "max_atmosphering_speed": "1200",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "150",
+  "consumables": "5 days",
+  "films": [
+    "A New Hope"
+  ],
+  "created": "2014-12-12T11:21:32.991000Z",
+  "hyperdrive_rating": 1,
+  "image": "https://static.wikia.nocookie.net/starwars/images/1/1d/Vader_TIEAdvanced_SWB.png",
+  "resume": "O x1 TIE Avançado, ou TIE / ad, era um protótipo avançado starfighter que fazia parte da linha TIE fabricado pela Sistemas de Frota Sienar   Darth Vader voou notavelmente um TIE Advanced x1 durante a Batalha de Yavin ."
+}

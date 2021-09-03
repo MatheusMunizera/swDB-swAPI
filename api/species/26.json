@@ -1,0 +1,23 @@
+{
+  "id": 26,
+  "name": "Kel Dor",
+  "classification": "unknown",
+  "resume": "Kel Dors, às vezes chamados de Kel Dorians, eram uma espécie senciente vinda do planeta tecnológico Dorin. Eles exigiam máscaras para protegê-los quando em atmosferas ricas em oxigênio .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/2/24/Kel_Dor_NEGAS.jpg",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "peach, orange, red",
+  "hair_colors": "none",
+  "eye_colors": "black, silver",
+  "average_lifespan": "70",
+  "language": "Kel Dor",
+  "people": [
+    "Plo Koon"
+  ],
+  "films": [
+    "The Phantom Menace",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T10:49:21.692000Z",
+  "edited": "2014-12-20T21:36:42.191000Z"
+}

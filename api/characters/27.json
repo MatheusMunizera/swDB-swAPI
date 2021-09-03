@@ -1,0 +1,32 @@
+{
+  "id": 27,
+  "name": "Ackbar",
+  "height": 1.8,
+  "mass": 83,
+  "gender": "male",
+  "homeworld": "mon cala",
+  "wiki": "http://starwars.wikia.com/wiki/Gial_Ackbar",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/2/29/Admiral_Ackbar_RH.png",
+  "born": 50,
+  "died": 34,
+  "diedLocation": "raddus, oetchi system",
+  "species": "mon calamari",
+  "eyeColor": "orange",
+  "skinColor": "brown mottle",
+  "affiliations": [
+    "Mon Cala monarchy",
+    "Mon Calamari Guard",
+    "Galactic Republic",
+    "Galactic Empire",
+    "Alliance to Restore the Republic",
+    "Alliance Fleet",
+    "Alliance High Command",
+    "New Republic",
+    "New Republic Defense Fleet",
+    "Resistance",
+    "Resistance High Command",
+    "Resistance Fleet Command",
+    "Resistance navy"
+  ],
+  "resume": "Para manter o legado de seu pai, o filho do almirante Gial Ackbar, Aftab, agora serve a Resistência como um piloto Y-wing. Além dos laços estreitos de sua família com os esforços rebeldes, o recrutamento de Aftab foi parte de um esforço maior para trazer mais ajuda Mon Calamari para a causa."
+}

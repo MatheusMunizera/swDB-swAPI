@@ -1,0 +1,20 @@
+{
+  "id": 74,
+  "name": "Jocasta Nu",
+  "height": 1.69,
+  "gender": "female",
+  "homeworld": "coruscant",
+  "wiki": "http://starwars.wikia.com/wiki/Jocasta_Nu",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/1/15/Jocasta_Nu_SWE.png",
+  "died": -19,
+  "diedLocation": "coruscant",
+  "species": "human",
+  "hairColor": "white",
+  "eyeColor": "blue",
+  "skinColor": "light",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council"
+  ],
+  "resume": "Os Arquivos Jedi são o maior repositório de conhecimento da galáxia, e Madame Jocasta Nu é a Bibliotecária Chefe. Ela ajuda outros Jedi a encontrar informações no Arquivo usando seus terminais de dados e controla o acesso ao conteúdo restrito de seu Cofre Holocron. Jocasta Nu às vezes pode estar muito confiante em pensar que os Arquivos contêm as respostas corretas para todas as perguntas."
+}

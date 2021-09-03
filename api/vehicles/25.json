@@ -1,0 +1,22 @@
+{
+  "id": 25,
+  "name": "Millennium Falcon",
+  "model": "YT-1300 light freighter",
+  "manufacturer": "Corellian Engineering Corporation",
+  "cost_in_credits": "100000",
+  "length": "34.37",
+  "max_atmosphering_speed": "1050",
+  "crew": "4",
+  "passengers": "6",
+  "cargo_capacity": "100000",
+  "consumables": "2 months",
+  "films": [
+    "A New Hope",
+    "The Empire Strikes Back",
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-10T16:59:45.094000Z",
+  "hyperdrive_rating": 0.5,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/millennium-falcon-main-tlj-a_7cf89d3a.jpeg",
+  "resume": "Um cargueiro leve Corelliano amplamente modificado, o Millennium Falcon é uma lenda nos círculos de contrabandistas e é cobiçado por muitos por ser o pedaço de lixo mais rápido da galáxia. Apesar de suas origens humildes e exterior pobre, o navio que fez o Kessel Run em menos de 12 parsecs desempenhou um papel em algumas das maiores vitórias da Aliança Rebelde e da Nova República. O Falcon parece um junker surrado, mas por baixo do casco está cheio de surpresas. Uma sucessão de proprietários, incluindo Lando Calrissian e Han Solo, fizeram modificações especiais que aumentaram a velocidade, a proteção e o poder de fogo do cargueiro para níveis impressionantes - e absolutamente ilegais. O preço de tais remendos? O Falcon pode ser imprevisível, com seu hiperdrive particularmente obstinado. "
+}

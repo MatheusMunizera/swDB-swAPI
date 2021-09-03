@@ -1,0 +1,23 @@
+{
+  "id": 30,
+  "name": "Clawdite",
+  "classification": "reptilian",
+  "resume": "Clawdites eram um humanóides sencientes espécies nativas do planeta de Zolan. Eles eram uma das poucas espécies que mudavam de forma na galáxia e às vezes eram chamados de Changelings .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/3/37/ClawditeNEGAS.jpg",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "green, yellow",
+  "hair_colors": "none",
+  "eye_colors": "yellow",
+  "average_lifespan": "70",
+  "language": "Clawdite",
+  "people": [
+    "Zam Wesell"
+  ],
+  "films": [
+    "Attack of the Clones",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T16:57:46.171000Z",
+  "edited": "2014-12-20T21:36:42.199000Z"
+}

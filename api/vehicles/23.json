@@ -1,0 +1,20 @@
+{
+  "id": 23,
+  "name": "Sentinel-class landing craft",
+  "model": "Sentinel-class landing craft",
+  "manufacturer": "Sienar Fleet Systems, Cyngus Spaceworks",
+  "cost_in_credits": "240000",
+  "length": "38",
+  "max_atmosphering_speed": "1000",
+  "crew": "5",
+  "passengers": "75",
+  "cargo_capacity": "180000",
+  "consumables": "1 month",
+  "films": [
+    "A New Hope"
+  ],
+  "created": "2014-12-10T15:48:00.586000Z",
+  "hyperdrive_rating": 1,
+  "image": "https://static.wikia.nocookie.net/starwars/images/5/5b/Imperial_Sentinel-class_shuttle.png",
+  "resume": "Uma nave de desembarque da classe Sentinel, também conhecida como lançadeira da classe Sentinel ou nave de desembarque Imperial, era um transporte de tropas em grande escala utilizado pelo Império Galáctico"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 35,
+  "name": "A-wing",
+  "model": "RZ-1 A-wing Interceptor",
+  "manufacturer": "Alliance Underground Engineering, Incom Corporation",
+  "cost_in_credits": "175000",
+  "length": "9.6",
+  "max_atmosphering_speed": "1300",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "40",
+  "consumables": "1 week",
+  "films": [
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-18T11:16:34.542000Z",
+  "hyperdrive_rating": 1,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/screen_shot_2015-05-26_at_5_16a39e17.png",
+  "resume": "Com sua forma de ponta de flecha elegante, cockpit aerodinâmico e motores duplos maciços, o starfighter de asa A sugere velocidade bruta mesmo quando estacionado dentro das baias do hangar da Alliance. Mais rápido até do que o interceptor TIE, o A-wing é adequado para quedas de raios. Ele ostenta um par de canhões laser giratórios em cada ponta da asa. Os caças estelares do Esquadrão Verde, que voaram na Batalha de Endor, eram compostos de caças A-wing. O ala A continuou a evoluir e fez parte do corpo de caças da Resistência durante sua luta contra a Primeira Ordem."
+}

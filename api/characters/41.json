@@ -1,0 +1,15 @@
+{
+  "id": 41,
+  "name": "Sebulba",
+  "height": 1.12,
+  "mass": 40,
+  "gender": "male",
+  "homeworld": "malastare",
+  "wiki": "http://starwars.wikia.com/wiki/Sebulba",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Sebulba_Headshot_Closeup.png",
+  "species": "dug",
+  "eyeColor": "yellow",
+  "skinColor": "purple and beige",
+  "affiliations": [],
+  "resume": "Um astuto e cruel Dug, Sebulba se tornou um dos Podracers mais bem-sucedidos da Orla Exterior. Quer estivesse vagando pelas ruas de Mos Espa ou pilotando seu enorme Podracer laranja, Sebulba era agressivo e arrogante. Ele não deixava de trapacear para vencer uma corrida e até recorria a armas ilegais na tentativa de derrotar seus oponentes. Sebulba foi o campeão da Podrace de Mos Espa até entrar no Boonta Eve Classic, onde foi derrotado pelo jovem Anakin Skywalker, para grande frustração de Dug."
+}

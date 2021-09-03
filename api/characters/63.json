@@ -1,0 +1,24 @@
+{
+  "id": 63,
+  "name": "Poggle the Lesser",
+  "height": 1.75,
+  "mass": 80,
+  "gender": "male",
+  "homeworld": "geonosis",
+  "wiki": "http://starwars.wikia.com/wiki/Poggle_the_Lesser",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/9/93/Poggle_the_lesser_-_sw_card_trader.png",
+  "died": -19,
+  "diedLocation": "mustafar",
+  "species": "geonosian",
+  "eyeColor": "yellow",
+  "affiliations": [
+    "Stalgasin hive",
+    "Karina the Great's empire",
+    "Techno Union",
+    "Confederacy of Independent Systems",
+    "Separatist Council",
+    "Galactic Republic"
+  ],
+  "skinColor": "green",
+  "resume": "Poggle, o Menor, foi o líder dos Geonosians semelhantes a insetos durante a era das Guerras Clônicas. Devido ao seu controle das fábricas de dróides de batalha Geonosian, ele era uma figura poderosa dentro da Confederação de Sistemas Independentes e comandou os exércitos de dróides que lutaram contra a República em duas batalhas pelo controle de Geonosis. No final da guerra, Poggle perdeu sua vida para Darth Vader."
+}

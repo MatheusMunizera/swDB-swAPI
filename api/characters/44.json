@@ -1,0 +1,30 @@
+{
+  "id": 44,
+  "name": "Darth Maul",
+  "height": 1.75,
+  "mass": 80,
+  "gender": "male",
+  "homeworld": "dathomir",
+  "wiki": "http://starwars.wikia.com/wiki/Darth_Maul",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Darth_Maul_profile.png",
+  "died": -2,
+  "diedLocation": "tatooine",
+  "species": "dathomirian zabrak",
+  "eyeColor": "yellow and red",
+  "skinColor": "red (black tattoos)",
+  "cybernetics": [
+    "Six-legged apparatus (formerly)",
+    "Two cybernetic legs"
+  ],
+  "affiliations": [
+    "Nightbrothers",
+    "Sith",
+    "Cad Bane's group",
+    "Death Watch",
+    "Shadow Collective"
+  ],
+  "masters": "Darth Sidious",
+  "apprentices": "Savage Opress",
+  "born": 54,
+  "resume": "Um mortal e ágil Lorde Sith treinado pelo malvado Darth Sidious, Darth Maul era um guerreiro formidável e gênio intrigante. Ele empunhava um intimidante sabre de luz de lâmina dupla e lutava com uma ferocidade ameaçadora. Embora ele tenha caído em batalha contra Obi-Wan Kenobi, o Zabrak de Dathomir provaria ser muito mais difícil de destruir do que se acreditava originalmente."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28,
+  "name": "Mon Mothma",
+  "height": 1.73,
+  "gender": "female",
+  "homeworld": "chandrila",
+  "wiki": "http://starwars.wikia.com/wiki/Mon_Mothma",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_monmothma_01_169_b62808e8.jpeg",
+  "born": 46,
+  "species": "human",
+  "hairColor": "auburn",
+  "eyeColor": "pale blue-green",
+  "skinColor": "light",
+  "affiliations": [
+    "Galactic Republic",
+    "Loyalist Committee",
+    "Delegation of 2,000",
+    "Galactic Empire",
+    "Imperial Senate",
+    "Mon Mothma's rebel cell",
+    "Alliance to Restore the Republic",
+    "New Republic"
+  ],
+  "resume": "Líder da facção Loyalist do Senado Galáctico, Mon Mothma se opôs às políticas do Chanceler Supremo Palpatine durante os dias finais da República. Trabalhando em segredo, ela ajudou a fundar a Aliança Rebelde e serviu como líder civil durante a longa luta contra o Império."
+}

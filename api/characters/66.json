@@ -1,0 +1,19 @@
+{
+  "id": 66,
+  "name": "Dormé",
+  "height": 1.65,
+  "gender": "female",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Dorm%C3%A9",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/1/18/Dormesenate.jpg",
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "brown",
+  "skinColor": "light",
+  "affiliations": [
+    "Royal House of Naboo",
+    "Naboo Royal Handmaidens",
+    "Galactic Republic"
+  ],
+  "resume": "Apesar de não ser mais a rainha de Naboo, Padmé Amidala manteve algumas vantagens reais como senadora. Entre elas estavam suas leais servas - um nome que pouco fazia jus ao treinamento das mulheres como guarda-costas. O assessor mais dedicado de Padmé, Dormé, aconselhou o senador sobre Coruscant e ajudou a cuidar dos assuntos de Naboo quando Padmé se retirou para seu mundo natal com Anakin Skywalker."
+}

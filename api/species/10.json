@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "name": "Sullustan",
+  "classification": "mammal",
+  "resume": "Sullustans eram uma espécie de humanóides que veio do planeta de Sullust, e eram especialistas na fabricação, desenvolvimento científico e tecnológico e economia, tendo fundado a próspera SoroSuub Corporação .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/9/9c/Sullustan_DICE.png",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "pale",
+  "hair_colors": "none",
+  "eye_colors": "black",
+  "average_lifespan": "unknown",
+  "language": "Sullutese",
+  "people": [
+    "Nien Nunb"
+  ],
+  "films": [
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-18T11:26:20.103000Z",
+  "edited": "2014-12-20T21:36:42.157000Z"
+}

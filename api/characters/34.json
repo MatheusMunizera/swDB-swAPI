@@ -1,0 +1,20 @@
+{
+  "id": 34,
+  "name": "Finis Valorum",
+  "height": 1.7,
+  "gender": "male",
+  "homeworld": "coruscant",
+  "wiki": "http://starwars.wikia.com/wiki/Finis_Valorum",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/5/51/ValorumPortrait-SWE.png",
+  "species": "human",
+  "hairColor": "white",
+  "eyeColor": "blue",
+  "skinColor": "fair",
+  "affiliations": [
+    "House Valorum",
+    "Galactic Republic",
+    "Galactic Senate"
+  ],
+  "born": 91,
+  "resume": "Um funcionário público bem-intencionado cuja chancelaria foi prejudicada pela corrupção no Senado e rosnados burocráticos, Valorum secretamente pediu ajuda aos Cavaleiros Jedi para quebrar o bloqueio de Naboo pela Federação do Comércio. Mas Valorum foi traído pelo Senador Palpatine de Naboo, que manobrou a Rainha Amidala para pedir ao Senado um voto de não-confiança na liderança do Chanceler Supremo. Um atordoado Valorum foi removido do cargo em favor de Palpatine."
+}

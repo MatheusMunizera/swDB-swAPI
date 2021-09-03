@@ -1,0 +1,22 @@
+{
+  "id": 31,
+  "name": "Besalisk",
+  "classification": "amphibian",
+  "resume": "Besalisks eram uma espécie humanóide senciente com quatro braços e uma wattle inflável que eram nativos do planeta Ojom. O dono do Dex's Diner e amigo do Cavaleiro Jedi Obi-Wan Kenobi, Dexter Jettster, era um Besalisk, assim como Pong Krell, um Mestre Jedi que caiu para o lado negro da Força depois de ter uma visão da morte dos Jedi durante as Guerras Clônicas.",
+  "image": "https://static.wikia.nocookie.net/starwars/images/8/83/Dexter_Jettster_%28Besalisk%29_FF44.jpg",
+  "designation": "sentient",
+  "average_height": "178",
+  "skin_colors": "brown",
+  "hair_colors": "none",
+  "eye_colors": "yellow",
+  "average_lifespan": "75",
+  "language": "besalisk",
+  "people": [
+    "Dexter Jettster"
+  ],
+  "films": [
+    "Attack of the Clones"
+  ],
+  "created": "2014-12-20T17:28:28.821000Z",
+  "edited": "2014-12-20T21:36:42.200000Z"
+}

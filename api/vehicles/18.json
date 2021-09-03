@@ -1,0 +1,20 @@
+{
+  "id": 18,
+  "name": "C-9979 landing craft",
+  "model": "C-9979 landing craft",
+  "manufacturer": "Haor Chall Engineering",
+  "cost_in_credits": "200000",
+  "length": "210",
+  "max_atmosphering_speed": "587",
+  "crew": "140",
+  "passengers": "284",
+  "cargo_capacity": "1800000",
+  "consumables": "1 day",
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-19T17:20:36.373000Z",
+  "hyperdrive_rating": null,
+  "image": "https://static.wikia.nocookie.net/starwars/images/f/f0/C9979_ep1ig.jpg",
+  "resume": "A embarcação de desembarque C-9979, também conhecido como o navio de desembarque Trade Federation, foi pesada uma transporte nave utilizada pela Federação Comércio, [8] e mais tarde o Confederacy dos sistemas independentes ."
+}

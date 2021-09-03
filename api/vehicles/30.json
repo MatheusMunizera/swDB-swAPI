@@ -1,0 +1,21 @@
+{
+  "id": 30,
+  "name": "Rebel transport",
+  "model": "GR-75 medium transport",
+  "manufacturer": "Gallofree Yards, Inc.",
+  "cost_in_credits": "unknown",
+  "length": "90",
+  "max_atmosphering_speed": "650",
+  "crew": "6",
+  "passengers": "90",
+  "cargo_capacity": "19000000",
+  "consumables": "6 months",
+  "films": [
+    "The Empire Strikes Back",
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-15T12:34:52.264000Z",
+  "hyperdrive_rating": 4,
+  "image": "https://static.wikia.nocookie.net/starwars/images/e/eb/GR-75_Medium_Transport.jpg",
+  "resume": "O transporte médio GR-75, também conhecido como transporte médio Gallofree ou transporte Rebelde, era um transporte com casco em concha produzido pela Gallofree Yards, Inc."
+}

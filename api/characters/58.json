@@ -1,0 +1,24 @@
+{
+  "id": 58,
+  "name": "Plo Koon",
+  "height": 1.88,
+  "mass": 80,
+  "gender": "male",
+  "homeworld": "dorin",
+  "wiki": "http://starwars.wikia.com/wiki/Plo_Koon",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/b/bf/PloKoonCardTrader.png",
+  "died": -19,
+  "diedLocation": "cato neimoidia",
+  "species": "kel dor",
+  "skinColor": "orange",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Jedi assault team",
+    "Galactic Republic",
+    "104th Battalion"
+  ],
+  "eyeColor": "black",
+  "born": 22,
+  "resume": "Um Kel Dor de Dorin, Plo Koon estava entre os membros mais sábios da Ordem Jedi, respeitado por sua análise equilibrada dos eventos e calma inabalável. Profundamente preocupado com a vida em todas as suas inúmeras formas, Plo foi especialmente dedicado a proteger os clones sob seu comando. Ele compartilhava um vínculo especial com Ahsoka Tano, que ele trouxe para a Ordem Jedi quando criança. Uma das muitas vítimas da Ordem 66, Mestre Plo morreu em Cato Neimoidia quando seus alas abateram seu caça estelar."
+}

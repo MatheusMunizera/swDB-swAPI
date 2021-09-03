@@ -1,0 +1,23 @@
+{
+  "id": 33,
+  "name": "Skakoan",
+  "classification": "mammal",
+  "resume": "Skakoans eram um sencientes espécies nativas para o planeta Skako. Para sobreviver fora de seu mundo natal, eles eram obrigados a usar roupas de pressão para simular sua atmosfera e pressão únicas, que eram muito diferentes do padrão galáctico. ",
+  "image": "https://static.wikia.nocookie.net/starwars/images/d/d2/Wat_Tambor_SWE.png",
+  "designation": "sentient",
+  "average_height": "unknown",
+  "skin_colors": "grey, green",
+  "hair_colors": "none",
+  "eye_colors": "unknown",
+  "average_lifespan": "unknown",
+  "language": "Skakoan",
+  "people": [
+    "Wat Tambor"
+  ],
+  "films": [
+    "Attack of the Clones",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T17:53:54.515000Z",
+  "edited": "2014-12-20T21:36:42.204000Z"
+}

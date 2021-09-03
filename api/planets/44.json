@@ -1,0 +1,22 @@
+{
+  "id": 44,
+  "name": "Glee Anselm",
+  "rotation_period": "33",
+  "orbital_period": "206",
+  "diameter": "15600",
+  "climate": "tropical, temperate",
+  "gravity": "1",
+  "terrain": "lakes, islands, swamps, seas",
+  "surface_water": "80",
+  "population": "500000000",
+  "residents": [
+    "Kit Fisto"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T10:18:26.110000Z",
+  "edited": "2014-12-20T20:58:18.495000Z",
+  "image": "https://static.wikia.nocookie.net/starwars/images/0/0c/GleeAnselm.jpg",
+  "resume": "Glee Anselm foi um oceano planeta localizado no sistema Jalor da galáxia é Mid Rim que era a terra natal do Anselmi e Nautolan espécies. Star Tours, uma empresa de turismo, ofereceu passeios de férias em Glee Anselm durante as Guerras Clônicas. "
+}

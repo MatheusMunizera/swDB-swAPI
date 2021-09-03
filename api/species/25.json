@@ -1,0 +1,23 @@
+{
+  "id": 25,
+  "name": "Quermian",
+  "classification": "mammal",
+  "resume": "Quermians era uma espécie sensível humanóide de pescoço longo, nativa do planeta Quermia. Eles tinham dois cérebros, um localizado dentro da cabeça e outro na cavidade torácica, e dois pares de braços. Durante a Federação do Comércio de Invasão de Naboo, quatro Quermians foram inscritos na Ordem Jedi, um dos quais era o Mestre Jedi Yarael Poof, membro do Alto Conselho Jedi .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/4/4f/Yarael_Poof_USW.png",
+  "designation": "sentient",
+  "average_height": "240",
+  "skin_colors": "white",
+  "hair_colors": "none",
+  "eye_colors": "yellow",
+  "average_lifespan": "86",
+  "language": "Quermian",
+  "people": [
+    "Yarael Poof"
+  ],
+  "films": [
+    "The Phantom Menace",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T10:34:50.827000Z",
+  "edited": "2014-12-20T21:36:42.189000Z"
+}

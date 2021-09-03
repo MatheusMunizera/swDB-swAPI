@@ -1,0 +1,22 @@
+{
+  "id": 11,
+  "name": "Neimodian",
+  "classification": "unknown",
+  "resume": "Neimoidians eram um humanóide espécies nativas para o planeta de Neimoidia, ao mesmo tempo, resolver ricos bolsa-mundos como Cato Neimoidia. Eles tinham rostos lisos e sem nariz, pele manchada de verde acinzentado e grandes olhos vermelho-laranja. ",
+  "image": "https://static.wikia.nocookie.net/starwars/images/b/b0/NeimoidiansSWE.png",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "grey, green",
+  "hair_colors": "none",
+  "eye_colors": "red, pink",
+  "average_lifespan": "unknown",
+  "language": "Neimoidia",
+  "people": [
+    "Nute Gunray"
+  ],
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-19T17:07:31.319000Z",
+  "edited": "2014-12-20T21:36:42.160000Z"
+}

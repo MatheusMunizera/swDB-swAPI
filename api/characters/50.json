@@ -1,0 +1,15 @@
+{
+  "id": 50,
+  "name": "Ben Quadinaros",
+  "height": 1.63,
+  "mass": 65,
+  "gender": "male",
+  "homeworld": "tund",
+  "wiki": "http://starwars.wikia.com/wiki/Ben_Quadinaros",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7f/Cropped_Quadinaros.png",
+  "species": "toong",
+  "eyeColor": "orange",
+  "skinColor": "yellow",
+  "affiliations": [],
+  "resume": "O atarracado e cômico Ben Quadinaros era um Podracer novato que afirmava ter vindo do misterioso sistema Tund. Ele competiu no Podrace Boonta Eve que viu a libertação de Anakin Skywalker da escravidão. Ben era praticamente inexperiente e morria de medo da corrida de Boonta. No início da corrida, seus motores nem pegaram. Foi só quando a maioria de seus competidores já se encaminhava para a segunda volta que seus quatro motores se acenderam - no momento em que seus acoplamentos de força entraram em curto, fazendo os foguetes voar pela arena."
+}

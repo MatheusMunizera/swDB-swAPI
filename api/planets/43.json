@@ -1,0 +1,22 @@
+{
+  "id": 43,
+  "name": "Cerea",
+  "rotation_period": "27",
+  "orbital_period": "386",
+  "diameter": "unknown",
+  "climate": "temperate",
+  "gravity": "1",
+  "terrain": "verdant",
+  "surface_water": "20",
+  "population": "450000000",
+  "residents": [
+    "Ki-Adi-Mundi"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T10:14:48.178000Z",
+  "edited": "2014-12-20T20:58:18.493000Z",
+  "image": "https://static.wikia.nocookie.net/starwars/images/c/cc/Cerea-FDCR.png",
+  "resume": "Cerea era um planeta localizado na região da Orla Média da galáxia. O natal das Cerean espécies, Cerea era notável pela relação harmoniosa dos seus habitantes com a natureza. Tecnologia e poluição eram desaprovadas pelo governo conservador, um ponto importante na decisão do planeta de não se juntar à República Galáctica ."
+}

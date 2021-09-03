@@ -1,0 +1,16 @@
+{
+  "id": 38,
+  "name": "Rugor Nass",
+  "height": 2.06,
+  "gender": "male",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Rugor_Nass",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Bossnass.jpg",
+  "species": "gungan",
+  "eyeColor": "yellow",
+  "skinColor": "green",
+  "affiliations": [
+    "Gungan High Council"
+  ],
+  "resume": "O forte e severo líder dos Gungans, Boss Nass era um orgulhoso guardião dos costumes de seu povo. Sua voz estrondosa emitiu decretos em nome de todos os Gungans de Otoh Gunga. Ele manteve um controle rígido sobre os assuntos Gungan, dando continuidade a um antigo costume de isolacionismo. Embora o temperamento de Nass seja curto, demonstrações de coragem e humildade podem romper seus preconceitos. Quando a Rainha Amidala se prostrou diante do líder Gungan para solicitar sua ajuda na luta contra a invasão da Federação do Comércio, ele ficou impressionado. Nass comprometeu o Grande Exército Gungan a travar uma guerra contra os invasores dróides de batalha."
+}

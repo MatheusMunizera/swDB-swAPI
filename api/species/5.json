@@ -1,0 +1,23 @@
+{
+  "id": 5,
+  "name": "Hutt",
+  "classification": "gastropod",
+  "resume": "Hutts eram uma grande lesma -como sencientes espécies que estavam nativa ao planeta Nal Hutta. Eles eram bem conhecidos como gângsteres galácticos cujo Conselho Grand Hutt controlava o sindicato do crime do Clã Hutt.",
+  "image": "https://static.wikia.nocookie.net/starwars/images/1/19/JabbaPromo.png",
+  "designation": "sentient",
+  "average_height": "300",
+  "skin_colors": "green, brown, tan",
+  "hair_colors": "n/a",
+  "eye_colors": "yellow, red",
+  "average_lifespan": "1000",
+  "language": "Huttese",
+  "people": [
+    "Jabba Desilijic Tiure"
+  ],
+  "films": [
+    "A New Hope",
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-10T17:12:50.410000Z",
+  "edited": "2014-12-20T21:36:42.146000Z"
+}

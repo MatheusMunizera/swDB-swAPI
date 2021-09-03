@@ -1,0 +1,16 @@
+{
+  "id": 73,
+  "name": "Taun We",
+  "height": 2.13,
+  "gender": "female",
+  "homeworld": "kamino",
+  "wiki": "http://starwars.wikia.com/wiki/Taun_We",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9c/TaunWe.jpg",
+  "species": "kaminoan",
+  "eyeColor": "black with white pupils",
+  "skinColor": "white",
+  "affiliations": [
+    "Galactic Republic"
+  ],
+  "resume": "Um belo Kaminoan parecido com uma sílfide, Taun We é o assessor administrativo do primeiro-ministro de Kamino, Lama Su. Quando Obi-Wan Kenobi chegou às plataformas varridas pela chuva da cidade de Tipoca, ele foi saudado pelo gentil Taun We. Taun We explicou que os Kaminoanos esperavam há muito a chegada de um enviado Jedi, desde que um representante Jedi, Mestre Sifo-Dyas, comissionou um exército de clones uma década antes. Kenobi abriu caminho para o coração da operação de clonagem e fez com que o ingênuo Taun We o apresentasse à fonte original dos clones, Jango Fett."
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18,
+  "name": "Cato Neimoidia",
+  "rotation_period": "25",
+  "orbital_period": "278",
+  "diameter": "0",
+  "climate": "temperate, moist",
+  "gravity": "1 standard",
+  "terrain": "mountains, fields, forests, rock arches",
+  "surface_water": "unknown",
+  "population": "10000000",
+  "residents": [
+    "Nute Gunray"
+  ],
+  "films": [
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T13:46:28.704000Z",
+  "edited": "2014-12-20T20:58:18.449000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_catoneimoidia_01_169_d2b9bb58.jpeg",
+  "resume": "Um mundo colônia Neimoidiana, os palácios de joias de Cato Neimoidia e as opulentas cidades-ponte eram o orgulho e a alegria dos barões da Federação do Comércio, que buscavam constantemente superar uns aos outros e deslumbrar os hóspedes com exibições de hospitalidade ostentosa e vida luxuosa."
+}

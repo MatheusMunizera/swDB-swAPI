@@ -1,0 +1,27 @@
+{
+  "id": 9,
+  "name": "Coruscant",
+  "rotation_period": "24",
+  "orbital_period": "368",
+  "diameter": "12240",
+  "climate": "temperate",
+  "gravity": "1 standard",
+  "terrain": "cityscape, mountains",
+  "surface_water": "unknown",
+  "population": "1000000000000",
+  "residents": [
+    "Finis Valorum",
+    "Adi Gallia",
+    "Jocasta Nu"
+  ],
+  "films": [
+    "Return of the Jedi",
+    "The Phantom Menace",
+    "Attack of the Clones",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T11:54:13.921000Z",
+  "edited": "2014-12-20T20:58:18.432000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/Coruscant_03db43b4.jpeg",
+  "resume": "Um planeta coberto por uma cidade, Coruscant é o vibrante coração e capital da galáxia, apresentando uma mistura diversificada de cidadãos e cultura. Possui arranha-céus imponentes, fluxos de tráfego aéreo repleto de velocidade e níveis internos que se estendem muito abaixo da superfície do mundo. Coruscant foi a sede do governo da República Galáctica e do Império que se seguiu, e foi o local de vários eventos históricos durante as Guerras Clônicas. Também abrigava o Templo e Arquivos Jedi, que hospedavam o treinamento e aprendizado Jedi por mais de mil gerações - tradições que terminaram quando o planeta deu testemunho da Ordem 66."
+}

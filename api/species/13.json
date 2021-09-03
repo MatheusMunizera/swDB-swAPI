@@ -1,0 +1,23 @@
+{
+  "id": 13,
+  "name": "Toydarian",
+  "classification": "mammal",
+  "resume": "Toydarians eram uma espécie senciente e alada do planeta Toydaria. Além de sua habilidade de voar, os Toydarianos eram fisicamente definidos por seus longos focinhos e pés palmados, e podiam resistir à manipulação mental da Força .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/6/6e/Wattoep2promotionalfull.jpg",
+  "designation": "sentient",
+  "average_height": "120",
+  "skin_colors": "blue, green, grey",
+  "hair_colors": "none",
+  "eye_colors": "yellow",
+  "average_lifespan": "91",
+  "language": "Toydarian",
+  "people": [
+    "Watto"
+  ],
+  "films": [
+    "The Phantom Menace",
+    "Attack of the Clones"
+  ],
+  "created": "2014-12-19T17:48:56.893000Z",
+  "edited": "2014-12-20T21:36:42.165000Z"
+}

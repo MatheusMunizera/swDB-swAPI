@@ -1,0 +1,38 @@
+{
+  "name": "The Last Jedi",
+  "id": 9,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/the-last-jedi-theatrical-poster-film-page_bca06283.jpeg",
+  "trailer": "https://youtu.be/Q0CbN8sfihY",
+  "resume": "Rey encontrou o lendário Luke Skywalker, na esperança de ser treinado nos caminhos da Força. Enquanto isso, a Primeira Ordem busca destruir os remanescentes da Resistência e governar a galáxia sem oposição.",
+  "opening_crawl": "The FIRST ORDER reigns.\r\nHaving decimated the peaceful\r\nRepublic, Supreme Leader Snoke\r\nnow deploys his merciless\r\nlegions to seize military\r\ncontrol of the galaxy.\r\n\r\nOnly General Leia Organa's\r\nband of RESISTANCE fighters\r\nstand against the rising\r\ntyranny, certain that Jedi\r\nMaster Luke Skywalker will\r\nreturn and restore a spark of\r\nhope to the fight.\r\n\r\nBut the Resistance has been\r\nexposed. As the First Order\r\nspeeds toward the Rebel base,\r\nthe brave heroes mount a\r\ndesperate escape....",
+  "director": "Rian Johnson",
+  "producer": "Kathleen Kennedy, Ram Bergman, J.J Abrams , Jason McGatlin, Tom Karnowski",
+  "release_date": "201-17-25",
+  "characters": [
+    "Lovey",
+    "Nix Jerd",
+    "Vibro-Vougle",
+    "Autovalet Droid",
+    "Derla Pidys",
+    "Neepers Panpick",
+    "Luke Skywalker",
+    "Leia Organa",
+    "Chewbacca",
+    "Finn",
+    "R2-D2",
+    "Kylo Ren",
+    "Rey",
+    "BB-8"
+  ],
+  "planets": [
+    "Coming Soon"
+  ],
+  "vehicles": [
+    "Coming Soon"
+  ],
+  "species": [
+    "Human",
+    "Droid",
+    "Wookie"
+  ]
+}

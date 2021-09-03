@@ -1,0 +1,22 @@
+{
+  "id": 31,
+  "name": "Nien Nunb",
+  "height": 1.6,
+  "mass": 68,
+  "gender": "male",
+  "homeworld": "sullust",
+  "wiki": "http://starwars.wikia.com/wiki/Nien_Nunb",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Old_nien_nunb_-_profile.png",
+  "species": "sullustan",
+  "eyeColor": "black",
+  "skinColor": "light",
+  "affiliations": [
+    "House of Organa",
+    "Alliance to Restore the Republic",
+    "Gold Squadron",
+    "New Republic",
+    "Resistance",
+    "Red Squadron"
+  ],
+  "resume": "Um nativo de Sullust, Nien Nunb foi um contrabandista que lutou pela Aliança Rebelde e pela Resistência durante sua longa carreira. Piloto experiente, ele serviu como co-piloto de Lando Calrissian a bordo do Millennium Falcon durante a Batalha de Endor, voou em um asa-X no ataque à Base Starkiller e sobreviveu ao ataque da Primeira Ordem a Crait. Ele foi então morto lutando pela liberdade em Exegol."
+}

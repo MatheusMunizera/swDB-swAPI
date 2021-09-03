@@ -1,0 +1,19 @@
+{
+  "id": 45,
+  "name": "Bib Fortuna",
+  "height": 2,
+  "gender": "male",
+  "homeworld": "ryloth",
+  "wiki": "http://starwars.wikia.com/wiki/Bib_Fortuna",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/3/33/BibFortunaHS-ROTJ.png",
+  "died": 4,
+  "diedLocation": "tatooine",
+  "species": "twi'lek",
+  "eyeColor": "pink",
+  "skinColor": "light",
+  "affiliations": [
+    "Fortuna family",
+    "Jabba Desilijic Tiure's criminal empire"
+  ],
+  "resume": "Aqueles que tentavam fazer negócios com Jabba, o Hutt, primeiro precisavam passar por seu majordomo de rosto pálido, o Twi'lek Bib Fortuna. O atendente de manto escuro muitas vezes pairava perto do ouvido de Jabba, oferecendo conselhos e informações sobre alimentação. Fortuna seguia as regras do protocolo no tribunal do Hutt (como eram) e falava apenas em Huttese, embora entendesse outras línguas. A afiliação de Fortuna com Jabba se estendeu por décadas."
+}

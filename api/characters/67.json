@@ -1,0 +1,36 @@
+{
+  "id": 67,
+  "name": "Dooku",
+  "height": 1.93,
+  "mass": 86,
+  "gender": "male",
+  "homeworld": "serenno",
+  "wiki": "http://starwars.wikia.com/wiki/Dooku",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b8/Dooku_Headshot.jpg",
+  "born": 102,
+  "died": -19,
+  "diedLocation": "aboard invisible hand over coruscant",
+  "species": "human",
+  "hairColor": "white",
+  "eyeColor": "brown, yellowred (vision dark side)",
+  "skinColor": "light",
+  "affiliations": [
+    "House of Dooku",
+    "Lost Twenty",
+    "Sith",
+    "Independent Movement for Self-Determination",
+    "Confederacy of Independent Systems"
+  ],
+  "masters": [
+    "Yoda (Jedi)",
+    "Darth Sidious (Sith)"
+  ],
+  "apprentices": [
+    "Qui-Gon Jinn (Jedi)",
+    "Grievous (lightsaber trainee)",
+    "Asajj Ventress",
+    "Savage Opress (Sith)",
+    "Quinlan Vos (Sith)"
+  ],
+  "resume": "Esta moto era uma das favoritas do conde Dooku. Às vezes chamadas de “Flitknot Speeder”, essas bicicletas são rápidas e manobráveis, capazes de ultrapassar os helicópteros da República. Dooku usou um para escapar da primeira batalha de Geonosis e voltar para seu Navegador Solar para lutar outro dia. Eles são de design simples, com mais volume na parte traseira dos motores do que em qualquer outro lugar. Eles têm dois apoios para as mãos e dois apoios para os pés, o que os torna perfeitos para bípedes."
+}

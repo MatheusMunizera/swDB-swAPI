@@ -1,0 +1,24 @@
+{
+  "id": 5,
+  "name": "Dagobah",
+  "rotation_period": "23",
+  "orbital_period": "341",
+  "diameter": "8900",
+  "climate": "murky",
+  "gravity": "N/A",
+  "terrain": "swamp, jungles",
+  "surface_water": "8",
+  "population": "unknown",
+  "residents": [
+    "Coming Soon"
+  ],
+  "films": [
+    "The Empire Strikes Back",
+    "Return of the Jedi",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T11:42:22.590000Z",
+  "edited": "2014-12-20T20:58:18.425000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/Dagobah_890df592.jpeg",
+  "resume": "Lar de Yoda durante seus últimos anos, Dagobah era um planeta coberto de pântanos forte com a Força - um mundo esquecido onde o Mestre Jedi enrugado poderia escapar da atenção das forças imperiais. Caracterizado por suas condições de pântano e pântanos fétidos, o pântano escuro e úmido não foi desenvolvido, sem sinais de tecnologia. Embora carecesse de civilização, o planeta estava repleto de vida - desde sua densa vegetação rasteira até sua diversificada população de animais. Lar de várias criaturas reptilianas e anfíbias bastante comuns, Dagobah também ostentava uma população indígena de formas de vida muito mais massivas - e misteriosas. Cercado por criaturas que geram a Força viva, Yoda aprendeu a se conectar com a Força cósmica mais profunda e esperou por alguém que poderia trazer o retorno da Ordem Jedi."
+}

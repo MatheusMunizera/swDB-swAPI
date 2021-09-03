@@ -1,0 +1,21 @@
+{
+  "id": 24,
+  "name": "Bossk",
+  "height": 1.9,
+  "mass": 113,
+  "gender": "male",
+  "homeworld": "trandosha",
+  "wiki": "http://starwars.wikia.com/wiki/Bossk",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/1/1d/Bossk.png",
+  "species": "trandoshan",
+  "eyeColor": "orange",
+  "skinColor": "green",
+  "affiliations": [
+    "Bounty Hunters' Guild",
+    "Boba Fett's syndicate",
+    "Galactic Empire",
+    "Chelli Aphra's crew"
+  ],
+  "born": 53,
+  "resume": "Um dos mais temidos caçadores de recompensas da galáxia, Bossk usou seus instintos naturais de caça Trandoshanos para capturar sua presa. Durante as Guerras Clônicas, o reptiliano de olhos vermelhos fez parceria com Aurra Sing, Castas e o jovem Boba Fett. Bossk não ligava muito para vinganças ou política. Ele estava lá para receber o pagamento. Após uma breve passagem pela prisão da República, Bossk continuou sua parceria com Fett, tornando-se guarda-costas do adolescente caçador de recompensas. Décadas depois, Bossk respondeu ao chamado de Darth Vader para capturar o Millennium Falcon após a Batalha de Hoth, uma missão que o colocou em competição direta com Boba."
+}

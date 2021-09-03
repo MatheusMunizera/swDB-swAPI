@@ -1,0 +1,22 @@
+{
+  "id": 36,
+  "name": "Kaleesh",
+  "classification": "reptile",
+  "resume": "Os Kaleesh eram uma espécie senciente do mundo Wild Space de Kalee. O membro mais notório da espécie, General Grievous, lutou como Comandante Marcial Supremo dos Exércitos Droides Separatistas durante as Guerras Clônicas .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/d/d0/Kaleesh-Alien_Archive.jpg",
+  "designation": "sentient",
+  "average_height": "170",
+  "skin_colors": "brown, orange, tan",
+  "hair_colors": "none",
+  "eye_colors": "yellow",
+  "average_lifespan": "80",
+  "language": "Kaleesh",
+  "people": [
+    "Grievous"
+  ],
+  "films": [
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T19:45:42.537000Z",
+  "edited": "2014-12-20T21:36:42.210000Z"
+}

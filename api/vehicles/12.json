@@ -1,0 +1,20 @@
+{
+  "id": 12,
+  "name": "TIE/IN interceptor",
+  "model": "Twin Ion Engine Interceptor",
+  "manufacturer": "Sienar Fleet Systems",
+  "cost_in_credits": "unknown",
+  "length": "9.6",
+  "max_atmosphering_speed": "1250",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "75",
+  "consumables": "2 days",
+  "films": [
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-18T10:50:28.225000Z",
+  "hyperdrive_rating": null,
+  "image": "https://static.wikia.nocookie.net/starwars/images/f/f5/TIE_Interceptor_BF.png",
+  "resume": "O interceptor TIE / IN, também conhecido como TIE Interceptor, era um tipo de caça TIE usado pelo Império Galáctico, principalmente durante a Batalha de Endor   O interceptor era identificável pela adição de quatro painéis em forma de flecha com canhões de laser nas pontas ."
+}

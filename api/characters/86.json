@@ -1,0 +1,26 @@
+{
+  "id": 86,
+  "name": "Poe Dameron",
+  "height": 1.72,
+  "mass": 80,
+  "gender": "male",
+  "homeworld": "yavin 4",
+  "wiki": "http://starwars.wikia.com/wiki/Poe_Dameron",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/7/79/Poe_Dameron_TLJ.png",
+  "born": 2,
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "brown",
+  "skinColor": "tan",
+  "affiliations": [
+    "New Republic",
+    "Rapier Squadron",
+    "Resistance",
+    "Squadron",
+    "Black Squadron",
+    "Blue Squadron",
+    "Red Squadron",
+    "\"Reb\" Squadron"
+  ],
+  "resume": "Um ás dos caças da Resistência, Poe Dameron é um dos agentes mais confiáveis ​​de Leia Organa. Ele pode voar qualquer coisa - o que é uma sorte, dada a frequência com que sua natureza obstinada o leva a problemas. Poe lidera o ataque que destrói a Base Starkiller, mas logo se vê fugindo da Primeira Ordem. Colocado de lado sem seu amado X-wing, ele aprende duras lições sobre liderança, heroísmo e sacrifício. Essas lições serão essenciais na reconstrução da Resistência antes de um confronto com as forças do mal em Exegol."
+}

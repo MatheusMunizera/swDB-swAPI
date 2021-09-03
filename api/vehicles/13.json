@@ -1,0 +1,20 @@
+{
+  "id": 13,
+  "name": "Imperial Speeder Bike",
+  "model": "74-Z speeder bike",
+  "manufacturer": "Aratech Repulsor Company",
+  "cost_in_credits": "8000",
+  "length": "3",
+  "max_atmosphering_speed": "360",
+  "crew": "1",
+  "passengers": "1",
+  "cargo_capacity": "4",
+  "consumables": "1 day",
+  "films": [
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-18T11:20:04.625000Z",
+  "hyperdrive_rating": null,
+  "image": "https://static.wikia.nocookie.net/starwars/images/6/64/74zSpeederbike-NEGVV.png",
+  "resume": "A moto speeder 74-Z, por vezes referido como a bicicleta speeder imperial devido à sua utilização pelos escoteiros stormtroopers do Império Galáctico, era uma moto speeder fabricado pela Aratech Repulsor Empresa utilizados para fins de reconhecimento, bem como o transporte rápido em zonas de combate."
+}

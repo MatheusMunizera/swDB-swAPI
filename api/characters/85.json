@@ -1,0 +1,21 @@
+{
+  "id": 85,
+  "name": "Rey",
+  "height": 1.7,
+  "mass": 54,
+  "gender": "female",
+  "homeworld": "jakku",
+  "wiki": "http://starwars.wikia.com/wiki/Rey",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f8/ReyTLJEntertainmentWeeklyNovember.png",
+  "born": 15,
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "hazel",
+  "skinColor": "light",
+  "affiliations": [
+    "Resistance",
+    "Jedi Order"
+  ],
+  "masters": "Luke Skywalker",
+  "resume": "Aparentemente abandonada por seus pais em Jakku, Rey cresceu como necrófaga em meio aos destroços da guerra. Sua vida mudou quando ela concordou em ajudar um andróide em uma missão urgente para a Resistência. Rey descobriu que ela era poderosa na Força e procurou o desaparecido Mestre Jedi Luke Skywalker para treiná-la. Isso terminou em decepção, assim como sua tentativa de trazer Kylo Ren de volta à luz. Mas a resiliente Rey continuou seu treinamento e aprendeu a verdade sobre sua linhagem e sua misteriosa conexão com Kylo. Ela então enfrentou seu maior teste: um confronto com o medo e o mal que determinaria o destino da galáxia."
+}

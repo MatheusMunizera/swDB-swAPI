@@ -1,0 +1,22 @@
+{
+  "id": 57,
+  "name": "Muunilinst",
+  "rotation_period": "28",
+  "orbital_period": "412",
+  "diameter": "13800",
+  "climate": "temperate",
+  "gravity": "1",
+  "terrain": "plains, forests, hills, mountains",
+  "surface_water": "25",
+  "population": "5000000000",
+  "residents": [
+    "San Hill"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T17:57:47.420000Z",
+  "edited": "2014-12-20T20:58:18.519000Z",
+  "image": "https://static.wikia.nocookie.net/starwars/images/1/19/Muunilinst.jpg",
+  "resume": "Muunilinst (pronunciado MYOON-il-ist, com um n silencioso próximo ao final em Galactic Basic ), apelidado de Moneylend, era o mundo temperado e rico em minerais da colônia de Muun e a sede do Clã Bancário InterGaláctico."
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6,
+  "name": "Owen Lars",
+  "height": 1.7,
+  "mass": 120,
+  "gender": "male",
+  "homeworld": "tatooine",
+  "wiki": "http://starwars.wikia.com/wiki/Owen_Lars",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/OwenCardTrader.png",
+  "died": 0,
+  "diedLocation": "tatooine",
+  "species": "human",
+  "hairColor": "brown, later gray",
+  "eyeColor": "blue",
+  "skinColor": "light",
+  "affiliations": [
+    "Lars family"
+  ],
+  "born": 52,
+  "resume": "Owen Lars continuou os esforços de seu pai Cliegg para transformar sua casa em uma fazenda produtiva, trabalhando ao lado de sua esposa, Beru. Ajudando com as tarefas monótonas necessárias para manter a fazenda lucrativa, Owen confiou em seu sobrinho Luke Skywalker. Ele não conseguia controlar o impulso de Luke para a aventura, no entanto. O jovem Skywalker ansiava por deixar Tatooine e ingressar na Academia Imperial, para viver a vida entre as estrelas. Owen o proibiu, lembrando a Luke que ele era necessário na fazenda úmida. Skywalker acabaria deixando a fazenda, mas em circunstâncias trágicas. Imperiais em busca de dróides desaparecidos arrasaram a casa dos Lars e mataram Owen e Beru."
+}

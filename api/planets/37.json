@@ -1,0 +1,23 @@
+{
+  "id": 37,
+  "name": "Ryloth",
+  "rotation_period": "30",
+  "orbital_period": "305",
+  "diameter": "10600",
+  "climate": "temperate, arid, subartic",
+  "gravity": "1",
+  "terrain": "mountains, valleys, deserts, tundra",
+  "surface_water": "5",
+  "population": "1500000000",
+  "residents": [
+    "Bib Fortuna",
+    "c"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T09:46:25.740000Z",
+  "edited": "2014-12-20T20:58:18.481000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_ryloth_01_169_02c0f2c0.jpeg",
+  "resume": "Ryloth é o planeta principal do sistema Ryloth localizado na Orla Externa perto de Tatooine. É o lar dos Twi'leks, uma espécie humanóide com duas grandes caudas carnudas crescendo em seus crânios. Os Twi'leks chamam esses apêndices preênseis de lekku e podem se comunicar por meio de gestos lekku sutis, embora também falem Twi'leki. Durante as Guerras Clônicas, comandantes guerreiros Separatistas bloquearam e invadiram Ryloth, na esperança de roubar suas riquezas."
+}

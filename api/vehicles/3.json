@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "name": "X-34 landspeeder",
+  "model": "X-34 landspeeder",
+  "manufacturer": "SoroSuub Corporation",
+  "cost_in_credits": "10550",
+  "length": "3.4 ",
+  "max_atmosphering_speed": "250",
+  "crew": "1",
+  "passengers": "1",
+  "cargo_capacity": "5",
+  "consumables": "unknown",
+  "films": [
+    "A New Hope"
+  ],
+  "created": "2014-12-10T16:13:52.586000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/E4D_IA_1136_6b8704fa.jpeg",
+  "resume": "Luke Skywalker possuía uma dessas velocidades indescritíveis, mas velozes, que competia com a nave cheia de areia e desbotada pelo sol através do deserto entre a propriedade dos Lars e postos avançados, como a Estação Tosche e Anchorhead. O poderoso motor repulsorlift do X-34, que permite que ele flutue cerca de um metro acima do solo, aumentado por um trio de turbinas de empuxo resfriadas a ar. O speeder de Luke estava velho e surrado e não tinha a carenagem da turbina de bombordo, mas os ajustes e a manutenção cuidadosa - essenciais no ambiente hostil de Tatooine - o mantiveram em bom funcionamento. Após a morte de sua tia e tio, Luke vendeu seu speeder em Mos Eisley para ajudar a pagar a passagem para Alderaan.",
+  "hyperdrive_rating": null
+}

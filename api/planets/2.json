@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "name": "Alderaan",
+  "rotation_period": "24",
+  "orbital_period": "364",
+  "diameter": "12500",
+  "climate": "temperate",
+  "gravity": "1 standard",
+  "terrain": "grasslands, mountains",
+  "surface_water": "40",
+  "population": "2000000000",
+  "residents": [
+    "Leia Organa",
+    "Bail Prestor Organa",
+    "Raymus Antilles"
+  ],
+  "films": [
+    "A New Hope",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T11:35:48.479000Z",
+  "edited": "2014-12-20T20:58:18.420000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_alderaan_01_169_4a5264e2.jpeg",
+  "resume": "Se alguém precisou de um exemplo do mal irredimível que foi o Império, volte para os destroços de Alderaan. Um mundo influente, Alderaan foi representado nos últimos dias da República por políticos venerados como Bail Antilles e Bail Organa. Um mundo pacífico, Alderaan foi privado de armamento em uma era de conflito galáctico. Não foi sem espírito, no entanto. Alderaan foi um dos primeiros apoiadores da Aliança para Restaurar a República, embora seus oficiais mantivessem prudentemente todos os laços com a Rebelião em segredo. Apesar de tal discrição, o Império sabia que era um refúgio de atividade rebelde, e Grand Moff Tarkin mirou no belo mundo para represálias assim que a Estrela da Morte estivesse operacional. A enorme arma primária da estação de batalha destruiu Alderaan, deixando apenas um campo de asteróides sem vida para trás."
+}

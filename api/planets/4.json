@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "name": "Hoth",
+  "rotation_period": "23",
+  "orbital_period": "549",
+  "diameter": "7200",
+  "climate": "frozen",
+  "gravity": "1.1 standard",
+  "terrain": "tundra, ice caves, mountain ranges",
+  "surface_water": "100",
+  "population": "unknown",
+  "residents": [
+    "Coming Soon"
+  ],
+  "films": [
+    "The Empire Strikes Back"
+  ],
+  "created": "2014-12-10T11:39:13.934000Z",
+  "edited": "2014-12-20T20:58:18.423000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/Hoth_d074d307.jpeg",
+  "resume": "Hoth é o sexto planeta no sistema remoto de mesmo nome e foi o local da Base Eco da Aliança Rebelde. É um mundo de neve e gelo, cercado por numerosas luas e lar de criaturas mortais como o wampa."
+}

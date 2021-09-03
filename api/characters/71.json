@@ -1,0 +1,18 @@
+{
+  "id": 71,
+  "name": "Dexter Jettster",
+  "height": 1.88,
+  "mass": 102,
+  "gender": "male",
+  "homeworld": "ojom",
+  "wiki": "http://starwars.wikia.com/wiki/Dexter_Jettster",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6c/DexterHS-SWE.jpg",
+  "species": "besalisk",
+  "hairColor": "brown-black",
+  "eyeColor": "yellow",
+  "skinColor": "tan-brown",
+  "affiliations": [
+    "Dex's Diner"
+  ],
+  "resume": "Obi-Wan Kenobi contou com Dexter Jettster, um velho amigo, para identificar um dardo venenoso, e Jettster não o decepcionou. O cozinheiro reconheceu corretamente o projétil de ponta pequena como um dardo de sabre Kamino. Poucos já ouviram falar do planeta Kamino, mas Dex não apenas informou Obi-Wan sobre sua localização (12 parsecs ao sul do Rishi Maze), mas também seus habitantes. Dex alertou que os Kaminoanos nativos - clonadores de alguma reputação - são reservados, mas são bem-vindos àqueles que têm créditos de sobra."
+}

@@ -1,0 +1,22 @@
+{
+  "id": 13,
+  "name": "Mustafar",
+  "rotation_period": "36",
+  "orbital_period": "412",
+  "diameter": "4200",
+  "climate": "hot",
+  "gravity": "1 standard",
+  "terrain": "volcanoes, lava rivers, mountains, caves",
+  "surface_water": "0",
+  "population": "20000",
+  "residents": [
+    "Coming Soon"
+  ],
+  "films": [
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T12:50:16.526000Z",
+  "edited": "2014-12-20T20:58:18.440000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_mustafar_01_169_5b470758.jpeg",
+  "resume": "Um planeta minúsculo e ígneo na Orla Externa, Mustafar mantém uma órbita errática entre dois gigantes gasosos. Mustafar é rico em minerais únicos e valiosos que há muito são extraídos da Tech Union. Seus rios e poços de lava tornam este planeta um habitat perigoso; seus nativos têm corpos fortes e fortes que podem suportar o calor extremo. O planeta se tornou o pano de fundo para o duelo fatídico entre Obi-Wan Kenobi e Anakin Skywalker. Após a ascensão do Império, Jedi capturados foram trazidos ao mundo vulcânico para interrogatório e execução."
+}

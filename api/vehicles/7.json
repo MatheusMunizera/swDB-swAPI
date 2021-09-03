@@ -1,0 +1,21 @@
+{
+  "id": 7,
+  "name": "AT-AT",
+  "model": "All Terrain Armored Transport",
+  "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+  "cost_in_credits": "unknown",
+  "length": "20",
+  "max_atmosphering_speed": "60",
+  "crew": "5",
+  "passengers": "40",
+  "cargo_capacity": "1000",
+  "consumables": "unknown",
+  "films": [
+    "The Empire Strikes Back",
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-15T12:38:25.937000Z",
+  "hyperdrive_rating": null,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/tlj-db-first-order-at-at-walker-main-image_2cd57eb2.jpeg",
+  "resume": "Apesar de projetar veículos gigantes como o temível AT-M6, a Primeira Ordem não esqueceu os caminhantes imperiais que aterrorizavam os rebeldes em incontáveis ​​campos de batalha. O Transporte Blindado Todo-o-Terreno do regime se parece muito com seu ancestral Imperial, mas suas armas recarregam mais rapidamente e sua armadura é mais leve e mais forte."
+}

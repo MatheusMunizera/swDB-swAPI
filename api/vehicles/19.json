@@ -1,0 +1,20 @@
+{
+  "id": 19,
+  "name": "Tribubble bongo",
+  "model": "Tribubble bongo",
+  "manufacturer": "Otoh Gunga Bongameken Cooperative",
+  "cost_in_credits": "unknown",
+  "length": "15",
+  "max_atmosphering_speed": "85",
+  "crew": "1",
+  "passengers": "2",
+  "cargo_capacity": "1600",
+  "consumables": "unknown",
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-19T17:37:37.924000Z",
+  "hyperdrive_rating": null,
+  "image": "https://static.wikia.nocookie.net/starwars/images/d/d8/Bongo.jpg",
+  "resume": "Um bongô tribubble, também chamado de submarino bongô Gungan, era um transporte submersível de bioengenharia usado pelos Gungans de Naboo ."
+}

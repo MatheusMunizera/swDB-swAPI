@@ -1,0 +1,26 @@
+{
+  "id": 3,
+  "name": "Wookiee",
+  "classification": "mammal",
+  "resume": "Wookiees eram uma espécie de humanoides altos e peludos que eram nativos do planeta Kashyyyk. O membro mais notável desta espécie foi o guerreiro Chewbacca, o melhor amigo e co- piloto de Han Solo, que desempenhou um papel vital nas Guerras Clônicas durante a Batalha de Kashyyyk, a Guerra Civil Galáctica, ajudando a Aliança Rebelde em sua luta contra o Império Galáctico e a guerra contra a Primeira Ordem.",
+  "image": "https://static.wikia.nocookie.net/starwars/images/1/1e/Chewbacca-Fathead.png",
+  "designation": "sentient",
+  "average_height": "210",
+  "skin_colors": "gray",
+  "hair_colors": "black, brown",
+  "eye_colors": "blue, green, yellow, brown, golden, red",
+  "average_lifespan": "400",
+  "language": "Shyriiwook",
+  "people": [
+    "Chewbacca",
+    "Tarfful"
+  ],
+  "films": [
+    "A New Hope",
+    "The Empire Strikes Back",
+    "Return of the Jedi",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T16:44:31.486000Z",
+  "edited": "2014-12-20T21:36:42.142000Z"
+}

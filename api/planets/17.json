@@ -1,0 +1,22 @@
+{
+  "id": 17,
+  "name": "Felucia",
+  "rotation_period": "34",
+  "orbital_period": "231",
+  "diameter": "9100",
+  "climate": "hot, humid",
+  "gravity": "0.75 standard",
+  "terrain": "fungus forests",
+  "surface_water": "unknown",
+  "population": "8500000",
+  "residents": [
+    "Coming Soon"
+  ],
+  "films": [
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T13:44:50.397000Z",
+  "edited": "2014-12-20T20:58:18.447000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_felucia_01_169_2070e38e.jpeg",
+  "resume": "Felucia é um mundo repleto de formas de vida fúngicas e imensas plantas primitivas. Grande parte do planeta tem uma paisagem fétida e úmida coberta por florestas de bizarras regiões selvagens. Muitas das formas de vida em Felucia são parcial ou totalmente translúcidas; eles colorem a luz do sol à medida que os raios penetram em sua pele. Outros são opacos e imponentes, como os enormes rancores da selva que percorrem a paisagem. Sob as copas nebulosas das enormes plantas com folhas e arbustos, há uma extensão surreal encharcada de cores. Durante as Guerras Clônicas, os Jedi tentaram defender Felucia daqueles que explorariam o planeta."
+}

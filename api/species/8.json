@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "name": "Mon Calamari",
+  "classification": "amphibian",
+  "resume": "O Mon Calamari eram um humanóide, aquáticos de espécies nativas do planeta de Mon Cala. Eles compartilharam seu planeta natal com os Quarren .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/2/23/The_Mon_Calamari.png",
+  "designation": "sentient",
+  "average_height": "160",
+  "skin_colors": "red, blue, brown, magenta",
+  "hair_colors": "none",
+  "eye_colors": "yellow",
+  "average_lifespan": "unknown",
+  "language": "Mon Calamarian",
+  "people": [
+    "Ackbar"
+  ],
+  "films": [
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-18T11:09:52.263000Z",
+  "edited": "2014-12-20T21:36:42.153000Z"
+}

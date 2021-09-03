@@ -1,0 +1,21 @@
+{
+  "id": 88,
+  "name": "Captain Phasma",
+  "height": 2,
+  "mass": 76,
+  "gender": "female",
+  "homeworld": "parnassos",
+  "wiki": "http://starwars.wikia.com/wiki/Phasma",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/0/02/Phasma.png",
+  "species": "human",
+  "hairColor": "gold",
+  "eyeColor": "blue",
+  "skinColor": "pale",
+  "affiliations": [
+    "Unidentified clan",
+    "Scyre",
+    "First Order",
+    "First Order military"
+  ],
+  "resume": "Vestido com uma armadura distinta de cromo recuperado, o Capitão Phasma comanda as legiões de Stormtroopers da Primeira Ordem. Uma comandante veterana dura, ela não tem utilidade para títulos extravagantes ou salas de guerra complexas, preferindo liderar suas tropas na batalha contra os inimigos da Primeira Ordem. Um sobrevivente determinado, Phasma traiu a Primeira Ordem na Base Starkiller. Ela conseguiu esconder sua traição, mas caiu na batalha contra Finn, um de seus ex-soldados."
+}

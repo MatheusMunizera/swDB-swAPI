@@ -1,0 +1,22 @@
+{
+  "id": 15,
+  "name": "Polis Massa",
+  "rotation_period": "24",
+  "orbital_period": "590",
+  "diameter": "0",
+  "climate": "artificial temperate ",
+  "gravity": "0.56 standard",
+  "terrain": "airless asteroid",
+  "surface_water": "0",
+  "population": "1000000",
+  "residents": [
+    "Coming Soon"
+  ],
+  "films": [
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T13:33:46.405000Z",
+  "edited": "2014-12-20T20:58:18.444000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_polismassa_01_169_21f04b76.jpeg",
+  "resume": "Um obscuro planetóide nas profundezas da Orla Externa, Polis Massa ocupou um lugar importante na história galáctica: os gêmeos Skywalker nasceram lá e receberam nomes de sua mãe Padmé Amidala antes de morrer. E os planos feitos em segredo na Polis Massa um dia determinariam o destino da galáxia."
+}

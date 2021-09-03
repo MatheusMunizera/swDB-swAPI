@@ -1,0 +1,23 @@
+{
+  "id": 51,
+  "name": "Mirial",
+  "rotation_period": "unknown",
+  "orbital_period": "unknown",
+  "diameter": "unknown",
+  "climate": "unknown",
+  "gravity": "unknown",
+  "terrain": "deserts",
+  "surface_water": "unknown",
+  "population": "unknown",
+  "residents": [
+    "Luminara Unduli",
+    "Barriss Offee"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T16:44:46.318000Z",
+  "edited": "2014-12-20T20:58:18.508000Z",
+  "image": "https://static.wikia.nocookie.net/ptstarwars/images/e/e0/Mirial.jpg",
+  "resume": "Mirial era o mundo natal dos Mirialans , incluindo Luminara Unduli e Barriss Offee , e era um planeta frio e seco localizado perto da Via Hydiana"
+}

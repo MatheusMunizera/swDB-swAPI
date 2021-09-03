@@ -1,0 +1,22 @@
+{
+  "id": 16,
+  "name": "Mygeeto",
+  "rotation_period": "12",
+  "orbital_period": "167",
+  "diameter": "10088",
+  "climate": "frigid",
+  "gravity": "1 standard",
+  "terrain": "glaciers, mountains, ice canyons",
+  "surface_water": "unknown",
+  "population": "19000000",
+  "residents": [
+    "Coming Soon"
+  ],
+  "films": [
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T13:43:39.139000Z",
+  "edited": "2014-12-20T20:58:18.446000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/mygeeto-main-image_91c503cc.jpeg",
+  "resume": "Um planeta Frígido da Orla Externa marcado por paisagens cristalinas recortadas, Mygeeto era o mundo natal dos Lurmen e controlado pelo Clã Bancário InterGaláctico. Durante as cercas da Orla Externa, Ki-Adi-Mundi e as forças de clones sob o Comandante Bacara lutaram contra os dróides Separatistas pelo controle de Mygeeto. Quando o Supremo Chanceler Palpatine emitiu a Ordem 66, Bacara e seus clones mataram seu General Jedi a tiros."
+}

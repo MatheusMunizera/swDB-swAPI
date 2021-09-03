@@ -1,0 +1,22 @@
+{
+  "id": 39,
+  "name": "Vulpter",
+  "rotation_period": "22",
+  "orbital_period": "391",
+  "diameter": "14900",
+  "climate": "temperate, artic",
+  "gravity": "1",
+  "terrain": "urban, barren",
+  "surface_water": "unknown",
+  "population": "421000000",
+  "residents": [
+    "Dud Bolt"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T09:56:58.874000Z",
+  "edited": "2014-12-20T20:58:18.485000Z",
+  "image": "https://static.wikia.nocookie.net/starwars/images/b/be/Vulpter_FF7.jpg",
+  "resume": "Vulpter foi o terceiro planeta do sistema Vulpter no Deep Core, eo planeta natal dos sencientes Vulptereen espécies. Originalmente um mundo intocado com uma grande variedade de flora e fauna, Vulpter foi transformado ao longo dos milênios em um globo maciçamente poluído coberto de lixo e fábricas."
+}

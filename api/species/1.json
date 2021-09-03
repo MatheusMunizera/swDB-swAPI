@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "name": "Human",
+  "classification": "mammal",
+  "resume": "Os humanos eram uma espécie de mamíferos bípedes sencientes com simetria bilateral, possivelmente nativa do planeta Coruscant. Eles eram comumente encontrados em toda a galáxia, desde o planeta abundante de Naboo até o mundo desértico de Tatooine. Eles eram conhecidos por se envolverem em muitas atividades diferentes, desde a política até a caça de recompensas. As espécies que apresentavam semelhanças estruturais com os humanos eram chamadas de humanóides.",
+  "image": "https://static.wikia.nocookie.net/starwars/images/3/3f/HumansInTheResistance-TROS.jpg",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "caucasian, black, asian, hispanic",
+  "hair_colors": "blonde, brown, black, red",
+  "eye_colors": "brown, blue, green, hazel, grey, amber",
+  "average_lifespan": "120",
+  "language": "Galactic Basic",
+  "people": [
+    "Dormé",
+    "Dooku",
+    "Bail Prestor Organa",
+    "Jocasta Nu"
+  ],
+  "films": [
+    "A New Hope",
+    "The Empire Strikes Back",
+    "Return of the Jedi",
+    "The Phantom Menace",
+    "Attack of the Clones",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T13:52:11.567000Z",
+  "edited": "2014-12-20T21:36:42.136000Z"
+}

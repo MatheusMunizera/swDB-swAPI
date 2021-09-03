@@ -1,0 +1,19 @@
+{
+  "id": 37,
+  "name": "Roos Tarpals",
+  "height": 2.24,
+  "mass": 82,
+  "gender": "male",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Roos_Tarpals",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/c/ca/TarpalsHS.jpg",
+  "died": -20,
+  "diedLocation": "naboo",
+  "species": "gungan",
+  "eyeColor": "orange",
+  "skinColor": "purple and white",
+  "affiliations": [
+    "Gungan Grand Army"
+  ],
+  "resume": "Tarpals, chefe da patrulha de voz rouca de Otoh Gunga, sofreu muitas dores de cabeça causadas pelas travessuras de Jar Jar Binks. Tarpals ficou de olho no pária trapalhão, certificando-se de que o jovem não retornasse à sociedade Gungan. Durante a ocupação de Naboo pela Federação do Comércio, Tarpals fazia parte do Grande Exército Gungan que lutou contra os invasores dróides de batalha. Ironicamente, Tarpals serviu sob o comando de Binks, que inesperadamente recebeu o posto de general pelo próprio chefe Nass. Tarpals ficou perto de Binks, tentando manter seu comandante longe de problemas. Na época das Guerras Clônicas, Tarpals foi promovido a general e serviu como líder do Grande Exército Gungan."
+}

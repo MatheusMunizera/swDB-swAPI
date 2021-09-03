@@ -1,0 +1,22 @@
+{
+  "id": 12,
+  "name": "Utapau",
+  "rotation_period": "27",
+  "orbital_period": "351",
+  "diameter": "12900",
+  "climate": "temperate, arid, windy",
+  "gravity": "1 standard",
+  "terrain": "scrublands, savanna, canyons, sinkholes",
+  "surface_water": "0.9",
+  "population": "95000000",
+  "residents": [
+    "Tion Medon"
+  ],
+  "films": [
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-10T12:49:01.491000Z",
+  "edited": "2014-12-20T20:58:18.439000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_utapau_01_169_14a54eb1.jpeg",
+  "resume": "Rodeado por numerosas luas, o remoto santuário de Utapau é um planeta cheio de enormes buracos. Sua superfície varrida pelo vento é seca e desértica, mas nas profundezas da crosta porosa, no fundo dos buracos, há piscinas de água vivificante. Muitos dos buracos em um dos pequenos continentes do planeta são alinhados com cidades intrincadas que se estendem profundamente em cavernas e fendas sob a superfície do planeta, bem como operações de mineração que procuram descobrir minerais valiosos das profundezas do planeta."
+}

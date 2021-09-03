@@ -1,0 +1,1368 @@
+[
+ {
+   "id": 1,
+   "name": "Tatooine",
+   "rotation_period": "23",
+   "orbital_period": "304",
+   "diameter": "10465",
+   "climate": "arid",
+   "gravity": "1 standard",
+   "terrain": "desert",
+   "surface_water": "1",
+   "population": "200000",
+   "residents": [
+      "Luke Skywalker",
+      "C-3PO",
+      "Darth Vader",
+      "Owen Lars",
+      "Beru Whitesun lars",
+      "R5-D4",
+      "Biggs Darklighter",
+      "Anakin Skywalker",
+      "Shmi Skywalker",
+      "Cliegg Lars"
+   ],
+   "films": [
+      "A New Hope",
+      "Return of the Jedi",
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-09T13:50:49.641000Z",
+   "edited": "2014-12-20T20:58:18.411000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/tatooine-main_127c43c7.jpeg",
+   "resume": "Tatooine é um mundo árido de deserto orbitando sóis gêmeos na Orla Externa da galáxia. Nos dias do Império e da República, muitos colonos ganhavam a vida em fazendas úmidas, enquanto cidades-porto espaciais como Mos Eisley e Mos Espa serviam como base para contrabandistas, criminosos e outros bandidos. Anakin Skywalker e Luke Skywalker uma vez chamaram Tatooine de casa, e Obi-Wan Kenobi passou anos escondido lá. Uma vez conhecido como uma colmeia de escória e vilania, Tatooine tornou-se mais silencioso desde o fim da Guerra Civil Galáctica."
+},
+ {
+   "id": 2,
+   "name": "Alderaan",
+   "rotation_period": "24",
+   "orbital_period": "364",
+   "diameter": "12500",
+   "climate": "temperate",
+   "gravity": "1 standard",
+   "terrain": "grasslands, mountains",
+   "surface_water": "40",
+   "population": "2000000000",
+   "residents": [
+      "Leia Organa",
+      "Bail Prestor Organa",
+      "Raymus Antilles"
+   ],
+   "films": [
+      "A New Hope",
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T11:35:48.479000Z",
+   "edited": "2014-12-20T20:58:18.420000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_alderaan_01_169_4a5264e2.jpeg",
+   "resume": "Se alguém precisou de um exemplo do mal irredimível que foi o Império, volte para os destroços de Alderaan. Um mundo influente, Alderaan foi representado nos últimos dias da República por políticos venerados como Bail Antilles e Bail Organa. Um mundo pacífico, Alderaan foi privado de armamento em uma era de conflito galáctico. Não foi sem espírito, no entanto. Alderaan foi um dos primeiros apoiadores da Aliança para Restaurar a República, embora seus oficiais mantivessem prudentemente todos os laços com a Rebelião em segredo. Apesar de tal discrição, o Império sabia que era um refúgio de atividade rebelde, e Grand Moff Tarkin mirou no belo mundo para represálias assim que a Estrela da Morte estivesse operacional. A enorme arma primária da estação de batalha destruiu Alderaan, deixando apenas um campo de asteróides sem vida para trás."
+},
+ {
+   "id": 3,
+   "name": "Yavin IV",
+   "rotation_period": "24",
+   "orbital_period": "4818",
+   "diameter": "10200",
+   "climate": "temperate, tropical",
+   "gravity": "1 standard",
+   "terrain": "jungle, rainforests",
+   "surface_water": "8",
+   "population": "1000",
+   "residents": [
+      "Coming Soon"
+   ],
+   "films": [
+      "A New Hope"
+   ],
+   "created": "2014-12-10T11:37:19.144000Z",
+   "edited": "2014-12-20T20:58:18.421000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_yavin4_01_169_b6945e20.jpeg",
+   "resume": "Uma das várias luas orbitando o gigante gasoso Yavin na Orla Externa da galáxia, Yavin 4 é um mundo cheio de vapor coberto de selva e floresta. Foi o local da principal base rebelde no início da Guerra Civil Galáctica e o local de onde a Rebelião lançou o ataque que destruiu a primeira Estrela da Morte - um confronto conhecido depois como Batalha de Yavin."
+},
+ {
+   "id": 4,
+   "name": "Hoth",
+   "rotation_period": "23",
+   "orbital_period": "549",
+   "diameter": "7200",
+   "climate": "frozen",
+   "gravity": "1.1 standard",
+   "terrain": "tundra, ice caves, mountain ranges",
+   "surface_water": "100",
+   "population": "unknown",
+   "residents": [
+      "Coming Soon"
+   ],
+   "films": [
+      "The Empire Strikes Back"
+   ],
+   "created": "2014-12-10T11:39:13.934000Z",
+   "edited": "2014-12-20T20:58:18.423000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/Hoth_d074d307.jpeg",
+   "resume": "Hoth é o sexto planeta no sistema remoto de mesmo nome e foi o local da Base Eco da Aliança Rebelde. É um mundo de neve e gelo, cercado por numerosas luas e lar de criaturas mortais como o wampa."
+},
+ {
+   "id": 5,
+   "name": "Dagobah",
+   "rotation_period": "23",
+   "orbital_period": "341",
+   "diameter": "8900",
+   "climate": "murky",
+   "gravity": "N/A",
+   "terrain": "swamp, jungles",
+   "surface_water": "8",
+   "population": "unknown",
+   "residents": [
+      "Coming Soon"
+   ],
+   "films": [
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T11:42:22.590000Z",
+   "edited": "2014-12-20T20:58:18.425000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/Dagobah_890df592.jpeg",
+   "resume": "Lar de Yoda durante seus últimos anos, Dagobah era um planeta coberto de pântanos forte com a Força - um mundo esquecido onde o Mestre Jedi enrugado poderia escapar da atenção das forças imperiais. Caracterizado por suas condições de pântano e pântanos fétidos, o pântano escuro e úmido não foi desenvolvido, sem sinais de tecnologia. Embora carecesse de civilização, o planeta estava repleto de vida - desde sua densa vegetação rasteira até sua diversificada população de animais. Lar de várias criaturas reptilianas e anfíbias bastante comuns, Dagobah também ostentava uma população indígena de formas de vida muito mais massivas - e misteriosas. Cercado por criaturas que geram a Força viva, Yoda aprendeu a se conectar com a Força cósmica mais profunda e esperou por alguém que poderia trazer o retorno da Ordem Jedi."
+},
+ {
+   "id": 6,
+   "name": "Bespin",
+   "rotation_period": "12",
+   "orbital_period": "5110",
+   "diameter": "118000",
+   "climate": "temperate",
+   "gravity": "1.5 (surface), 1 standard (Cloud City)",
+   "terrain": "gas giant",
+   "surface_water": "0",
+   "population": "6000000",
+   "residents": [
+      "Lobot"
+   ],
+   "films": [
+      "The Empire Strikes Back"
+   ],
+   "created": "2014-12-10T11:43:55.240000Z",
+   "edited": "2014-12-20T20:58:18.427000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/Bespin_2d0759aa.jpeg",
+   "resume": "Isolada da turbulência galáctica por sua localização em um setor pouco visitado do espaço, Bespin é uma raridade astrofísica. Um imenso gigante gasoso cercado por várias luas, o planeta contém uma faixa de atmosfera habitável entre suas nuvens infinitas. Neste estrato de vida, garimpeiros empreendedores estabeleceram complexos de mineração flutuantes dedicados a extrair gases valiosos das profundezas do planeta. O mais conhecido desses empreendimentos é a opulenta Cloud City, anteriormente sob a administração de Lando Calrissian. Durante o final da Guerra Civil Galáctica, o Império guarneceu Bespin e assumiu a Cidade das Nuvens, embora o posto avançado e o planeta desfrutassem de liberdade após a derrota do Imperador na Batalha de Endor."
+},
+ {
+   "id": 7,
+   "name": "Endor",
+   "rotation_period": "18",
+   "orbital_period": "402",
+   "diameter": "4900",
+   "climate": "temperate",
+   "gravity": "0.85 standard",
+   "terrain": "forests, mountains, lakes",
+   "surface_water": "8",
+   "population": "30000000",
+   "residents": [
+      "Wicket Systri Warrick"
+   ],
+   "films": [
+      "Return of the Jedi"
+   ],
+   "created": "2014-12-10T11:50:29.349000Z",
+   "edited": "2014-12-20T20:58:18.429000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_endor_01_169_68ba9bdc.jpeg",
+   "resume": "Isolada em um canto remoto da galáxia, a lua da floresta de Endor facilmente teria sido esquecida pela história se não fosse pela batalha decisiva que ocorreu lá. A exuberante casa da espécie Ewok na floresta é o túmulo de Darth Vader e do próprio Império. Foi aqui que a Aliança Rebelde obteve sua vitória mais crucial sobre o Império Galáctico."
+},
+ {
+   "id": 8,
+   "name": "Naboo",
+   "rotation_period": "26",
+   "orbital_period": "312",
+   "diameter": "12120",
+   "climate": "temperate",
+   "gravity": "1 standard",
+   "terrain": "grassy hills, swamps, forests, mountains",
+   "surface_water": "12",
+   "population": "4500000000",
+   "residents": [
+      "R2-D2",
+      "Palpatine",
+      "Padmé Amidala",
+      "Jar Jar Binks",
+      "Roos Tarpals",
+      "Rugor Nass",
+      "Ric Olié",
+      "Quarsh Panaka",
+      "Gregar Typho",
+      "Cordé",
+      "Dormé"
+   ],
+   "films": [
+      "Return of the Jedi",
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T11:52:31.066000Z",
+   "edited": "2014-12-20T20:58:18.430000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_naboo_01_169_6cd7e1e0.jpeg",
+   "resume": "Um mundo idílico perto da fronteira dos Territórios da Orla Externa, Naboo é habitada por humanos pacíficos conhecidos como Naboo e uma espécie indígena de anfíbios inteligentes chamados Gungans. A superfície de Naboo consiste em lagos pantanosos, planícies onduladas e colinas verdes. Seus centros populacionais são lindos - as cidades ribeirinhas de Naboo são repletas de arquitetura clássica e vegetação, enquanto os assentamentos subaquáticos Gungan são uma bela exibição da exótica tecnologia de bolhas hidrostáticas."
+},
+ {
+   "id": 9,
+   "name": "Coruscant",
+   "rotation_period": "24",
+   "orbital_period": "368",
+   "diameter": "12240",
+   "climate": "temperate",
+   "gravity": "1 standard",
+   "terrain": "cityscape, mountains",
+   "surface_water": "unknown",
+   "population": "1000000000000",
+   "residents": [
+      "Finis Valorum",
+      "Adi Gallia",
+      "Jocasta Nu"
+   ],
+   "films": [
+      "Return of the Jedi",
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T11:54:13.921000Z",
+   "edited": "2014-12-20T20:58:18.432000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/Coruscant_03db43b4.jpeg",
+   "resume": "Um planeta coberto por uma cidade, Coruscant é o vibrante coração e capital da galáxia, apresentando uma mistura diversificada de cidadãos e cultura. Possui arranha-céus imponentes, fluxos de tráfego aéreo repleto de velocidade e níveis internos que se estendem muito abaixo da superfície do mundo. Coruscant foi a sede do governo da República Galáctica e do Império que se seguiu, e foi o local de vários eventos históricos durante as Guerras Clônicas. Também abrigava o Templo e Arquivos Jedi, que hospedavam o treinamento e aprendizado Jedi por mais de mil gerações - tradições que terminaram quando o planeta deu testemunho da Ordem 66."
+},
+ {
+   "id": 10,
+   "name": "Kamino",
+   "rotation_period": "27",
+   "orbital_period": "463",
+   "diameter": "19720",
+   "climate": "temperate",
+   "gravity": "1 standard",
+   "terrain": "ocean",
+   "surface_water": "100",
+   "population": "1000000000",
+   "residents": [
+      "Boba Fett",
+      "Lama Su",
+      "Taun We"
+   ],
+   "films": [
+      "Attack of the Clones"
+   ],
+   "created": "2014-12-10T12:45:06.577000Z",
+   "edited": "2014-12-20T20:58:18.434000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_kamino_01_169_f9027822.jpeg",
+   "resume": "Purgado dos Arquivos Jedi completos, tudo é evidência do misterioso mundo de Kamino. Um mundo solitário além da Orla Externa e logo ao sul do Rishi Maze, poucos poderiam ter previsto que Kamino se tornaria um contribuinte chave para uma mudança massiva no poder político nos dias finais da República. Kamino é um planeta de oceanos e tempestades intermináveis. Poucas características marcam sua superfície, exceto por enormes cidades sobre palafitas onde residem os habitantes naturais do planeta, os Kaminoanos. Da cidade de Tipoca, o primeiro-ministro do planeta governa. Lama Su monitorou de perto as operações do produto de exportação mais valioso de Kamino: os clones."
+},
+ {
+   "id": 11,
+   "name": "Geonosis",
+   "rotation_period": "30",
+   "orbital_period": "256",
+   "diameter": "11370",
+   "climate": "temperate, arid",
+   "gravity": "0.9 standard",
+   "terrain": "rock, desert, mountain, barren",
+   "surface_water": "5",
+   "population": "100000000000",
+   "residents": [
+      "Poggle the Lesser"
+   ],
+   "films": [
+      "Attack of the Clones"
+   ],
+   "created": "2014-12-10T12:47:22.350000Z",
+   "edited": "2014-12-20T20:58:18.437000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_geonosis_01_169_1d04e086.jpeg",
+   "resume": "Um duro mundo rochoso a menos de um parsec de Tatooine, Geonosis é um planeta anelado além das fronteiras da República Galáctica. Sua superfície nada convidativa é composta por um deserto rochoso e áspero, e as criaturas que evoluíram em Geonosis estão bem equipadas para sobreviver no ambiente brutal. A forma de vida mais avançada são os Geonosians, insetóides sencientes que habitam colméias gigantescas. Os Geonosians mantêm grandes fábricas para a produção de dróides e armas para a causa Separatista nas Guerras Clônicas. Após as Guerras Clônicas, o Império escolheu Geonosis como local de construção da primeira Estrela da Morte, restringindo as viagens ao sistema e esterilizando a superfície do planeta."
+},
+ {
+   "id": 12,
+   "name": "Utapau",
+   "rotation_period": "27",
+   "orbital_period": "351",
+   "diameter": "12900",
+   "climate": "temperate, arid, windy",
+   "gravity": "1 standard",
+   "terrain": "scrublands, savanna, canyons, sinkholes",
+   "surface_water": "0.9",
+   "population": "95000000",
+   "residents": [
+      "Tion Medon"
+   ],
+   "films": [
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T12:49:01.491000Z",
+   "edited": "2014-12-20T20:58:18.439000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_utapau_01_169_14a54eb1.jpeg",
+   "resume": "Rodeado por numerosas luas, o remoto santuário de Utapau é um planeta cheio de enormes buracos. Sua superfície varrida pelo vento é seca e desértica, mas nas profundezas da crosta porosa, no fundo dos buracos, há piscinas de água vivificante. Muitos dos buracos em um dos pequenos continentes do planeta são alinhados com cidades intrincadas que se estendem profundamente em cavernas e fendas sob a superfície do planeta, bem como operações de mineração que procuram descobrir minerais valiosos das profundezas do planeta."
+},
+ {
+   "id": 13,
+   "name": "Mustafar",
+   "rotation_period": "36",
+   "orbital_period": "412",
+   "diameter": "4200",
+   "climate": "hot",
+   "gravity": "1 standard",
+   "terrain": "volcanoes, lava rivers, mountains, caves",
+   "surface_water": "0",
+   "population": "20000",
+   "residents": [
+      "Coming Soon"
+   ],
+   "films": [
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T12:50:16.526000Z",
+   "edited": "2014-12-20T20:58:18.440000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_mustafar_01_169_5b470758.jpeg",
+   "resume": "Um planeta minúsculo e ígneo na Orla Externa, Mustafar mantém uma órbita errática entre dois gigantes gasosos. Mustafar é rico em minerais únicos e valiosos que há muito são extraídos da Tech Union. Seus rios e poços de lava tornam este planeta um habitat perigoso; seus nativos têm corpos fortes e fortes que podem suportar o calor extremo. O planeta se tornou o pano de fundo para o duelo fatídico entre Obi-Wan Kenobi e Anakin Skywalker. Após a ascensão do Império, Jedi capturados foram trazidos ao mundo vulcânico para interrogatório e execução."
+},
+ {
+   "id": 14,
+   "name": "Kashyyyk",
+   "rotation_period": "26",
+   "orbital_period": "381",
+   "diameter": "12765",
+   "climate": "tropical",
+   "gravity": "1 standard",
+   "terrain": "jungle, forests, lakes, rivers",
+   "surface_water": "60",
+   "population": "45000000",
+   "residents": [
+      "Chewbacca",
+      "Tarfful"
+   ],
+   "films": [
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T13:32:00.124000Z",
+   "edited": "2014-12-20T20:58:18.442000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_kasyyyk_01_169_aa13a490.jpeg",
+   "resume": "Kashyyyk é o planeta natal Wookiee, coberto por uma densa floresta. Embora os wookiees construam suas casas nas árvores do planeta, eles não são uma espécie primitiva, e a arquitetura Kashyyyk incorpora tecnologia sofisticada. Uma das últimas batalhas das Guerras Clônicas foi travada aqui sob a liderança de Yoda, com Wookiees e clones lutando contra o exército dróide Separatista - até que o Imperador emitiu a Ordem 66, ordenando aos clones que massacrassem todos os Jedi. Yoda sobreviveu, no entanto, com a ajuda dos nativos Chewbacca e Tarfful, que usaram uma nave oculta para evacuar o Mestre Jedi do planeta."
+},
+ {
+   "id": 15,
+   "name": "Polis Massa",
+   "rotation_period": "24",
+   "orbital_period": "590",
+   "diameter": "0",
+   "climate": "artificial temperate ",
+   "gravity": "0.56 standard",
+   "terrain": "airless asteroid",
+   "surface_water": "0",
+   "population": "1000000",
+   "residents": [
+      "Coming Soon"
+   ],
+   "films": [
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T13:33:46.405000Z",
+   "edited": "2014-12-20T20:58:18.444000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_polismassa_01_169_21f04b76.jpeg",
+   "resume": "Um obscuro planetóide nas profundezas da Orla Externa, Polis Massa ocupou um lugar importante na história galáctica: os gêmeos Skywalker nasceram lá e receberam nomes de sua mãe Padmé Amidala antes de morrer. E os planos feitos em segredo na Polis Massa um dia determinariam o destino da galáxia."
+},
+ {
+   "id": 16,
+   "name": "Mygeeto",
+   "rotation_period": "12",
+   "orbital_period": "167",
+   "diameter": "10088",
+   "climate": "frigid",
+   "gravity": "1 standard",
+   "terrain": "glaciers, mountains, ice canyons",
+   "surface_water": "unknown",
+   "population": "19000000",
+   "residents": [
+      "Coming Soon"
+   ],
+   "films": [
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T13:43:39.139000Z",
+   "edited": "2014-12-20T20:58:18.446000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/mygeeto-main-image_91c503cc.jpeg",
+   "resume": "Um planeta Frígido da Orla Externa marcado por paisagens cristalinas recortadas, Mygeeto era o mundo natal dos Lurmen e controlado pelo Clã Bancário InterGaláctico. Durante as cercas da Orla Externa, Ki-Adi-Mundi e as forças de clones sob o Comandante Bacara lutaram contra os dróides Separatistas pelo controle de Mygeeto. Quando o Supremo Chanceler Palpatine emitiu a Ordem 66, Bacara e seus clones mataram seu General Jedi a tiros."
+},
+ {
+   "id": 17,
+   "name": "Felucia",
+   "rotation_period": "34",
+   "orbital_period": "231",
+   "diameter": "9100",
+   "climate": "hot, humid",
+   "gravity": "0.75 standard",
+   "terrain": "fungus forests",
+   "surface_water": "unknown",
+   "population": "8500000",
+   "residents": [
+      "Coming Soon"
+   ],
+   "films": [
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T13:44:50.397000Z",
+   "edited": "2014-12-20T20:58:18.447000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_felucia_01_169_2070e38e.jpeg",
+   "resume": "Felucia é um mundo repleto de formas de vida fúngicas e imensas plantas primitivas. Grande parte do planeta tem uma paisagem fétida e úmida coberta por florestas de bizarras regiões selvagens. Muitas das formas de vida em Felucia são parcial ou totalmente translúcidas; eles colorem a luz do sol à medida que os raios penetram em sua pele. Outros são opacos e imponentes, como os enormes rancores da selva que percorrem a paisagem. Sob as copas nebulosas das enormes plantas com folhas e arbustos, há uma extensão surreal encharcada de cores. Durante as Guerras Clônicas, os Jedi tentaram defender Felucia daqueles que explorariam o planeta."
+},
+ {
+   "id": 18,
+   "name": "Cato Neimoidia",
+   "rotation_period": "25",
+   "orbital_period": "278",
+   "diameter": "0",
+   "climate": "temperate, moist",
+   "gravity": "1 standard",
+   "terrain": "mountains, fields, forests, rock arches",
+   "surface_water": "unknown",
+   "population": "10000000",
+   "residents": [
+      "Nute Gunray"
+   ],
+   "films": [
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T13:46:28.704000Z",
+   "edited": "2014-12-20T20:58:18.449000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_catoneimoidia_01_169_d2b9bb58.jpeg",
+   "resume": "Um mundo colônia Neimoidiana, os palácios de joias de Cato Neimoidia e as opulentas cidades-ponte eram o orgulho e a alegria dos barões da Federação do Comércio, que buscavam constantemente superar uns aos outros e deslumbrar os hóspedes com exibições de hospitalidade ostentosa e vida luxuosa."
+},
+ {
+   "id": 19,
+   "name": "Saleucami",
+   "rotation_period": "26",
+   "orbital_period": "392",
+   "diameter": "14920",
+   "climate": "hot",
+   "gravity": "unknown",
+   "terrain": "caves, desert, mountains, volcanoes",
+   "surface_water": "unknown",
+   "population": "1400000000",
+   "residents": [
+      "Coming Soon"
+   ],
+   "films": [
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T13:47:46.874000Z",
+   "edited": "2014-12-20T20:58:18.450000Z",
+   "image": "",
+   "resume": ""
+},
+ {
+   "id": 20,
+   "name": "Stewjon",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "0",
+   "climate": "temperate",
+   "gravity": "1 standard",
+   "terrain": "grass",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Obi-Wan Kenobi"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-10T16:16:26.566000Z",
+   "edited": "2014-12-20T20:58:18.452000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_saleucami_01_169_3036720a.jpeg",
+   "resume": "Um mundo de terreno misto, de ambientes úmidos e pantanosos marcados com estranhas plantas bulbosas a desertos áridos, Saleucami é um planeta da Orla Externa que permaneceu intocado pelas Guerras Clônicas durante a maior parte dos combates. Os colonos de Saleucami queriam evitar a destruição da guerra e viver uma existência simples em paz, apenas lutando contra os elementos. Infelizmente, o combate chegou a Saleucami, e foi um importante local de batalha durante os Cerco da Orla Externa das Guerras Clônicas."
+},
+ {
+   "id": 21,
+   "name": "Eriadu",
+   "rotation_period": "24",
+   "orbital_period": "360",
+   "diameter": "13490",
+   "climate": "polluted",
+   "gravity": "1 standard",
+   "terrain": "cityscape",
+   "surface_water": "unknown",
+   "population": "22000000000",
+   "residents": [
+      "Wilhuff Tarkin"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-10T16:26:54.384000Z",
+   "edited": "2014-12-20T20:58:18.454000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/7/75/Eriadu_AoRGMT.png",
+   "resume": "Eriadu era um planeta na Orla Externa. O planeta apresentava montanhas e selvas e tinha uma mortalha negra. A principal indústria e exportação de Eriadu girava em torno do minério de lommite, que era abundante no planeta. Eriadu também era o mundo natal da família Tarkin, incluindo Grand Moff Wilhuff Tarkin ."
+},
+ {
+   "id": 22,
+   "name": "Corellia",
+   "rotation_period": "25",
+   "orbital_period": "329",
+   "diameter": "11000",
+   "climate": "temperate",
+   "gravity": "1 standard",
+   "terrain": "plains, urban, hills, forests",
+   "surface_water": "70",
+   "population": "3000000000",
+   "residents": [
+      "Han Solo",
+      "Wedge Antilles"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-10T16:49:12.453000Z",
+   "edited": "2014-12-20T20:58:18.456000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/corellia-main_b70b23a7.jpeg",
+   "resume": "Um mundo antigo no Núcleo galáctico, Corellia é conhecida pela sede de viagens de seu povo e seus enormes estaleiros. Corellia desempenhou um papel fundamental na expansão da civilização galáctica, mas isso foi há milhares de anos. Agora é um planeta industrial desbotado, explorado pelo Império para construir caças TIE e Destroyers Estelares. Os corellianos que não nasceram com dinheiro ou influência esperam escapar de seu mundo natal em busca de uma vida melhor."
+},
+ {
+   "id": 23,
+   "name": "Rodia",
+   "rotation_period": "29",
+   "orbital_period": "305",
+   "diameter": "7549",
+   "climate": "hot",
+   "gravity": "1 standard",
+   "terrain": "jungles, oceans, urban, swamps",
+   "surface_water": "60",
+   "population": "1300000000",
+   "residents": [
+      "Greedo"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-10T17:03:28.110000Z",
+   "edited": "2014-12-20T20:58:18.458000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_rodia_01_169_6f76b79d.jpeg",
+   "resume": "Planeta da selva que abriga as espécies de Rodian. Seus habitantes vivem em cidades com cúpulas."
+},
+ {
+   "id": 24,
+   "name": "Nal Hutta",
+   "rotation_period": "87",
+   "orbital_period": "413",
+   "diameter": "12150",
+   "climate": "temperate",
+   "gravity": "1 standard",
+   "terrain": "urban, oceans, swamps, bogs",
+   "surface_water": "unknown",
+   "population": "7000000000",
+   "residents": [
+      "Jabba Desilijic Tiure"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-10T17:11:29.452000Z",
+   "edited": "2014-12-20T20:58:18.460000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_nalhutta_01_169_72d58d25.jpeg",
+   "resume": "Um planeta pantanoso e anelado controlado pelos Hutts, Nal Hutta tem sido um paraíso para atividades criminosas, longe dos olhos curiosos das autoridades galácticas. Sua atmosfera quente é freqüentemente riscada por chuva gordurosa, criando uma sauna fétida na qual Hutts se sente mais confortável. As cidades Hutt são construídas nas poucas terras firmes que existem, incluindo o mercado do espaçoporto de Bilbousa. Uma série de casas flutuantes também pontilham os bayous - os visitantes atravessam os pântanos em fanboats repulsorlift, arriscando a atenção de cobras-dragão e outras criaturas perigosas."
+},
+ {
+   "id": 25,
+   "name": "Dantooine",
+   "rotation_period": "25",
+   "orbital_period": "378",
+   "diameter": "9830",
+   "climate": "temperate",
+   "gravity": "1 standard",
+   "terrain": "oceans, savannas, mountains, grasslands",
+   "surface_water": "unknown",
+   "population": "1000",
+   "residents": [
+      "Coming Soon"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-10T17:23:29.896000Z",
+   "edited": "2014-12-20T20:58:18.461000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/dantooine_f1c04676.jpeg",
+   "resume": "Local da primeira base da Aliança Rebelde, Dantooine é um mundo da Orla Exterior, repleto de florestas exuberantes e paisagens verdes. A Aliança mais tarde deixaria Dantooine por um novo lar em um esforço para ficar um passo à frente do Império."
+},
+ {
+   "id": 26,
+   "name": "Bestine IV",
+   "rotation_period": "26",
+   "orbital_period": "680",
+   "diameter": "6400",
+   "climate": "temperate",
+   "gravity": "unknown",
+   "terrain": "rocky islands, oceans",
+   "surface_water": "98",
+   "population": "62000000",
+   "residents": [
+      "Jek Tono Porkins"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-12T11:16:55.078000Z",
+   "edited": "2014-12-20T20:58:18.463000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/8c/Bestine-TFABG.png",
+   "resume": "Bestine IV, também conhecidos simplesmente como Bestine, era um planeta localizado no o Galaxy 's rebordo interno no Corelliano Espinha Comercial que realizou o quarto orbital posição no sistema Bestine. O Shahkirin mecânico Yipsit cresceu nas arribas de Bestine IV antes de se juntar a resistência."
+},
+ {
+   "id": 27,
+   "name": "Ord Mantell",
+   "rotation_period": "26",
+   "orbital_period": "334",
+   "diameter": "14050",
+   "climate": "temperate",
+   "gravity": "1 standard",
+   "terrain": "plains, seas, mesas",
+   "surface_water": "10",
+   "population": "4000000000",
+   "residents": [
+      "Coming Soon"
+   ],
+   "films": [
+      "The Empire Strikes Back"
+   ],
+   "created": "2014-12-15T12:23:41.661000Z",
+   "edited": "2014-12-20T20:58:18.464000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/image_cdc70c91.jpeg",
+   "resume": "Nos últimos dias da República, Ord Mantell abrigou uma base de operações para o sindicato do crime Black Sun. Durante as Guerras Clônicas, uma batalha foi travada no planeta entre os separatistas e o Shadow Collective, do qual Black Sun era um membro. Mais tarde, o general da Aliança Rebelde e ex-contrabandista Han Solo teve um encontro com um caçador de recompensas no planeta."
+},
+ {
+   "id": 28,
+   "name": "unknown",
+   "rotation_period": "0",
+   "orbital_period": "0",
+   "diameter": "0",
+   "climate": "unknown",
+   "gravity": "unknown",
+   "terrain": "unknown",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Yoda",
+      "IG-88",
+      "Arvel Crynyd",
+      "Qui-Gon Jinn",
+      "R4-P17"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-15T12:25:59.569000Z",
+   "edited": "2014-12-20T20:58:18.466000Z",
+   "image": "https://vignette.wikia.nocookie.net/starwars/images/unkown",
+   "resume": "Unknown representa um planeta desconhecido, é usado quando não se sabe o planeta natal do personagem"
+},
+ {
+   "id": 29,
+   "name": "Trandosha",
+   "rotation_period": "25",
+   "orbital_period": "371",
+   "diameter": "0",
+   "climate": "arid",
+   "gravity": "0.62 standard",
+   "terrain": "mountains, seas, grasslands, deserts",
+   "surface_water": "unknown",
+   "population": "42000000",
+   "residents": [
+      "Bossk"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-15T12:53:47.695000Z",
+   "edited": "2014-12-20T20:58:18.468000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_trandoshan_01_169_26a8a28f.jpeg",
+   "resume": "Trandoshans são humanóides reptilianos, com pele viscosa e escamosa. Eles têm braços e pernas compridos e são conhecidos por serem excelentes caçadores."
+},
+ {
+   "id": 30,
+   "name": "Socorro",
+   "rotation_period": "20",
+   "orbital_period": "326",
+   "diameter": "0",
+   "climate": "arid",
+   "gravity": "1 standard",
+   "terrain": "deserts, mountains",
+   "surface_water": "unknown",
+   "population": "300000000",
+   "residents": [
+      "Lando Calrissian"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-15T12:56:31.121000Z",
+   "edited": "2014-12-20T20:58:18.469000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/7/79/Socorro.png",
+   "resume": "Socorro era um um objecto astronómico localizado no sistema de ouro dentro da galáxia Anel Externo territórios. Era o mundo natal de Landonis Balthazar Calrissian, ex- Barão Administrador da Cidade das Nuvens. Era também a localização de cinturões de asteróides com grandes quantidades de minério de doonium. [4] A ex- rainha pirata Maz Kanata marcou como um porto das sombras em um mapa que ela incluiu no livro que ficou conhecido como o Guia do Contrabandista. "
+},
+ {
+   "id": 31,
+   "name": "Mon Cala",
+   "rotation_period": "21",
+   "orbital_period": "398",
+   "diameter": "11030",
+   "climate": "temperate",
+   "gravity": "1",
+   "terrain": "oceans, reefs, islands",
+   "surface_water": "100",
+   "population": "27000000000",
+   "residents": [
+      "Ackbar"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-18T11:07:01.792000Z",
+   "edited": "2014-12-20T20:58:18.471000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_moncala_01_169_b5bc76f1.jpeg",
+   "resume": "Também conhecido como Mon Calamari ou Dac, Mon Cala é um lindo mundo aquático repleto de exuberantes recifes de coral e florestas de algas marinhas banhadas pela luz de dois sóis. É o lar do povo Mon Calamari e Quarren. As duas culturas há muito se enfrentam por causa de suas diferenças, mas sob o governo do 82º Rei de Mon Cala, Yos Kolina, essas disputas foram mantidas civilizadas e respeitosas. Seu súbito assassinato e a chegada de forças Separatistas durante as Guerras Clônicas inclinaram a balança para a guerra civil, com os Quarren encenando um levante contra os Mon Calamari, apoiados pelas forças da Confederação e pelo líder Karkaradon, Riff Tamson. Cabia aos enviados Jedi e da República ajudar o jovem Príncipe Lee-Char, herdeiro do trono Mon Cala, a restaurar a paz ao planeta."
+},
+ {
+   "id": 32,
+   "name": "Chandrila",
+   "rotation_period": "20",
+   "orbital_period": "368",
+   "diameter": "13500",
+   "climate": "temperate",
+   "gravity": "1",
+   "terrain": "plains, forests",
+   "surface_water": "40",
+   "population": "1200000000",
+   "residents": [
+      "Mon Mothma"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-18T11:11:51.872000Z",
+   "edited": "2014-12-20T20:58:18.472000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/9b/Chandrila_AoRCR.png",
+   "resume": "Chandrila era um planeta no núcleo Mundos de galáxia. A fêmea humana Mon Mothma veio de Chandrila e representou seu mundo natal no Senado da República Galáctica. Foi também o mundo natal e local de nascimento de Ben Solo."
+},
+ {
+   "id": 33,
+   "name": "Sullust",
+   "rotation_period": "20",
+   "orbital_period": "263",
+   "diameter": "12780",
+   "climate": "superheated",
+   "gravity": "1",
+   "terrain": "mountains, volcanoes, rocky deserts",
+   "surface_water": "5",
+   "population": "18500000000",
+   "residents": [
+      "Nien Nunb"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-18T11:25:40.243000Z",
+   "edited": "2014-12-20T20:58:18.474000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_sullustan_01_169_01e4c3e0.jpeg",
+   "resume": "Sullustans são seres humanóides do planeta Sullust com duas pontas de papada ao redor de suas bochechas; Nien Nunb, co-piloto de Lando Calrissian na Batalha de Endor, era um Sullustan notável."
+},
+ {
+   "id": 34,
+   "name": "Toydaria",
+   "rotation_period": "21",
+   "orbital_period": "184",
+   "diameter": "7900",
+   "climate": "temperate",
+   "gravity": "1",
+   "terrain": "swamps, lakes",
+   "surface_water": "unknown",
+   "population": "11000000",
+   "residents": [
+      "Watto"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-19T17:47:54.403000Z",
+   "edited": "2014-12-20T20:58:18.476000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_toydaria_01_169_70b20e0e.jpeg",
+   "resume": "Toydaria é um mundo de névoa, pântano e floresta. Ele desempenhou um papel estratégico fundamental nas Guerras Clônicas, já que o rei do planeta, Katuunko, optou por permanecer neutro no conflito em curso. Após uma visita de Jar Jar Binks e Bail Organa, no entanto, o rei jurou lealdade à República e permitiu que Toydaria fosse usada como um ponto intermediário para entrega de suprimentos aos clones."
+},
+ {
+   "id": 35,
+   "name": "Malastare",
+   "rotation_period": "26",
+   "orbital_period": "201",
+   "diameter": "18880",
+   "climate": "arid, temperate, tropical",
+   "gravity": "1.56",
+   "terrain": "swamps, deserts, jungles, mountains",
+   "surface_water": "unknown",
+   "population": "2000000000",
+   "residents": [
+      "Sebulba"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-19T17:52:13.106000Z",
+   "edited": "2014-12-20T20:58:18.478000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_malastare_01_169_59df245f.jpeg",
+   "resume": "Localizada na Orla Média da galáxia, Malastare era o mundo natal dos irascíveis Dugs, que provaram ser membros leais, mas difíceis, da República Galáctica. As extensas reservas de combustível do planeta tornaram-no vital para a máquina de guerra da República e tornou-se um campo de batalha crítico durante as Guerras Clônicas. Como resultado de uma enorme batalha terrestre entre a República e os Separatistas, uma criatura monstruosa conhecida como a Besta Zillo foi libertada em Malastare."
+},
+ {
+   "id": 36,
+   "name": "Dathomir",
+   "rotation_period": "24",
+   "orbital_period": "491",
+   "diameter": "10480",
+   "climate": "temperate",
+   "gravity": "0.9",
+   "terrain": "forests, deserts, savannas",
+   "surface_water": "unknown",
+   "population": "5200",
+   "residents": [
+      "Darth Maul"
+   ],
+   "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-19T18:00:40.142000Z",
+   "edited": "2014-12-20T20:58:18.480000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_dathomir_01_169_304c5db2.jpeg",
+   "resume": "Um planeta remoto, Dathomir está encharcado de luz vermelho-sangue de sua estrela central. O planeta tem continentes invadidos por vegetação retorcida, com florestas de árvores tortas carregadas por grandes frutos semelhantes a casulos. Ao lado de densos pântanos, estão as maciças fortalezas de pedra das Irmãs da Noite, um clã de bruxas. As Irmãs da Noite mantinham-se reservadas, mas ocasionalmente eram conhecidas por oferecer seus serviços àqueles que despertavam seus interesses. Longe das Irmãs da Noite viviam os Irmãos da Noite - um clã tatuado de guerreiros Zabrak eram subservientes às suas contrapartes femininas."
+},
+ {
+   "id": 37,
+   "name": "Ryloth",
+   "rotation_period": "30",
+   "orbital_period": "305",
+   "diameter": "10600",
+   "climate": "temperate, arid, subartic",
+   "gravity": "1",
+   "terrain": "mountains, valleys, deserts, tundra",
+   "surface_water": "5",
+   "population": "1500000000",
+   "residents": [
+      "Bib Fortuna",
+      "c"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T09:46:25.740000Z",
+   "edited": "2014-12-20T20:58:18.481000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_ryloth_01_169_02c0f2c0.jpeg",
+   "resume": "Ryloth é o planeta principal do sistema Ryloth localizado na Orla Externa perto de Tatooine. É o lar dos Twi'leks, uma espécie humanóide com duas grandes caudas carnudas crescendo em seus crânios. Os Twi'leks chamam esses apêndices preênseis de lekku e podem se comunicar por meio de gestos lekku sutis, embora também falem Twi'leki. Durante as Guerras Clônicas, comandantes guerreiros Separatistas bloquearam e invadiram Ryloth, na esperança de roubar suas riquezas."
+},
+ {
+   "id": 38,
+   "name": "Aleen Minor",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "unknown",
+   "climate": "Desertos, Selvas, Mesas",
+   "gravity": "unknown",
+   "terrain": "unknown",
+   "surface_water": "unknown",
+   "population": "Aleena, Kindalo",
+   "residents": [
+      "Ratts Tyerel"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T09:52:23.452000Z",
+   "edited": "2014-12-20T20:58:18.483000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_aleen_01_169_40bcb2df.jpeg",
+   "resume": "Um mundo rochoso e temperado encontrado na Orla Média da galáxia, o planeta Aleen é conhecido por seus amistosos e turbulentos nativos, os Aleena, que viajaram por toda a galáxia. Abaixo do solo de Aleen estão outras civilizações, desconhecidas para o mundo da superfície ou para a República. Uma série de terremotos devastadores sofridos pelo planeta durante as Guerras Clônicas expôs passagens que conectavam os mundos exterior e interior."
+},
+ {
+   "id": 39,
+   "name": "Vulpter",
+   "rotation_period": "22",
+   "orbital_period": "391",
+   "diameter": "14900",
+   "climate": "temperate, artic",
+   "gravity": "1",
+   "terrain": "urban, barren",
+   "surface_water": "unknown",
+   "population": "421000000",
+   "residents": [
+      "Dud Bolt"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T09:56:58.874000Z",
+   "edited": "2014-12-20T20:58:18.485000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/be/Vulpter_FF7.jpg",
+   "resume": "Vulpter foi o terceiro planeta do sistema Vulpter no Deep Core, eo planeta natal dos sencientes Vulptereen espécies. Originalmente um mundo intocado com uma grande variedade de flora e fauna, Vulpter foi transformado ao longo dos milênios em um globo maciçamente poluído coberto de lixo e fábricas."
+},
+ {
+   "id": 40,
+   "name": "Troiken",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "unknown",
+   "climate": "unknown",
+   "gravity": "unknown",
+   "terrain": "desert, tundra, rainforests, mountains",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Gasgano"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T10:01:37.395000Z",
+   "edited": "2014-12-20T20:58:18.487000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/ce/Troiken.jpg",
+   "resume": "Troiken era um planeta localizado no sistema Troiken dos Territórios da Orla Exterior, e o mundo natal dos Xexto ."
+},
+ {
+   "id": 41,
+   "name": "Tund",
+   "rotation_period": "48",
+   "orbital_period": "1770",
+   "diameter": "12190",
+   "climate": "unknown",
+   "gravity": "unknown",
+   "terrain": "barren, ash",
+   "surface_water": "unknown",
+   "population": "0",
+   "residents": [
+      "Ben Quadinaros"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T10:07:29.578000Z",
+   "edited": "2014-12-20T20:58:18.489000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/31/Tund_TEA.jpg",
+   "resume": "Tund era um planeta terrestre verdejante e um poderoso nexo de Força situado na fronteira nordeste do Mar Aberto no setor da Centralidade ."
+},
+ {
+   "id": 42,
+   "name": "Haruun Kal",
+   "rotation_period": "25",
+   "orbital_period": "383",
+   "diameter": "10120",
+   "climate": "temperate",
+   "gravity": "0.98",
+   "terrain": "toxic cloudsea, plateaus, volcanoes",
+   "surface_water": "unknown",
+   "population": "705300",
+   "residents": [
+      "Mace Windu"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T10:12:28.980000Z",
+   "edited": "2014-12-20T20:58:18.491000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/92/HaruunKalCSWE.JPG",
+   "resume": "O planeta Haruun Kal ( Acima das Nuvens em Basic, também conhecido como Haruun Kul ou Al'Har I ), localizado no setor Dustig da Orla Média no Loop de Gevarno, era o mundo natal do famoso Mestre Jedi Mace Windu. Sua capital era Pelek Baw ."
+},
+ {
+   "id": 43,
+   "name": "Cerea",
+   "rotation_period": "27",
+   "orbital_period": "386",
+   "diameter": "unknown",
+   "climate": "temperate",
+   "gravity": "1",
+   "terrain": "verdant",
+   "surface_water": "20",
+   "population": "450000000",
+   "residents": [
+      "Ki-Adi-Mundi"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T10:14:48.178000Z",
+   "edited": "2014-12-20T20:58:18.493000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/cc/Cerea-FDCR.png",
+   "resume": "Cerea era um planeta localizado na região da Orla Média da galáxia. O natal das Cerean espécies, Cerea era notável pela relação harmoniosa dos seus habitantes com a natureza. Tecnologia e poluição eram desaprovadas pelo governo conservador, um ponto importante na decisão do planeta de não se juntar à República Galáctica ."
+},
+ {
+   "id": 44,
+   "name": "Glee Anselm",
+   "rotation_period": "33",
+   "orbital_period": "206",
+   "diameter": "15600",
+   "climate": "tropical, temperate",
+   "gravity": "1",
+   "terrain": "lakes, islands, swamps, seas",
+   "surface_water": "80",
+   "population": "500000000",
+   "residents": [
+      "Kit Fisto"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T10:18:26.110000Z",
+   "edited": "2014-12-20T20:58:18.495000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/0/0c/GleeAnselm.jpg",
+   "resume": "Glee Anselm foi um oceano planeta localizado no sistema Jalor da galáxia é Mid Rim que era a terra natal do Anselmi e Nautolan espécies. Star Tours, uma empresa de turismo, ofereceu passeios de férias em Glee Anselm durante as Guerras Clônicas. "
+},
+ {
+   "id": 45,
+   "name": "Iridonia",
+   "rotation_period": "29",
+   "orbital_period": "413",
+   "diameter": "unknown",
+   "climate": "unknown",
+   "gravity": "unknown",
+   "terrain": "rocky canyons, acid pools",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Eeth Koth"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T10:26:05.788000Z",
+   "edited": "2014-12-20T20:58:18.497000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/c5/Iridonia.jpg",
+   "resume": "Iridonia era o mundo natal das espécies Zabrak. Devido às duras condições de vida, os Zabrak eram uma espécie resistente. Eles começaram a voar e depois a viagens espaciais assim que puderam desenvolver a tecnologia, e quando os Duros os encontraram, eles já haviam colonizado cinco sistemas. Iridonianos notáveis ​​incluíam Agen Kolar, Bao-Dur, Drell Kahmf, Sirak e Maris Brood ."
+},
+ {
+   "id": 46,
+   "name": "Tholoth",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "unknown",
+   "climate": "unknown",
+   "gravity": "unknown",
+   "terrain": "unknown",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Coming Soon"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T10:28:31.117000Z",
+   "edited": "2014-12-20T20:58:18.498000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/13/Tholothian_Mystic_UP_Audrey_Hotte.png",
+   "resume": "Tholoth era um planeta localizado na região das colônias da galáxia que era o mundo natal das espécies Tholothian. Tholoth também era o mundo natal do Mestre Jedi Stass Allie , que lutou e morreu durante as Guerras Clônicas ."
+},
+ {
+   "id": 47,
+   "name": "Iktotch",
+   "rotation_period": "22",
+   "orbital_period": "481",
+   "diameter": "unknown",
+   "climate": "arid, rocky, windy",
+   "gravity": "1",
+   "terrain": "rocky",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Saesee Tiin"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T10:31:32.413000Z",
+   "edited": "2014-12-20T20:58:18.500000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f1/Iktotch_FDNP.png",
+   "resume": "O satélite do gigante gasoso Iktotchon, Iktotch foi a lua rochosa na qual as resistentes espécies Iktotchi evoluíram e desenvolveram uma sociedade acidentada."
+},
+ {
+   "id": 48,
+   "name": "Quermia",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "unknown",
+   "climate": "unknown",
+   "gravity": "unknown",
+   "terrain": "unknown",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Yarael Poof"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T10:34:08.249000Z",
+   "edited": "2014-12-20T20:58:18.502000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/29/Quermia_NEGAS.jpg",
+   "resume": "Quermia era um planeta celestial terraformado e o mundo natal da espécie Quermian. Ele estava localizado perto do final da Rota Comercial Perlemiana."
+},
+ {
+   "id": 49,
+   "name": "Dorin",
+   "rotation_period": "22",
+   "orbital_period": "409",
+   "diameter": "13400",
+   "climate": "temperate",
+   "gravity": "1",
+   "terrain": "unknown",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Plo Koon"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T10:48:36.141000Z",
+   "edited": "2014-12-20T20:58:18.504000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/9b/Dorin-FDCR.png",
+   "resume": "Dorin era um planeta escuro e empoeirado na Região de Expansão. Foi o natal das Dors Kel, com uma atmosfera de um gás original e hélio."
+},
+ {
+   "id": 50,
+   "name": "Champala",
+   "rotation_period": "27",
+   "orbital_period": "318",
+   "diameter": "unknown",
+   "climate": "temperate",
+   "gravity": "1",
+   "terrain": "oceans, rainforests, plateaus",
+   "surface_water": "unknown",
+   "population": "3500000000",
+   "residents": [
+      "Mas Amedda"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T10:52:51.524000Z",
+   "edited": "2014-12-20T20:58:18.506000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d7/Champala_NEGAS.jpg",
+   "resume": "Champala, também chamado de Chagria, era um planeta na Orla Interna e o mundo natal do povo chagriano. A maioria de seus portos estelares ficava alta e seca nos planaltos, mas suas cidades ficavam submersas na maré alta. Era um resort mundialmente popular."
+},
+ {
+   "id": 51,
+   "name": "Mirial",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "unknown",
+   "climate": "unknown",
+   "gravity": "unknown",
+   "terrain": "deserts",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Luminara Unduli",
+      "Barriss Offee"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T16:44:46.318000Z",
+   "edited": "2014-12-20T20:58:18.508000Z",
+   "image": "https://static.wikia.nocookie.net/ptstarwars/images/e/e0/Mirial.jpg",
+   "resume": "Mirial era o mundo natal dos Mirialans , incluindo Luminara Unduli e Barriss Offee , e era um planeta frio e seco localizado perto da Via Hydiana"
+},
+ {
+   "id": 52,
+   "name": "Serenno",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "unknown",
+   "climate": "unknown",
+   "gravity": "unknown",
+   "terrain": "rainforests, rivers, mountains",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Dooku"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T16:52:13.357000Z",
+   "edited": "2014-12-20T20:58:18.510000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b2/Serenno-Massacre.png",
+   "resume": "Serenno era um planeta localizado nos Territórios da Orla Exterior, coberto por florestas , montanhas e planícies exuberantes . Serenno foi nomeado após a Casa Serenno, que era a família que a governava."
+},
+ {
+   "id": 53,
+   "name": "Concord Dawn",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "unknown",
+   "climate": "unknown",
+   "gravity": "unknown",
+   "terrain": "jungles, forests, deserts",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Jango Fett"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T16:54:39.909000Z",
+   "edited": "2014-12-20T20:58:18.512000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/concord-dawn_4277a880.jpeg",
+   "resume": "Concord Dawn era um sistema sob controle Mandaloriano, liderado pelo lendário guerreiro Fenn Rau e seu grupo de Protetores. Enquanto Rau entrava em um acordo com o Império, ele finalmente concedeu aos rebeldes passagem segura pelo sistema Concord Dawn."
+},
+ {
+   "id": 54,
+   "name": "Zolan",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "unknown",
+   "climate": "unknown",
+   "gravity": "unknown",
+   "terrain": "unknown",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Zam Wesell"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T16:56:37.250000Z",
+   "edited": "2014-12-20T20:58:18.514000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/66/Zolan.jpg",
+   "resume": "Zolan era um planeta que era o mundo natal da espécie Zolander e sua ramificação Clawdite."
+},
+ {
+   "id": 55,
+   "name": "Ojom",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "unknown",
+   "climate": "frigid",
+   "gravity": "unknown",
+   "terrain": "oceans, glaciers",
+   "surface_water": "100",
+   "population": "500000000",
+   "residents": [
+      "Dexter Jettster"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T17:27:41.286000Z",
+   "edited": "2014-12-20T20:58:18.516000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/9f/Ojom.jpg",
+   "resume": "Ojom era um planeta oceânico congelado localizado no Núcleo Profundo e no mundo natal do Besalisk . Em grande parte inóspitas, várias estações espaciais ficaram suspensas em órbita para acomodar outras espécies menos aclimatadas ao frio."
+},
+ {
+   "id": 56,
+   "name": "Skako",
+   "rotation_period": "27",
+   "orbital_period": "384",
+   "diameter": "unknown",
+   "climate": "temperate",
+   "gravity": "1",
+   "terrain": "urban, vines",
+   "surface_water": "unknown",
+   "population": "500000000000",
+   "residents": [
+      "Wat Tambor"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T17:50:47.864000Z",
+   "edited": "2014-12-20T20:58:18.517000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/cd/Skako.jpg",
+   "resume": "Skako era uma ecumenópolis na Via Hydiana no núcleo galáctico e mundo natal das espécies Skakoan . Embora a maior parte de Skako fosse coberta por expansão urbana, alguns exemplos do ecossistema original do planeta foram preservados na forma de vastos campos de videiras."
+},
+ {
+   "id": 57,
+   "name": "Muunilinst",
+   "rotation_period": "28",
+   "orbital_period": "412",
+   "diameter": "13800",
+   "climate": "temperate",
+   "gravity": "1",
+   "terrain": "plains, forests, hills, mountains",
+   "surface_water": "25",
+   "population": "5000000000",
+   "residents": [
+      "San Hill"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T17:57:47.420000Z",
+   "edited": "2014-12-20T20:58:18.519000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/19/Muunilinst.jpg",
+   "resume": "Muunilinst (pronunciado MYOON-il-ist, com um n silencioso próximo ao final em Galactic Basic ), apelidado de Moneylend, era o mundo temperado e rico em minerais da colônia de Muun e a sede do Clã Bancário InterGaláctico."
+},
+ {
+   "id": 58,
+   "name": "Shili",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "unknown",
+   "climate": "temperate",
+   "gravity": "1",
+   "terrain": "cities, savannahs, seas, plains",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Shaak Ti"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T18:43:14.049000Z",
+   "edited": "2014-12-20T20:58:18.521000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b8/ShiliNEGAS.jpg",
+   "resume": "Shili era o mundo natal dos Togrutas, localizados no setor Ehosiq. Como Shili tinha pastagens coloridas , os nativos exibiam padrões de pele distintos para camuflagem."
+},
+ {
+   "id": 59,
+   "name": "Kalee",
+   "rotation_period": "23",
+   "orbital_period": "378",
+   "diameter": "13850",
+   "climate": "arid, temperate, tropical",
+   "gravity": "1",
+   "terrain": "rainforests, cliffs, canyons, seas",
+   "surface_water": "unknown",
+   "population": "4000000000",
+   "residents": [
+      "Grievous"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T19:43:51.278000Z",
+   "edited": "2014-12-20T20:58:18.523000Z",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/c1/Kalee_TEA.jpg",
+   "resume": "Kalee era o planeta natal dos Kaleesh , incluindo o General Grievous . Ele estava localizado na fronteira das regiões de Kadok."
+},
+ {
+   "id": 60,
+   "name": "Umbara",
+   "rotation_period": "unknown",
+   "orbital_period": "unknown",
+   "diameter": "unknown",
+   "climate": "unknown",
+   "gravity": "unknown",
+   "terrain": "unknown",
+   "surface_water": "unknown",
+   "population": "unknown",
+   "residents": [
+      "Sly Moore"
+   ],
+    "films": [
+      "Coming Soon"
+   ],
+   "created": "2014-12-20T20:18:36.256000Z",
+   "edited": "2014-12-20T20:58:18.525000Z",
+   "image": "https://lumiere-a.akamaihd.net/v1/images/databank_umbara_01_169_beef68c7.jpeg",
+   "resume": "Umbara, conhecido como Mundo das Sombras devido aos raios de seu sol nunca atingirem completamente sua superfície, é perpetuamente escuro. A vida selvagem nativa se adaptou para sobreviver nessa escuridão, tornando o planeta perpetuamente perigoso. Umbara já fez parte da República Galáctica, representada no Senado pelo senador Mee Deechi. Mais tarde, nas Guerras Clônicas, a lealdade do planeta vacilou e os nativos de Umbara se aliaram aos Separatistas, trazendo sua tecnologia extremamente avançada para a Aliança Separatista."
+}
+]

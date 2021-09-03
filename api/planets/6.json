@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "name": "Bespin",
+  "rotation_period": "12",
+  "orbital_period": "5110",
+  "diameter": "118000",
+  "climate": "temperate",
+  "gravity": "1.5 (surface), 1 standard (Cloud City)",
+  "terrain": "gas giant",
+  "surface_water": "0",
+  "population": "6000000",
+  "residents": [
+    "Lobot"
+  ],
+  "films": [
+    "The Empire Strikes Back"
+  ],
+  "created": "2014-12-10T11:43:55.240000Z",
+  "edited": "2014-12-20T20:58:18.427000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/Bespin_2d0759aa.jpeg",
+  "resume": "Isolada da turbulência galáctica por sua localização em um setor pouco visitado do espaço, Bespin é uma raridade astrofísica. Um imenso gigante gasoso cercado por várias luas, o planeta contém uma faixa de atmosfera habitável entre suas nuvens infinitas. Neste estrato de vida, garimpeiros empreendedores estabeleceram complexos de mineração flutuantes dedicados a extrair gases valiosos das profundezas do planeta. O mais conhecido desses empreendimentos é a opulenta Cloud City, anteriormente sob a administração de Lando Calrissian. Durante o final da Guerra Civil Galáctica, o Império guarneceu Bespin e assumiu a Cidade das Nuvens, embora o posto avançado e o planeta desfrutassem de liberdade após a derrota do Imperador na Batalha de Endor."
+}

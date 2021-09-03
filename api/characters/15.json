@@ -1,0 +1,23 @@
+{
+  "id": 15,
+  "name": "Greedo",
+  "height": 1.74,
+  "mass": 74,
+  "gender": "male",
+  "homeworld": [
+    "Rodia",
+    "Tatooine"
+  ],
+  "wiki": "http://starwars.wikia.com/wiki/Greedo",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c6/Greedo.jpg",
+  "died": 0,
+  "diedLocation": "tatooine",
+  "species": "rodian",
+  "eyeColor": "purple",
+  "skinColor": "green",
+  "affiliations": [
+    "Trade Federation"
+  ],
+  "born": 44,
+  "resume": "Greedo era um caçador de recompensas Rodiano com focinho parecido com a anta, olhos bulbosos, pele verde ervilha e uma crista de espinhos no topo de seu crânio. Ele estava com excesso de zelo e um pouco lento na tomada, para não mencionar um péssimo tiro com um blaster. Embora ele se considerasse um grande caçador de recompensas a serviço de não menos figura do submundo do que Jabba, o Hutt, na verdade, ninguém o levava muito a sério."
+}

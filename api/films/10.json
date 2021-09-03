@@ -1,0 +1,37 @@
+{
+  "name": "Solo: A StarWars Story",
+  "id": 10,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/solo-theatrical-poster-1000_27861ab7.jpeg",
+  "trailer": "https://youtu.be/jPEYpryMp2s",
+  "resume": "Embarque no Millennium Falcon e viaje para uma galáxia muito, muito distante em Solo: A Star Wars Story, uma aventura totalmente nova com o canalha mais amado da galáxia. Através de uma série de aventuras ousadas nas profundezas de um submundo criminoso sombrio e perigoso, Han Solo conhece seu poderoso futuro copiloto Chewbacca e encontra o famoso jogador Lando Calrissian, em uma jornada que definirá o curso de um dos heróis mais improváveis ​​da saga Star Wars.",
+  "opening_crawl": "The FIRST ORDER reigns.\r\nHaving decimated the peaceful\r\nRepublic, Supreme Leader Snoke\r\nnow deploys his merciless\r\nlegions to seize military\r\ncontrol of the galaxy.\r\n\r\nOnly General Leia Organa's\r\nband of RESISTANCE fighters\r\nstand against the rising\r\ntyranny, certain that Jedi\r\nMaster Luke Skywalker will\r\nreturn and restore a spark of\r\nhope to the fight.\r\n\r\nBut the Resistance has been\r\nexposed. As the First Order\r\nspeeds toward the Rebel base,\r\nthe brave heroes mount a\r\ndesperate escape....",
+  "director": "Rian Johnson",
+  "producer": "Kathleen Kennedy, Ram Bergman, J.J Abrams , Jason McGatlin, Tom Karnowski",
+  "release_date": "201-17-25",
+  "characters": [
+    "Han Solo",
+    "Chewbacca",
+    "Rio",
+    "Qi'ra",
+    "Lando",
+    "Beckett",
+    "L3-37",
+    "Dryden",
+    "Val"
+  ],
+  "planets": [
+    "Vandor",
+    "More coming soon"
+  ],
+  "vehicles": [
+    "Swoop",
+    "Tie Brute",
+    "Millennium Falcon",
+    "Han Solo's landspeeder"
+  ],
+  "species": [
+    "Human",
+    "Droid",
+    "Wookie"
+  ]
+}

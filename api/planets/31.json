@@ -1,0 +1,22 @@
+{
+  "id": 31,
+  "name": "Mon Cala",
+  "rotation_period": "21",
+  "orbital_period": "398",
+  "diameter": "11030",
+  "climate": "temperate",
+  "gravity": "1",
+  "terrain": "oceans, reefs, islands",
+  "surface_water": "100",
+  "population": "27000000000",
+  "residents": [
+    "Ackbar"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-18T11:07:01.792000Z",
+  "edited": "2014-12-20T20:58:18.471000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_moncala_01_169_b5bc76f1.jpeg",
+  "resume": "Também conhecido como Mon Calamari ou Dac, Mon Cala é um lindo mundo aquático repleto de exuberantes recifes de coral e florestas de algas marinhas banhadas pela luz de dois sóis. É o lar do povo Mon Calamari e Quarren. As duas culturas há muito se enfrentam por causa de suas diferenças, mas sob o governo do 82º Rei de Mon Cala, Yos Kolina, essas disputas foram mantidas civilizadas e respeitosas. Seu súbito assassinato e a chegada de forças Separatistas durante as Guerras Clônicas inclinaram a balança para a guerra civil, com os Quarren encenando um levante contra os Mon Calamari, apoiados pelas forças da Confederação e pelo líder Karkaradon, Riff Tamson. Cabia aos enviados Jedi e da República ajudar o jovem Príncipe Lee-Char, herdeiro do trono Mon Cala, a restaurar a paz ao planeta."
+}

@@ -1,0 +1,35 @@
+{
+  "id": 4,
+  "name": "Darth Vader",
+  "height": 2.03,
+  "mass": 120,
+  "gender": "male",
+  "homeworld": "tatooine",
+  "wiki": "http://starwars.wikia.com/wiki/Anakin_Skywalker",
+  "image": "https://vignette.wikia.nocookie.net/fr.starwars/images/3/32/Dark_Vador.jpg",
+  "born": 41,
+  "died": 4,
+  "diedLocation": "death star ii, endor system",
+  "species": "human",
+  "hairColor": "blond",
+  "eyeColor": "blue, yellow (dark side)",
+  "skinColor": "light, later pale",
+  "cybernetics": "Cybernetic right arm; later prosthetic arms and legs, and a life-support system",
+  "affiliations": [
+    "501st Legion",
+    "Sith",
+    "Galactic Empire",
+    "Imperial High Command"
+  ],
+  "masters": [
+    "Qui-Gon Jinn (informal Jedi Master)",
+    "Obi-Wan Kenobi (Jedi Master)",
+    "Darth Sidious (Sith Master)",
+    "Yoda (Force spirit teacher)"
+  ],
+  "apprentices": [
+    "Ahsoka Tano (Padawan)",
+    "Inquisitorius"
+  ],
+  "resume": "Outrora um heróico Cavaleiro Jedi, Darth Vader foi seduzido pelo lado negro da Força, tornou-se um Lorde Sith e liderou a erradicação da Ordem Jedi pelo Império. Ele permaneceu a serviço do Imperador - o mal Darth Sidious - por décadas, reforçando a vontade de seu Mestre e tentando esmagar a Aliança Rebelde nascente. Mas ainda havia algo de bom nele ..."
+}

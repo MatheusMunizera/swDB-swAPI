@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "name": "Endor",
+  "rotation_period": "18",
+  "orbital_period": "402",
+  "diameter": "4900",
+  "climate": "temperate",
+  "gravity": "0.85 standard",
+  "terrain": "forests, mountains, lakes",
+  "surface_water": "8",
+  "population": "30000000",
+  "residents": [
+    "Wicket Systri Warrick"
+  ],
+  "films": [
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-10T11:50:29.349000Z",
+  "edited": "2014-12-20T20:58:18.429000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_endor_01_169_68ba9bdc.jpeg",
+  "resume": "Isolada em um canto remoto da galáxia, a lua da floresta de Endor facilmente teria sido esquecida pela história se não fosse pela batalha decisiva que ocorreu lá. A exuberante casa da espécie Ewok na floresta é o túmulo de Darth Vader e do próprio Império. Foi aqui que a Aliança Rebelde obteve sua vitória mais crucial sobre o Império Galáctico."
+}

@@ -1,0 +1,21 @@
+{
+  "id": 32,
+  "name": "Imperial shuttle",
+  "model": "Lambda-class T-4a shuttle",
+  "manufacturer": "Sienar Fleet Systems",
+  "cost_in_credits": "240000",
+  "length": "20",
+  "max_atmosphering_speed": "850",
+  "crew": "6",
+  "passengers": "20",
+  "cargo_capacity": "80000",
+  "consumables": "2 months",
+  "films": [
+    "The Empire Strikes Back",
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-15T13:04:47.235000Z",
+  "hyperdrive_rating": 1,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/veh_ia_1752_040381b2.jpeg",
+  "resume": "Um exemplo elegante que se destaca da típica engenharia imperial bruta, o ônibus espacial Lambda é um transporte multiuso usado na frota estelar Imperial. O Império colocou o ônibus espacial em serviço tanto para transporte de carga quanto para serviço de passageiros. Até mesmo a elite do Império, como Darth Vader e o Imperador Palpatine, usava essas naves. Possui três asas: uma lâmina central estacionária e duas asas flanqueadoras articuladas. Quando em vôo, as asas laterais se dobram para maior estabilização. Ao pousar, as asas dobram-se, diminuindo a silhueta da embarcação. A embarcação bem armada tem dois canhões de laser duplos voltados para a frente, dois canhões duplos montados nas asas e um canhão duplo de laser voltado para trás. Ele é equipado com um hiperdrive."
+}

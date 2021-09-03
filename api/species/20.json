@@ -1,0 +1,23 @@
+{
+  "id": 20,
+  "name": "Cerean",
+  "classification": "mammal",
+  "resume": "Os Cereanos eram uma espécie de mamíferos sencientes vindos do planeta Cerea. Eles se distinguiam por seu crânio cônico alargado que continha um cérebro binário. O Mestre Jedi Ki-Adi-Mundi, que se sentou no Alto Conselho Jedi durante os últimos anos da República Galáctica, era um homem Cereano .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/b/be/Mundi_bodyshot.png",
+  "designation": "sentient",
+  "average_height": "200",
+  "skin_colors": "pale pink",
+  "hair_colors": "red, blond, black, white",
+  "eye_colors": "hazel",
+  "average_lifespan": "unknown",
+  "language": "Cerean",
+  "people": [
+    "Ki-Adi-Mundi"
+  ],
+  "films": [
+    "The Phantom Menace",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T10:15:33.765000Z",
+  "edited": "2014-12-20T21:36:42.179000Z"
+}

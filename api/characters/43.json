@@ -1,0 +1,21 @@
+{
+  "id": 43,
+  "name": "Shmi Skywalker",
+  "height": 1.63,
+  "gender": "female",
+  "homeworld": "tatooine",
+  "wiki": "http://starwars.wikia.com/wiki/Shmi_Skywalker_Lars",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/a/ad/ShmiSkywalkerDatabank_%28Repurposed%29.jpeg",
+  "born": 72,
+  "died": -22,
+  "diedLocation": "tatooine",
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "brown",
+  "skinColor": "light",
+  "affiliations": [
+    "Skywalker family",
+    "Lars family"
+  ],
+  "resume": "A mãe de Anakin Skywalker também era uma mulher corajosa e resistente que sobreviveu como escrava para se tornar uma lavradora de umidade de Tatooine. Shmi entregou seu filho à Ordem Jedi, colocando-o no caminho para se tornar um dos maiores Jedi. Sua morte nas mãos de Tusken Raiders se tornou um passo crítico na jornada de Anakin para o lado negro."
+}

@@ -1,0 +1,22 @@
+{
+  "id": 56,
+  "name": "Saesee Tiin",
+  "height": 1.93,
+  "gender": "male",
+  "homeworld": "iktotch",
+  "wiki": "http://starwars.wikia.com/wiki/Saesee_Tiin",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/6/68/Saesee_Tiin_Card_Trader.jpg",
+  "died": -19,
+  "diedLocation": "coruscant",
+  "species": "iktotchi",
+  "eyeColor": "yellow",
+  "skinColor": "orange and pink",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Jedi assault team",
+    "Galactic Republic",
+    "Grand Army of the Republic"
+  ],
+  "resume": "O imponente Saesee Tiin foi membro do Conselho Jedi durante os anos finais da República. Além de ser um mestre corajoso e habilidoso do sabre de luz, ele também era um piloto de caça estelar competente. Tiin viajou para Naboo para assistir ao funeral do Jedi Qui-Gon Jinn caído e à jubilosa celebração que marcou a libertação daquele mundo distante. Dez anos após este evento, Tiin ainda era um membro ativo da ordem Jedi e um general do campo de batalha vital nas Guerras Clônicas."
+}

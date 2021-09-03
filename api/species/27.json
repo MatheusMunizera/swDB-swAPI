@@ -1,0 +1,23 @@
+{
+  "id": 27,
+  "name": "Chagrian",
+  "classification": "amphibian",
+  "resume": "Chagrians eram uma espécie anfíbia senciente de humanóides altos, com chifres e pele azul que eram nativos do planeta Champala. Chagrians eram mais notavelmente reconhecidos por seus tentáculos grossos que se curvavam em torno de seus ombros, bem como mais duas extremidades semelhantes a chifres acima de suas cabeças.",
+  "image": "https://static.wikia.nocookie.net/starwars/images/c/c3/Mas_Amedda_SWE.png",
+  "designation": "sentient",
+  "average_height": "190",
+  "skin_colors": "blue",
+  "hair_colors": "none",
+  "eye_colors": "blue",
+  "average_lifespan": "unknown",
+  "language": "Chagria",
+  "people": [
+    "Mas Amedda"
+  ],
+  "films": [
+    "The Phantom Menace",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T10:53:28.795000Z",
+  "edited": "2014-12-20T21:36:42.193000Z"
+}

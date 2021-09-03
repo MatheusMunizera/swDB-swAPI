@@ -1,0 +1,25 @@
+{
+  "id": 12,
+  "name": "Gungan",
+  "classification": "amphibian",
+  "resume": "Os Gungans eram uma espécie anfíbia senciente e os habitantes nativos do planeta Naboo. As várias raças diferentes de Gungan podiam viver tanto na água quanto na terra, mas muitas vezes moravam em cidades subaquáticas como Otoh Gunga .",
+  "image": "https://static.wikia.nocookie.net/starwars/images/d/d5/Gungan_warrior.png",
+  "designation": "sentient",
+  "average_height": "190",
+  "skin_colors": "brown, green",
+  "hair_colors": "none",
+  "eye_colors": "orange",
+  "average_lifespan": "unknown",
+  "language": "Gungan basic",
+  "people": [
+    "Jar Jar Binks",
+    "Roos Tarpals",
+    "Rugor Nass"
+  ],
+  "films": [
+    "The Phantom Menace",
+    "Attack of the Clones"
+  ],
+  "created": "2014-12-19T17:30:37.341000Z",
+  "edited": "2014-12-20T21:36:42.163000Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "name": "Tatooine",
+  "rotation_period": "23",
+  "orbital_period": "304",
+  "diameter": "10465",
+  "climate": "arid",
+  "gravity": "1 standard",
+  "terrain": "desert",
+  "surface_water": "1",
+  "population": "200000",
+  "residents": [
+    "Luke Skywalker",
+    "C-3PO",
+    "Darth Vader",
+    "Owen Lars",
+    "Beru Whitesun lars",
+    "R5-D4",
+    "Biggs Darklighter",
+    "Anakin Skywalker",
+    "Shmi Skywalker",
+    "Cliegg Lars"
+  ],
+  "films": [
+    "A New Hope",
+    "Return of the Jedi",
+    "The Phantom Menace",
+    "Attack of the Clones",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-09T13:50:49.641000Z",
+  "edited": "2014-12-20T20:58:18.411000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/tatooine-main_127c43c7.jpeg",
+  "resume": "Tatooine é um mundo árido de deserto orbitando sóis gêmeos na Orla Externa da galáxia. Nos dias do Império e da República, muitos colonos ganhavam a vida em fazendas úmidas, enquanto cidades-porto espaciais como Mos Eisley e Mos Espa serviam como base para contrabandistas, criminosos e outros bandidos. Anakin Skywalker e Luke Skywalker uma vez chamaram Tatooine de casa, e Obi-Wan Kenobi passou anos escondido lá. Uma vez conhecido como uma colmeia de escória e vilania, Tatooine tornou-se mais silencioso desde o fim da Guerra Civil Galáctica."
+}

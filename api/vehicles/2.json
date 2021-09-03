@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "name": "T-16 skyhopper",
+  "model": "T-16 skyhopper",
+  "manufacturer": "Incom Corporation",
+  "cost_in_credits": "14500",
+  "length": "10.4 ",
+  "max_atmosphering_speed": "1200",
+  "crew": "1",
+  "passengers": "1",
+  "cargo_capacity": "50",
+  "consumables": "0",
+  "films": [
+    "A New Hope"
+  ],
+  "created": "2014-12-10T16:01:52.434000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_t16skyhopper_01_169_ad69e901.jpeg",
+  "resume": "Um airspeeder de alto desempenho capaz de atingir a troposfera de um planeta, o T-16 skyhoppers era rápido e manobrável - uma combinação que poderia ser perigosa para jovens pilotos. Luke Skywalker possuía um skyhopper de dois homens, mas queimou a instrumentação durante uma viagem imprudente pelo Beggar's Canyon. Ele teve que brincar preguiçosamente com um modelo de sua amada nave até que pudesse tornar o T-16 em condições de voar novamente. Os controles de um T-16 eram semelhantes aos de um T-65 X-wing, o que permitiu a Luke se juntar ao ataque rebelde à Estrela da Morte em Yavin.",
+  "hyperdrive_rating": null
+}

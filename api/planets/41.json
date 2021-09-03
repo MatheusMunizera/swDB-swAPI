@@ -1,0 +1,22 @@
+{
+  "id": 41,
+  "name": "Tund",
+  "rotation_period": "48",
+  "orbital_period": "1770",
+  "diameter": "12190",
+  "climate": "unknown",
+  "gravity": "unknown",
+  "terrain": "barren, ash",
+  "surface_water": "unknown",
+  "population": "0",
+  "residents": [
+    "Ben Quadinaros"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T10:07:29.578000Z",
+  "edited": "2014-12-20T20:58:18.489000Z",
+  "image": "https://static.wikia.nocookie.net/starwars/images/3/31/Tund_TEA.jpg",
+  "resume": "Tund era um planeta terrestre verdejante e um poderoso nexo de Força situado na fronteira nordeste do Mar Aberto no setor da Centralidade ."
+}

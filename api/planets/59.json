@@ -1,0 +1,22 @@
+{
+  "id": 59,
+  "name": "Kalee",
+  "rotation_period": "23",
+  "orbital_period": "378",
+  "diameter": "13850",
+  "climate": "arid, temperate, tropical",
+  "gravity": "1",
+  "terrain": "rainforests, cliffs, canyons, seas",
+  "surface_water": "unknown",
+  "population": "4000000000",
+  "residents": [
+    "Grievous"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T19:43:51.278000Z",
+  "edited": "2014-12-20T20:58:18.523000Z",
+  "image": "https://static.wikia.nocookie.net/starwars/images/c/c1/Kalee_TEA.jpg",
+  "resume": "Kalee era o planeta natal dos Kaleesh , incluindo o General Grievous . Ele estava localizado na fronteira das regiões de Kadok."
+}

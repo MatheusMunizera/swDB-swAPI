@@ -1,0 +1,23 @@
+{
+  "id": 24,
+  "name": "Iktotchi",
+  "classification": "unknown",
+  "resume": "Iktotchi era uma espécie senciente com chifres da lua Iktotch. O Mestre Jedi Saesee Tiin, um membro do Alto Conselho Jedi antes e durante as Guerras Clônicas, era um Iktotchi.",
+  "image": "https://static.wikia.nocookie.net/starwars/images/f/f4/SaeseeTiinFull-SWE.png",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "pink",
+  "hair_colors": "none",
+  "eye_colors": "orange",
+  "average_lifespan": "unknown",
+  "language": "Iktotchese",
+  "people": [
+    "Saesee Tiin"
+  ],
+  "films": [
+    "The Phantom Menace",
+    "Revenge of the Sith"
+  ],
+  "created": "2014-12-20T10:32:13.046000Z",
+  "edited": "2014-12-20T21:36:42.188000Z"
+}

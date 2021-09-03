@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "name": "TIE/LN starfighter",
+  "model": "Twin Ion Engine/Ln Starfighter",
+  "manufacturer": "Sienar Fleet Systems",
+  "cost_in_credits": "unknown",
+  "length": "6.4",
+  "max_atmosphering_speed": "1200",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "65",
+  "consumables": "2 days",
+  "films": [
+    "A New Hope",
+    "The Empire Strikes Back",
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-10T16:33:52.860000Z",
+  "hyperdrive_rating": null,
+  "image": "https://static.wikia.nocookie.net/starwars/images/d/d1/TIE_Fighter_DICE.png",
+  "resume": "O caça estelar de superioridade espacial TIE / ln, também conhecido como caça estelar TIE / LN e comumente chamado de caça TIE, era o caça estelar assinatura do Império Galáctico e símbolo de fato da superioridade espacial Imperial   Seu nome oficial de produção era o caça estelar de superioridade espacial Twin Ion Engine edição de linha. "
+}

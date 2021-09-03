@@ -1,0 +1,23 @@
+{
+  "id": 32,
+  "name": "Kaminoan",
+  "classification": "amphibian",
+  "resume": "Kaminoanos eram uma espécie senciente de anfíbios extragalácticos nativos de Kamino, um planeta aquático localizado ao sul da galáxia satélite Rishi Maze e além do disco galáctico maior. ",
+  "image": "https://static.wikia.nocookie.net/starwars/images/4/40/Kaminoan_FO_Arden_Beckwith.png",
+  "designation": "sentient",
+  "average_height": "220",
+  "skin_colors": "grey, blue",
+  "hair_colors": "none",
+  "eye_colors": "black",
+  "average_lifespan": "80",
+  "language": "Kaminoan",
+  "people": [
+    "Lama Su",
+    "Taun We"
+  ],
+  "films": [
+    "Attack of the Clones"
+  ],
+  "created": "2014-12-20T17:31:24.838000Z",
+  "edited": "2014-12-20T21:36:42.202000Z"
+}

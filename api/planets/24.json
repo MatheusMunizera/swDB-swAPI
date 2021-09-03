@@ -1,0 +1,22 @@
+{
+  "id": 24,
+  "name": "Nal Hutta",
+  "rotation_period": "87",
+  "orbital_period": "413",
+  "diameter": "12150",
+  "climate": "temperate",
+  "gravity": "1 standard",
+  "terrain": "urban, oceans, swamps, bogs",
+  "surface_water": "unknown",
+  "population": "7000000000",
+  "residents": [
+    "Jabba Desilijic Tiure"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-10T17:11:29.452000Z",
+  "edited": "2014-12-20T20:58:18.460000Z",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_nalhutta_01_169_72d58d25.jpeg",
+  "resume": "Um planeta pantanoso e anelado controlado pelos Hutts, Nal Hutta tem sido um paraíso para atividades criminosas, longe dos olhos curiosos das autoridades galácticas. Sua atmosfera quente é freqüentemente riscada por chuva gordurosa, criando uma sauna fétida na qual Hutts se sente mais confortável. As cidades Hutt são construídas nas poucas terras firmes que existem, incluindo o mercado do espaçoporto de Bilbousa. Uma série de casas flutuantes também pontilham os bayous - os visitantes atravessam os pântanos em fanboats repulsorlift, arriscando a atenção de cobras-dragão e outras criaturas perigosas."
+}

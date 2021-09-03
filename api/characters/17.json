@@ -1,0 +1,22 @@
+{
+  "id": 17,
+  "name": "Grogu",
+  "born": "47",
+  "height": 0.42,
+  "gender": "male",
+  "homeworld": "Yoda's species",
+  "hairColor": "White",
+  "eyeColor": "Brown",
+  "skinColor": "Green",
+  "species": "hutt",
+  "affiliations": [
+    "Jedi Order",
+    "Mandalorians"
+  ],
+  "masters": [
+    "Several",
+    "Luke Skywalker"
+  ],
+  "image": "https://lumiere-a.akamaihd.net/v1/images/the-child-2_f543b569.jpeg",
+  "resume": "Um misterioso alienígena perseguido por caçadores de recompensas em nome dos interesses imperiais."
+}

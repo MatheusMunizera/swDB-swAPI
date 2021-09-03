@@ -1,0 +1,45 @@
+{
+  "name": "The Rise of Skywalker",
+  "id": 11,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/star-wars-the-rise-of-skywalker-theatrical-poster-1000_ebc74357.jpeg",
+  "trailer": "https://youtu.be/8Qn_spdM5Zg",
+  "resume": "Um poderoso inimigo retorna e Rey deve enfrentar seu destino.",
+  "opening_crawl": "The dead speak! The galaxy has heard a mysterious\r\nbroadcast, a threat of REVENGE in the sinister voice of\r\nthe late EMPEROR PALPATINE.\r\n\r\nGENERAL LEIA ORGANA dispatches secret agents to gather\r\nintelligence, while REY, the last hope of the Jedi, trains\r\nfor battle against the diabolical FIRST ORDER.\r\n\r\nMeanwhile, Supreme Leader KYLO REN rages in search of the\r\nphantom Emperor, determined to destroy any threat to his\r\npower....",
+  "director": "J.J. Abrams",
+  "producer": "Kathleen Kennedy, Cris Terrio, J.J Abrams , Michelle Rejwan",
+  "release_date": "2019-20-25",
+  "characters": [
+    "Han Solo",
+    "Chewbacca",
+    "Rey",
+    "Wedge Antilhas",
+    "Lando",
+    "R2-D2",
+    "Kylo Ren",
+    "Luke Skywalker",
+    "Poe Dameron",
+    "BB-8",
+    "Finn",
+    "Aftab Ackbar"
+  ],
+  "planets": [
+    "Mustafar",
+    "Exegol",
+    "Endor",
+    "Tatooine",
+    "Kijimi"
+  ],
+  "vehicles": [
+    "Tantive IV",
+    "Tie Dagger",
+    "Millennium Falcon",
+    "Night Buzzard",
+    "X-Wing StarFighter",
+    "Kylo Ren's MOdified Tie Whisper"
+  ],
+  "species": [
+    "Human",
+    "Droid",
+    "Wookie"
+  ]
+}

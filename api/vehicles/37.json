@@ -1,0 +1,20 @@
+{
+  "id": 37,
+  "name": "Republic Cruiser",
+  "model": "Consular-class cruiser",
+  "manufacturer": "Corellian Engineering Corporation",
+  "cost_in_credits": "unknown",
+  "length": "115",
+  "max_atmosphering_speed": "900",
+  "crew": "9",
+  "passengers": "16",
+  "cargo_capacity": "unknown",
+  "consumables": "unknown",
+  "films": [
+    "The Phantom Menace"
+  ],
+  "created": "2014-12-19T17:01:31.488000Z",
+  "hyperdrive_rating": 2,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/databank_republiccruiser_01_169_fd769e33.jpeg",
+  "resume": "A forma e matiz distintas de um Republic Cruiser são instantaneamente reconhecíveis em toda a galáxia, indicando uma embarcação em uma missão para o Senado Galáctico, o Supremo Chanceler ou a Ordem Jedi. O chanceler Valorum despachou um Cruzador da República carregando dois embaixadores Jedi importantes para negociar o fim do Bloqueio da Federação do Comércio de Naboo. O cruzador atracou dentro da cavernosa baía de pouso de um navio de guerra da Federação do Comércio. Sob as ordens de Darth Sidious, a Federação do Comércio emboscou os embaixadores Jedi. A tripulação do cruzador foi pega de surpresa, destruída por uma torre turbolaser oculta."
+}

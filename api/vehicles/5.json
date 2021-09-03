@@ -1,0 +1,20 @@
+{
+  "id": 5,
+  "name": "Snowspeeder",
+  "model": "t-47 airspeeder",
+  "manufacturer": "Incom corporation",
+  "cost_in_credits": "unknown",
+  "length": "4.5",
+  "max_atmosphering_speed": "650",
+  "crew": "2",
+  "passengers": "0",
+  "cargo_capacity": "10",
+  "consumables": "none",
+  "films": [
+    "The Empire Strikes Back"
+  ],
+  "created": "2014-12-15T12:22:12Z",
+  "hyperdrive_rating": null,
+  "image": "https://lumiere-a.akamaihd.net/v1/images/snowspeeder_ef2f9334.jpeg",
+  "resume": "Quando estacionada em Hoth, a Aliança Rebelde modificou os airspeeders T-47 para se tornarem snowspeeders, meios de transporte velozes para patrulhar e defender sua base oculta. Demorou um pouco para evitar que o frio paralisante prendesse permanentemente sua força aérea, mas a engenhosidade rebelde superou os implacáveis ​​elementos de Hoth. O T-47 é uma nave pequena em forma de cunha com dois canhões laser voltados para a frente. Em seu arco traseiro está um lançador de arpões equipado com um cabo de reboque resistente. O snowspeeder é uma embarcação de dois homens, com um piloto e um tailgunner voltado para a retaguarda."
+}

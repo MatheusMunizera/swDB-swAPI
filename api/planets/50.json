@@ -1,0 +1,22 @@
+{
+  "id": 50,
+  "name": "Champala",
+  "rotation_period": "27",
+  "orbital_period": "318",
+  "diameter": "unknown",
+  "climate": "temperate",
+  "gravity": "1",
+  "terrain": "oceans, rainforests, plateaus",
+  "surface_water": "unknown",
+  "population": "3500000000",
+  "residents": [
+    "Mas Amedda"
+  ],
+  "films": [
+    "Coming Soon"
+  ],
+  "created": "2014-12-20T10:52:51.524000Z",
+  "edited": "2014-12-20T20:58:18.506000Z",
+  "image": "https://static.wikia.nocookie.net/starwars/images/d/d7/Champala_NEGAS.jpg",
+  "resume": "Champala, também chamado de Chagria, era um planeta na Orla Interna e o mundo natal do povo chagriano. A maioria de seus portos estelares ficava alta e seca nos planaltos, mas suas cidades ficavam submersas na maré alta. Era um resort mundialmente popular."
+}

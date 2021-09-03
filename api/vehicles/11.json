@@ -1,0 +1,20 @@
+{
+  "id": 11,
+  "name": "Bantha-II cargo skiff",
+  "model": "Bantha-II",
+  "manufacturer": "Ubrikkian Industries",
+  "cost_in_credits": "8000",
+  "length": "9.5",
+  "max_atmosphering_speed": "250",
+  "crew": "5",
+  "passengers": "16",
+  "cargo_capacity": "135000",
+  "consumables": "1 day",
+  "films": [
+    "Return of the Jedi"
+  ],
+  "created": "2014-12-18T10:48:03.208000Z",
+  "hyperdrive_rating": null,
+  "image": "https://static.wikia.nocookie.net/starwars/images/c/cc/Bantha-II_Cargo_Skiff_BG.png",
+  "resume": "O esquife de carga Bantha-II, também conhecido simplesmente como esquife da classe Bantha ou esquife do deserto, era um modelo de esquife fabricado pelas Indústrias Ubrikkian ."
+}
