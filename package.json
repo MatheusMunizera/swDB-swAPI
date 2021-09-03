@@ -4,7 +4,7 @@
   "description": "A open-source REST API created from SWAPI with new attributes and updated informations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
