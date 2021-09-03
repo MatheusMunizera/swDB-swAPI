@@ -1,0 +1,27 @@
+{
+  "name": "swdb-swapi",
+  "version": "1.0.0",
+  "description": "A open-source REST API created from SWAPI with new attributes and updated informations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusMunizera/swDB-swAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "bugs": {
+    "url": "https://github.com/MatheusMunizera/swDB-swAPI/issues"
+  },
+  "homepage": "https://github.com/MatheusMunizera/swDB-swAPI#readme"
+}
