@@ -10,29 +10,29 @@ A open-source REST API created from [SWAPI](https://swapi.dev/documentation) wit
 You can make the request by a single JSON with <a href="#chains-routes">all the information</a> or a JSON with only the information <a href="#chains-by-id">based on the ID</a>.
 
 ## Base Url
-`https://matheusmunizera.github.io/swAPI/api`
+`https://swapi-strapi.herokuapp.com/api`
 
 # :chains: Routes
 GET all characters as a single JSON object
 
-eg. [`/allCharacters.json`](https://matheusmunizera.github.io/swAPI/api/allCharacters.json)
+eg. [`/allCharacters.json`](https://swapi-strapi.herokuapp.com/api/characters)
 
 GET all vehicles as a single JSON object
 
-eg. [`/allVehicles.json`](https://matheusmunizera.github.io/swAPI/api/allVehicles.json)
+eg. [`/allVehicles.json`](https://swapi-strapi.herokuapp.com/api/vehicles)
 
 GET all planets as a single JSON object
 
-eg. [`/allPlanets.json`](https://matheusmunizera.github.io/swAPI/api/allPlanets.json)
+eg. [`/allPlanets.json`](https://swapi-strapi.herokuapp.com/api/characters)
 
 GET all species as a single JSON object
 
-eg. [`/allSpecies.json`](https://matheusmunizera.github.io/swAPI/api/allSpecies.json)
+eg. [`/allSpecies.json`](https://swapi-strapi.herokuapp.com/api/characters)
 
 # :chains: By ID
 GET complete informations by id
 
-eg. [`/characters/1.json`](https://matheusmunizera.github.io/swAPI/api/characters/1.json)
+eg. [`/characters/1.json`](https://swapi-strapi.herokuapp.com/api/character/1)
 ```json
 {
   "id": 1,
@@ -81,6 +81,7 @@ eg. [`/characters/1.json`](https://matheusmunizera.github.io/swAPI/api/character
 
 # Credits
 [SWAPI](https://swapi.dev/documentation)<br>
+[DOC](https://swapi-strapi.herokuapp.com/documentation/v1.0.0)
 [Matheus Muniz](https://github.com/MatheusMunizera)
 
 
