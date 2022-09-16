@@ -5,12 +5,12 @@ const { promisify } = require('util')
 const writeFile = promisify(fs.writeFile)
 
 
-const characters = require('./data/allCharacters.json')
-const species = require('./data/allSpecies.json')
-const vehicles = require('./data/allVehicles.json')
-const planets = require('./data/allPlanets.json')
-const films = require('./data/allFilms.json')
-const series = require('./data/allSeries.json')
+const characters = require('./json/allCharacters.json')
+const species = require('./json/allSpecies.json')
+const vehicles = require('./json/allVehicles.json')
+const planets = require('./json/allPlanets.json')
+const films = require('./json/allFilms.json')
+const series = require('./json/allSeries.json')
 
 
 const apiFolderPath = 'api'
