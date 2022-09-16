@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Bad Batch",
+        "release_date":"2021-05-04",
+        "image": "https://cdn.cinepop.com.br/2021/05/the_bad_batch-poster.jpg",
+        "trailer": "https://youtu.be/BsOmYpP4UDU",
+        "resume": "Em Star Wars: The Bad Batch, acompanhamos um grupo de ex-soldados das guerras clônicas tentando encontrar o seu lugar na galáxia após a ascensão do Império.",
+        "director": "Brad Rau, Steward Lee, Saul Ruiz, Nathaniel Villanueva",
+        "producer": "Dave Filoni , Jennifer Corbett"
+    },
+    {
+        "id": 2,
+        "name": "The Mandalorian",
+        "release_date":"2019-11-12",
+        "image": "https://i.ibb.co/YhZXMM4/mandalorian-lede-1300x731-1.jpg",
+        "trailer": "https://youtu.be/UxGSW47NDck",
+        "resume": "Em The Mandalorian, Din Djarin (Pedro Pascal) é um guerreiro solitário que trabalha como caçador de recompensa.Ele embarca numa jornada pelos territórios esquecidos da galáxia, logo após a queda do Império e antes da criação da temida Primeira Ordem.",
+        "director": "Rick Famuyiwa, Dave Filoni, Bryce Dallas Howard, Deborah Chow, Peyton Reed, Taika Waititi, Jon Favreau , Robert Rodriguez, Carl Weathers",
+        "producer": "Jon Favreau"
+    },
+    {
+        "id": 3,
+        "name": "Star Wars the clone wars",
+        "release_date":"2008-10-3",
+        "image": "https://observatoriodeseries.uol.com.br/wp-content/uploads/2020/12/star-wars-the-clone-wars.jpg",
+        "trailer": "https://youtu.be/ZLW2jkd6E7g",
+        "resume": "Os cavaleiros Jedi continuam lutando para manter a ordem diante da Guerra dos Clones. Sistemas inteiros são eliminados, enquanto Yoda e Obi - Wan Kenobi lideram um exército contra a força do Lado Sombrio. ",
+        "director": "Henry Gilroy, Steven Melching, Scott Murphy, George Lucas",
+        "producer": "Dave Filoni"
+    },
+    {
+        "id": 4,
+        "name": "Star Wars A Resistência",
+        "release_date":"2018-10-7",
+        "image": "https://pbs.twimg.com/media/EeGJXY-XgAAPVAD.jpg",
+        "trailer": "https://youtu.be/m7Pls-vYWwM",
+        "resume": "Kazuda Xiono, um jovem piloto da Nova República, é recrutado pela Resistência para espionar a Primeira Ordem, uma ameaça crescente na galáxia. Ao longo de sua missão,Kazuda conta com a ajuda do comandante Poe Dameron e precisa,ainda,enfrentar a poderosa figura da Capitã Phasma.",
+        "director": "Justin Ridge, Steward Lee, Bosco Ng, Brad Rau, Saul Ruiz, Sergio Páez, Amy Beth Christenson",
+        "producer": " Carrie Beck,  Dave Filoni, Kiri Hart"
+    },
+    {
+        "id": 5,
+        "name": "Star Wars Rebels",
+        "release_date":"2014-10-3",
+        "image": "https://guiadanetflix.com.br/wp-content/uploads/2017/11/star-wars-rebels-3t-1-1024x533.jpg",
+        "trailer": "https://youtu.be/xg5YN3LAGw4",
+        "resume": "A série acompanha um grupo de rebeldes que vivem a bordo da nave estelar Fantasma, que lutam contra o Império Galáctico. ",
+        "director": "Dave Filoni, Justin Ridge, Steward Lee,Bosco Ng, Saul Ruiz, Melchior Zwyer, Steven G. Lee, Sergio Páez, Brad Rau",
+        "producer": " Simon Kinberg,  Carrie Beck,  Dave Filoni"
+    }
+
+]

@@ -1,0 +1,867 @@
+[
+ {
+   "id": 1,
+   "name": "Human",
+   "classification": "mammal",
+   "resume": "Os humanos eram uma espécie de mamíferos bípedes sencientes com simetria bilateral, possivelmente nativa do planeta Coruscant. Eles eram comumente encontrados em toda a galáxia, desde o planeta abundante de Naboo até o mundo desértico de Tatooine. Eles eram conhecidos por se envolverem em muitas atividades diferentes, desde a política até a caça de recompensas. As espécies que apresentavam semelhanças estruturais com os humanos eram chamadas de humanóides.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/3f/HumansInTheResistance-TROS.jpg",
+   "designation": "sentient",
+   "average_height": "180",
+   "skin_colors": "caucasian, black, asian, hispanic",
+   "hair_colors": "blonde, brown, black, red",
+   "eye_colors": "brown, blue, green, hazel, grey, amber",
+   "average_lifespan": "120",
+   "language": "Galactic Basic",
+   "people": [
+      "Dormé",
+      "Dooku",
+      "Bail Prestor Organa",
+      "Jocasta Nu"
+   ],
+   "films": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T13:52:11.567000Z",
+   "edited": "2014-12-20T21:36:42.136000Z"
+},
+ {
+   "id": 2,
+   "name": "Droid",
+   "classification": "artificial",
+   "resume": "Droids, menos comumente conhecidos como robôs e autômatos, eram seres mecânicos que possuíam inteligência artificial. Eles eram usados ​​em uma variedade de funções e ambientes, freqüentemente aqueles considerados muito servis ou muito perigosos para outras espécies, mas também em campos que exigiam grande especialização e conhecimento.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fb/Droid_Trio_TLJ_alt.png",
+   "designation": "sentient",
+   "average_height": "n/a",
+   "skin_colors": "n/a",
+   "hair_colors": "n/a",
+   "eye_colors": "n/a",
+   "average_lifespan": "indefinite",
+   "language": "n/a",
+   "people": [
+      "C-3PO",
+      "R2-D2",
+      "R5-D4",
+      "IG-88"
+   ],
+   "films": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T15:16:16.259000Z",
+   "edited": "2014-12-20T21:36:42.139000Z"
+},
+ {
+   "id": 3,
+   "name": "Wookiee",
+   "classification": "mammal",
+   "resume": "Wookiees eram uma espécie de humanoides altos e peludos que eram nativos do planeta Kashyyyk. O membro mais notável desta espécie foi o guerreiro Chewbacca, o melhor amigo e co- piloto de Han Solo, que desempenhou um papel vital nas Guerras Clônicas durante a Batalha de Kashyyyk, a Guerra Civil Galáctica, ajudando a Aliança Rebelde em sua luta contra o Império Galáctico e a guerra contra a Primeira Ordem.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/1e/Chewbacca-Fathead.png",
+   "designation": "sentient",
+   "average_height": "210",
+   "skin_colors": "gray",
+   "hair_colors": "black, brown",
+   "eye_colors": "blue, green, yellow, brown, golden, red",
+   "average_lifespan": "400",
+   "language": "Shyriiwook",
+   "people": [
+      "Chewbacca",
+      "Tarfful"
+   ],
+   "films": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-10T16:44:31.486000Z",
+   "edited": "2014-12-20T21:36:42.142000Z"
+},
+ {
+   "id": 4,
+   "name": "Rodian",
+   "classification": "sentient",
+   "resume": "Rodianos eram humanóides de pele verde nativos do planeta Rodia. Durante as Guerras Clônicas, Rodia foi representado pelo senador Onaconda Farr na República Galáctica 's Senado .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d3/Rodian_DICE.png",
+   "designation": "reptilian",
+   "average_height": "170",
+   "skin_colors": "green, blue",
+   "hair_colors": "n/a",
+   "eye_colors": "black",
+   "average_lifespan": "unknown",
+   "language": "Galatic Basic",
+   "people": [
+      "Greedo"
+   ],
+   "films": [
+      "A New Hope"  
+   ],
+   "created": "2014-12-10T17:05:26.471000Z",
+   "edited": "2014-12-20T21:36:42.144000Z"
+},
+ {
+   "id": 5,
+   "name": "Hutt",
+   "classification": "gastropod",
+   "resume": "Hutts eram uma grande lesma -como sencientes espécies que estavam nativa ao planeta Nal Hutta. Eles eram bem conhecidos como gângsteres galácticos cujo Conselho Grand Hutt controlava o sindicato do crime do Clã Hutt.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/19/JabbaPromo.png",
+   "designation": "sentient",
+   "average_height": "300",
+   "skin_colors": "green, brown, tan",
+   "hair_colors": "n/a",
+   "eye_colors": "yellow, red",
+   "average_lifespan": "1000",
+   "language": "Huttese",
+   "people": [
+      "Jabba Desilijic Tiure"
+   ],
+   "films": [
+      "A New Hope",
+      "Return of the Jedi" 
+   ],
+   "created": "2014-12-10T17:12:50.410000Z",
+   "edited": "2014-12-20T21:36:42.146000Z"
+},
+ {
+   "id": 6,
+   "name": "Yoda's species",
+   "classification": "mammal",
+   "resume": "A espécie à qual o lendário Grande Mestre Jedi Yoda pertencia era antiga e envolta em mistério. Membros desta espécie raramente eram vistos em qualquer lugar da galáxia. Os poucos membros desta espécie vistos na galáxia eram todos sensíveis à Força, e o mundo natal da espécie e o nome eram desconhecidos.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/c3/Yoda_TPM_RotS.png",
+   "designation": "sentient",
+   "average_height": "66",
+   "skin_colors": "green, yellow",
+   "hair_colors": "brown, white",
+   "eye_colors": "brown, green, yellow",
+   "average_lifespan": "900",
+   "language": "Galactic basic",
+   "people": [
+      "Yoda"
+   ],
+   "films": [
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith",
+      ""
+   ],
+   "created": "2014-12-15T12:27:22.877000Z",
+   "edited": "2014-12-20T21:36:42.148000Z"
+},
+ {
+   "id": 7,
+   "name": "Trandoshan",
+   "classification": "reptile",
+   "resume": "Trandoshans, também chamados de T'doshok, eram grandes humanóides bípedes reptilianos sencientes do planeta Trandosha, e eram renomados como grandes caçadores. Os trandoshanos adoravam a emoção de uma caça e eram conhecidos por embarcar em um rito de passagem relacionado à caça. ",
+   "image": "https://static.wikia.nocookie.net/starwars/images/7/72/Bossk_full_body.png",
+   "designation": "sentient",
+   "average_height": "200",
+   "skin_colors": "brown, green",
+   "hair_colors": "none",
+   "eye_colors": "yellow, orange",
+   "average_lifespan": "unknown",
+   "language": "Dosh",
+   "people": [
+      "Bossk"
+   ],
+   "films": [
+      "The Empire Strikes Back"  
+   ],
+   "created": "2014-12-15T13:07:47.704000Z",
+   "edited": "2014-12-20T21:36:42.151000Z"
+},
+ {
+   "id": 8,
+   "name": "Mon Calamari",
+   "classification": "amphibian",
+   "resume": "O Mon Calamari eram um humanóide, aquáticos de espécies nativas do planeta de Mon Cala. Eles compartilharam seu planeta natal com os Quarren .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/23/The_Mon_Calamari.png",
+   "designation": "sentient",
+   "average_height": "160",
+   "skin_colors": "red, blue, brown, magenta",
+   "hair_colors": "none",
+   "eye_colors": "yellow",
+   "average_lifespan": "unknown",
+   "language": "Mon Calamarian",
+   "people": [
+      "Ackbar"
+   ],
+   "films": [
+      "Return of the Jedi"  
+   ],
+   "created": "2014-12-18T11:09:52.263000Z",
+   "edited": "2014-12-20T21:36:42.153000Z"
+},
+ {
+   "id": 9,
+   "name": "Ewok",
+   "classification": "mammal",
+   "resume": "Ewoks eram uma espécie diminuta de bípedes peludos nativos da lua da floresta de Endor. Eles foram mais notáveis ​​por ajudar a Aliança Rebelde a derrotar as forças do Império Galáctico na Batalha de Endor, permitindo que o gerador de escudo fosse destruído e, por sua vez, a Estação de Batalha Móvel DS-2 Death Star II .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/a/a8/Ewoks_Encyclopedia.png",
+   "designation": "sentient",
+   "average_height": "100",
+   "skin_colors": "brown",
+   "hair_colors": "white, brown, black",
+   "eye_colors": "orange, brown",
+   "average_lifespan": "unknown",
+   "language": "Ewokese",
+   "people": [
+      "Wicket Systri Warrick"
+   ],
+   "films": [
+      "Return of the Jedi"  
+   ],
+   "created": "2014-12-18T11:22:00.285000Z",
+   "edited": "2014-12-20T21:36:42.155000Z"
+},
+ {
+   "id": 10,
+   "name": "Sullustan",
+   "classification": "mammal",
+   "resume": "Sullustans eram uma espécie de humanóides que veio do planeta de Sullust, e eram especialistas na fabricação, desenvolvimento científico e tecnológico e economia, tendo fundado a próspera SoroSuub Corporação .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/9/9c/Sullustan_DICE.png",
+   "designation": "sentient",
+   "average_height": "180",
+   "skin_colors": "pale",
+   "hair_colors": "none",
+   "eye_colors": "black",
+   "average_lifespan": "unknown",
+   "language": "Sullutese",
+   "people": [
+      "Nien Nunb"
+   ],
+   "films": [
+      "Return of the Jedi"  
+   ],
+   "created": "2014-12-18T11:26:20.103000Z",
+   "edited": "2014-12-20T21:36:42.157000Z"
+},
+ {
+   "id": 11,
+   "name": "Neimodian",
+   "classification": "unknown",
+   "resume": "Neimoidians eram um humanóide espécies nativas para o planeta de Neimoidia, ao mesmo tempo, resolver ricos bolsa-mundos como Cato Neimoidia. Eles tinham rostos lisos e sem nariz, pele manchada de verde acinzentado e grandes olhos vermelho-laranja. ",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b0/NeimoidiansSWE.png",
+   "designation": "sentient",
+   "average_height": "180",
+   "skin_colors": "grey, green",
+   "hair_colors": "none",
+   "eye_colors": "red, pink",
+   "average_lifespan": "unknown",
+   "language": "Neimoidia",
+   "people": [
+      "Nute Gunray"
+   ],
+   "films": [
+      "The Phantom Menace"  
+   ],
+   "created": "2014-12-19T17:07:31.319000Z",
+   "edited": "2014-12-20T21:36:42.160000Z"
+},
+ {
+   "id": 12,
+   "name": "Gungan",
+   "classification": "amphibian",
+   "resume": "Os Gungans eram uma espécie anfíbia senciente e os habitantes nativos do planeta Naboo. As várias raças diferentes de Gungan podiam viver tanto na água quanto na terra, mas muitas vezes moravam em cidades subaquáticas como Otoh Gunga .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d5/Gungan_warrior.png",
+   "designation": "sentient",
+   "average_height": "190",
+   "skin_colors": "brown, green",
+   "hair_colors": "none",
+   "eye_colors": "orange",
+   "average_lifespan": "unknown",
+   "language": "Gungan basic",
+   "people": [
+      "Jar Jar Binks",
+      "Roos Tarpals",
+      "Rugor Nass"
+   
+   ],
+   "films": [
+      "The Phantom Menace",
+      "Attack of the Clones" 
+   ],
+   "created": "2014-12-19T17:30:37.341000Z",
+   "edited": "2014-12-20T21:36:42.163000Z"
+},
+ {
+   "id": 13,
+   "name": "Toydarian",
+   "classification": "mammal",
+   "resume": "Toydarians eram uma espécie senciente e alada do planeta Toydaria. Além de sua habilidade de voar, os Toydarianos eram fisicamente definidos por seus longos focinhos e pés palmados, e podiam resistir à manipulação mental da Força .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/6/6e/Wattoep2promotionalfull.jpg",
+   "designation": "sentient",
+   "average_height": "120",
+   "skin_colors": "blue, green, grey",
+   "hair_colors": "none",
+   "eye_colors": "yellow",
+   "average_lifespan": "91",
+   "language": "Toydarian",
+   "people": [
+      "Watto"
+   ],
+   "films": [
+      "The Phantom Menace",
+      "Attack of the Clones" 
+   ],
+   "created": "2014-12-19T17:48:56.893000Z",
+   "edited": "2014-12-20T21:36:42.165000Z"
+},
+ {
+   "id": 14,
+   "name": "Dug",
+   "classification": "mammal",
+   "resume": "Dugs eram uma espécie de mamífero agressivo nativa do planeta Malastare que usava seus membros superiores para locomoção e seus membros inferiores para lutar.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/bd/Dug_NEGAS.jpg",
+   "designation": "sentient",
+   "average_height": "100",
+   "skin_colors": "brown, purple, grey, red",
+   "hair_colors": "none",
+   "eye_colors": "yellow, blue",
+   "average_lifespan": "unknown",
+   "language": "Dugese",
+   "people": [
+      "Sebulba"
+   ],
+   "films": [
+      "The Phantom Menace"  
+   ],
+   "created": "2014-12-19T17:53:11.214000Z",
+   "edited": "2014-12-20T21:36:42.167000Z"
+},
+ {
+   "id": 15,
+   "name": "Twi'lek",
+   "classification": "mammals",
+   "resume": "Twi'leks, ocasionalmente chamados de Rylothianos, eram uma espécie alta, quase humana, cuja característica mais marcante era um par de longos apêndices saindo de seus crânios, chamados lekku. Eles vieram do planeta de Ryloth, nos Territórios da Orla Exterior, e Twi'lek fêmeas eram frequentemente exportadas para fora do mundo como escravas .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/5/54/Twileks.png",
+   "designation": "sentient",
+   "average_height": "200",
+   "skin_colors": "orange, yellow, blue, green, pink, purple, tan",
+   "hair_colors": "none",
+   "eye_colors": "blue, brown, orange, pink",
+   "average_lifespan": "unknown",
+   "language": "Twi'leki",
+   "people": [
+      "Bib Fortuna",
+      "Ayla Secura"
+   ],
+   "films": [
+      "Return of the Jedi",
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith"
+   ],
+   "created": "2014-12-20T09:48:02.406000Z",
+   "edited": "2014-12-20T21:36:42.169000Z"
+},
+ {
+   "id": 16,
+   "name": "Aleena",
+   "classification": "reptile",
+   "resume": "Os Aleena eram uma espécie de alienígenas pequenos e sencientes do planeta Aleen, embora a maioria dos Aleena na galáxia fosse nativa do mundo colônia Aleen Minor .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/e/e3/Ratts.jpg",
+   "designation": "sentient",
+   "average_height": "80",
+   "skin_colors": "blue, gray",
+   "hair_colors": "none",
+   "eye_colors": "unknown",
+   "average_lifespan": "79",
+   "language": "Aleena",
+   "people": [
+      "Ratts Tyerel"
+   ],
+   "films": [
+      "The Phantom Menace"  
+   ],
+   "created": "2014-12-20T09:53:16.481000Z",
+   "edited": "2014-12-20T21:36:42.171000Z"
+},
+ {
+   "id": 17,
+   "name": "Vulptereen",
+   "classification": "unknown",
+   "resume": "Vulptereens foram uma forma de barril sensíveis espécies com pá como bocas do planeta de Vulpter .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/cd/Dud_Bolt_FF_Scan.png",
+   "designation": "sentient",
+   "average_height": "100",
+   "skin_colors": "grey",
+   "hair_colors": "none",
+   "eye_colors": "yellow",
+   "average_lifespan": "unknown",
+   "language": "vulpterish",
+   "people": [
+      "Dud Bolt"
+   ],
+   "films": [
+      "The Phantom Menace"  
+   ],
+   "created": "2014-12-20T09:57:33.128000Z",
+   "edited": "2014-12-20T21:36:42.173000Z"
+},
+ {
+   "id": 18,
+   "name": "Xexto",
+   "classification": "unknown",
+   "resume": "Xexto eram um sencientes espécies de pequenas, finas, de seis limbed estrangeiros que estavam nativa ao planeta Troiken. Xexto era altamente hábil, permitindo que participassem do perigoso esporte de Podracing. ",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/30/Gasgano.jpg",
+   "designation": "sentient",
+   "average_height": "125",
+   "skin_colors": "grey, yellow, purple",
+   "hair_colors": "none",
+   "eye_colors": "black",
+   "average_lifespan": "unknown",
+   "language": "Xextese",
+   "people": [
+      "Gasgano"
+   ],
+   "films": [
+      "The Phantom Menace"  
+   ],
+   "created": "2014-12-20T10:02:13.915000Z",
+   "edited": "2014-12-20T21:36:42.175000Z"
+},
+ {
+   "id": 19,
+   "name": "Toong",
+   "classification": "unknown",
+   "resume": "Os Toong eram uma espécie anti-social de alienígenas do planeta Toong'L. Em comparação com muitos outros humanóides, suas cabeças eram desproporcionalmente grandes para seus corpos. ",
+   "image": "https://static.wikia.nocookie.net/starwars/images/1/18/BenQuadinarosFull-SWE.png",
+   "designation": "sentient",
+   "average_height": "200",
+   "skin_colors": "grey, green, yellow",
+   "hair_colors": "none",
+   "eye_colors": "orange",
+   "average_lifespan": "unknown",
+   "language": "Tundan",
+   "people": [
+      "Ben Quadinaros"
+   ],
+   "films": [
+      "The Phantom Menace",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T10:08:36.795000Z",
+   "edited": "2014-12-20T21:36:42.177000Z"
+},
+ {
+   "id": 20,
+   "name": "Cerean",
+   "classification": "mammal",
+   "resume": "Os Cereanos eram uma espécie de mamíferos sencientes vindos do planeta Cerea. Eles se distinguiam por seu crânio cônico alargado que continha um cérebro binário. O Mestre Jedi Ki-Adi-Mundi, que se sentou no Alto Conselho Jedi durante os últimos anos da República Galáctica, era um homem Cereano .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/be/Mundi_bodyshot.png",
+   "designation": "sentient",
+   "average_height": "200",
+   "skin_colors": "pale pink",
+   "hair_colors": "red, blond, black, white",
+   "eye_colors": "hazel",
+   "average_lifespan": "unknown",
+   "language": "Cerean",
+   "people": [
+      "Ki-Adi-Mundi"
+   ],
+   "films": [
+      "The Phantom Menace",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T10:15:33.765000Z",
+   "edited": "2014-12-20T21:36:42.179000Z"
+},
+ {
+   "id": 21,
+   "name": "Nautolan",
+   "classification": "amphibian",
+   "resume": "Os Nautolanos eram uma espécie humanóide do planeta Glee Anselm. Eles eram anfíbios e adaptados para sobreviver em ambientes hostis. A sociedade nautolana era em grande parte pacífica, mas eles estavam em desacordo com os Anselmi, uma espécie aparentada também nativa de seu planeta natal.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/81/Kitfisto_detail.png",
+   "designation": "sentient",
+   "average_height": "180",
+   "skin_colors": "green, blue, brown, red",
+   "hair_colors": "none",
+   "eye_colors": "black",
+   "average_lifespan": "70",
+   "language": "Nautila",
+   "people": [
+      "Kit Fisto"
+   ],
+   "films": [
+      "The Phantom Menace"  
+   ],
+   "created": "2014-12-20T10:18:58.610000Z",
+   "edited": "2014-12-20T21:36:42.181000Z"
+},
+ {
+   "id": 22,
+   "name": "Zabrak",
+   "classification": "mammal",
+   "resume": "Zabraks eram uma espécie carnívora quase humana nativa do planeta Iridonia. A maioria dos membros da espécie tinha chifres distintos no topo da cabeça, bem como dois corações .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/a/a4/Zabrak_DICE.png",
+   "designation": "sentient",
+   "average_height": "180",
+   "skin_colors": "pale, brown, red, orange, yellow",
+   "hair_colors": "black",
+   "eye_colors": "brown, orange",
+   "average_lifespan": "unknown",
+   "language": "Zabraki",
+   "people": [
+      "Darth Maul",
+      "Eeth Koth"
+   ],
+   "films": [
+      "The Phantom Menace"  
+   ],
+   "created": "2014-12-20T10:26:59.894000Z",
+   "edited": "2014-12-20T21:36:42.183000Z"
+},
+ {
+   "id": 23,
+   "name": "Tholothian",
+   "classification": "mammal",
+   "resume": "Tholothians eram as espécies nativas de Tholoth. Adi Gallia e Stass Allie, ambos membros da Ordem Jedi, eram Tholothianos, embora os pais de Gallia, ambos diplomatas, tivessem nascido em Corellia. Katooni, um Jedi youngling também foi um Tholothian.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/ba/Adigalliafull.jpg",
+   "designation": "sentient",
+   "average_height": "unknown",
+   "skin_colors": "dark",
+   "hair_colors": "unknown",
+   "eye_colors": "blue, indigo",
+   "average_lifespan": "unknown",
+   "language": "unknown",
+   "people": [
+      "Adi Gallia"
+   ],
+   "films": [
+      "The Phantom Menace",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T10:29:13.798000Z",
+   "edited": "2014-12-20T21:36:42.186000Z"
+},
+ {
+   "id": 24,
+   "name": "Iktotchi",
+   "classification": "unknown",
+   "resume": "Iktotchi era uma espécie senciente com chifres da lua Iktotch. O Mestre Jedi Saesee Tiin, um membro do Alto Conselho Jedi antes e durante as Guerras Clônicas, era um Iktotchi.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/f4/SaeseeTiinFull-SWE.png",
+   "designation": "sentient",
+   "average_height": "180",
+   "skin_colors": "pink",
+   "hair_colors": "none",
+   "eye_colors": "orange",
+   "average_lifespan": "unknown",
+   "language": "Iktotchese",
+   "people": [
+      "Saesee Tiin"
+   ],
+   "films": [
+      "The Phantom Menace",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T10:32:13.046000Z",
+   "edited": "2014-12-20T21:36:42.188000Z"
+},
+ {
+   "id": 25,
+   "name": "Quermian",
+   "classification": "mammal",
+   "resume": "Quermians era uma espécie sensível humanóide de pescoço longo, nativa do planeta Quermia. Eles tinham dois cérebros, um localizado dentro da cabeça e outro na cavidade torácica, e dois pares de braços. Durante a Federação do Comércio de Invasão de Naboo, quatro Quermians foram inscritos na Ordem Jedi, um dos quais era o Mestre Jedi Yarael Poof, membro do Alto Conselho Jedi .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4f/Yarael_Poof_USW.png",
+   "designation": "sentient",
+   "average_height": "240",
+   "skin_colors": "white",
+   "hair_colors": "none",
+   "eye_colors": "yellow",
+   "average_lifespan": "86",
+   "language": "Quermian",
+   "people": [
+      "Yarael Poof"
+   ],
+   "films": [
+      "The Phantom Menace",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T10:34:50.827000Z",
+   "edited": "2014-12-20T21:36:42.189000Z"
+},
+ {
+   "id": 26,
+   "name": "Kel Dor",
+   "classification": "unknown",
+   "resume": "Kel Dors, às vezes chamados de Kel Dorians, eram uma espécie senciente vinda do planeta tecnológico Dorin. Eles exigiam máscaras para protegê-los quando em atmosferas ricas em oxigênio .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/24/Kel_Dor_NEGAS.jpg",
+   "designation": "sentient",
+   "average_height": "180",
+   "skin_colors": "peach, orange, red",
+   "hair_colors": "none",
+   "eye_colors": "black, silver",
+   "average_lifespan": "70",
+   "language": "Kel Dor",
+   "people": [
+      "Plo Koon"
+   ],
+   "films": [
+      "The Phantom Menace",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T10:49:21.692000Z",
+   "edited": "2014-12-20T21:36:42.191000Z"
+},
+ {
+   "id": 27,
+   "name": "Chagrian",
+   "classification": "amphibian",
+   "resume": "Chagrians eram uma espécie anfíbia senciente de humanóides altos, com chifres e pele azul que eram nativos do planeta Champala. Chagrians eram mais notavelmente reconhecidos por seus tentáculos grossos que se curvavam em torno de seus ombros, bem como mais duas extremidades semelhantes a chifres acima de suas cabeças.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/c/c3/Mas_Amedda_SWE.png",
+   "designation": "sentient",
+   "average_height": "190",
+   "skin_colors": "blue",
+   "hair_colors": "none",
+   "eye_colors": "blue",
+   "average_lifespan": "unknown",
+   "language": "Chagria",
+   "people": [
+      "Mas Amedda"
+   ],
+   "films": [
+      "The Phantom Menace",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T10:53:28.795000Z",
+   "edited": "2014-12-20T21:36:42.193000Z"
+},
+ {
+   "id": 28,
+   "name": "Geonosian",
+   "classification": "insectoid",
+   "resume": "Geonosians eram uma espécie alada, semi- insetóide nativa do planeta Geonosis que criava ninhos em grandes colônias semelhantes a torres em seu mundo natal. Eles foram quase exterminados pelo Império. Apenas um único Geonosian, apelidado de Klik-Klak, sobreviveu à esterilização imperial de seu planeta.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/f/fc/Fac.jpg",
+   "designation": "sentient",
+   "average_height": "178",
+   "skin_colors": "green, brown",
+   "hair_colors": "none",
+   "eye_colors": "green, hazel",
+   "average_lifespan": "unknown",
+   "language": "Geonosian",
+   "people": [
+      "Poggle the Lesser"
+   ],
+   "films": [
+      "Attack of the Clones",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T16:40:45.618000Z",
+   "edited": "2014-12-20T21:36:42.195000Z"
+},
+ {
+   "id": 29,
+   "name": "Mirialan",
+   "classification": "mammal",
+   "resume": "Mirialans eram uma espécie quase humana nativa do planeta Mirial. Eles tinham tons de pele variando de verde e amarelo a rosa ou roxo. A maioria tinha tatuagens geométricas pretas tradicionais em seus rostos, que simbolizavam realizações pessoais. ",
+   "image": "https://static.wikia.nocookie.net/starwars/images/b/b7/Mirialan_Diplomat.png",
+   "designation": "sentient",
+   "average_height": "180",
+   "skin_colors": "yellow, green",
+   "hair_colors": "black, brown",
+   "eye_colors": "blue, green, red, yellow, brown, orange",
+   "average_lifespan": "unknown",
+   "language": "Mirialan",
+   "people": [
+      "Luminara Unduli",
+      "Barriss Offee"
+   ],
+   "films": [
+      "Attack of the Clones",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T16:46:48.290000Z",
+   "edited": "2014-12-20T21:36:42.197000Z"
+},
+ {
+   "id": 30,
+   "name": "Clawdite",
+   "classification": "reptilian",
+   "resume": "Clawdites eram um humanóides sencientes espécies nativas do planeta de Zolan. Eles eram uma das poucas espécies que mudavam de forma na galáxia e às vezes eram chamados de Changelings .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/3/37/ClawditeNEGAS.jpg",
+   "designation": "sentient",
+   "average_height": "180",
+   "skin_colors": "green, yellow",
+   "hair_colors": "none",
+   "eye_colors": "yellow",
+   "average_lifespan": "70",
+   "language": "Clawdite",
+   "people": [
+      "Zam Wesell"
+   ],
+   "films": [
+      "Attack of the Clones",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T16:57:46.171000Z",
+   "edited": "2014-12-20T21:36:42.199000Z"
+},
+ {
+   "id": 31,
+   "name": "Besalisk",
+   "classification": "amphibian",
+   "resume": "Besalisks eram uma espécie humanóide senciente com quatro braços e uma wattle inflável que eram nativos do planeta Ojom. O dono do Dex's Diner e amigo do Cavaleiro Jedi Obi-Wan Kenobi, Dexter Jettster, era um Besalisk, assim como Pong Krell, um Mestre Jedi que caiu para o lado negro da Força depois de ter uma visão da morte dos Jedi durante as Guerras Clônicas.",
+   "image": "https://static.wikia.nocookie.net/starwars/images/8/83/Dexter_Jettster_%28Besalisk%29_FF44.jpg",
+   "designation": "sentient",
+   "average_height": "178",
+   "skin_colors": "brown",
+   "hair_colors": "none",
+   "eye_colors": "yellow",
+   "average_lifespan": "75",
+   "language": "besalisk",
+   "people": [
+      "Dexter Jettster"
+   ],
+   "films": [
+      "Attack of the Clones"  
+   ],
+   "created": "2014-12-20T17:28:28.821000Z",
+   "edited": "2014-12-20T21:36:42.200000Z"
+},
+ {
+   "id": 32,
+   "name": "Kaminoan",
+   "classification": "amphibian",
+   "resume": "Kaminoanos eram uma espécie senciente de anfíbios extragalácticos nativos de Kamino, um planeta aquático localizado ao sul da galáxia satélite Rishi Maze e além do disco galáctico maior. ",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/40/Kaminoan_FO_Arden_Beckwith.png",
+   "designation": "sentient",
+   "average_height": "220",
+   "skin_colors": "grey, blue",
+   "hair_colors": "none",
+   "eye_colors": "black",
+   "average_lifespan": "80",
+   "language": "Kaminoan",
+   "people": [
+      "Lama Su",
+      "Taun We"
+   ],
+   "films": [
+      "Attack of the Clones"  
+   ],
+   "created": "2014-12-20T17:31:24.838000Z",
+   "edited": "2014-12-20T21:36:42.202000Z"
+},
+ {
+   "id": 33,
+   "name": "Skakoan",
+   "classification": "mammal",
+   "resume": "Skakoans eram um sencientes espécies nativas para o planeta Skako. Para sobreviver fora de seu mundo natal, eles eram obrigados a usar roupas de pressão para simular sua atmosfera e pressão únicas, que eram muito diferentes do padrão galáctico. ",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d2/Wat_Tambor_SWE.png",
+   "designation": "sentient",
+   "average_height": "unknown",
+   "skin_colors": "grey, green",
+   "hair_colors": "none",
+   "eye_colors": "unknown",
+   "average_lifespan": "unknown",
+   "language": "Skakoan",
+   "people": [
+      "Wat Tambor"
+   ],
+   "films": [
+      "Attack of the Clones",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T17:53:54.515000Z",
+   "edited": "2014-12-20T21:36:42.204000Z"
+},
+ {
+   "id": 34,
+   "name": "Muun",
+   "classification": "mammal",
+   "resume": "Os muuns eram uma espécie humanóide alta e magra do mundo congelado de Cipião, embora também tivessem uma grande colônia no planeta rico em minerais de Muunilinst. ",
+   "image": "https://static.wikia.nocookie.net/starwars/images/4/4f/San_hill.jpg",
+   "designation": "sentient",
+   "average_height": "190",
+   "skin_colors": "grey, white",
+   "hair_colors": "none",
+   "eye_colors": "black",
+   "average_lifespan": "100",
+   "language": "Muun",
+   "people": [
+      "San Hill"
+   ],
+   "films": [
+      "Attack of the Clones",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T17:58:19.088000Z",
+   "edited": "2014-12-20T21:36:42.207000Z"
+},
+ {
+   "id": 35,
+   "name": "Togruta",
+   "classification": "mammal",
+   "resume": "Os Togrutas eram uma espécie humanóide senciente, caracterizada por seus tons de pele coloridos, grandes montrais, caudas na cabeça e pigmentos faciais brancos. Eles vieram do planeta Shili, na Região de Expansão. ",
+   "image": "https://static.wikia.nocookie.net/starwars/images/a/af/ShaakTi-TCWs3BR1.png",
+   "designation": "sentient",
+   "average_height": "180",
+   "skin_colors": "red, white, orange, yellow, green, blue",
+   "hair_colors": "none",
+   "eye_colors": "red, orange, yellow, green, blue, black",
+   "average_lifespan": "94",
+   "language": "Togruti",
+   "people": [
+      "Shaak Ti"
+   ],
+   "films": [
+      "Attack of the Clones",
+      "Revenge of the Sith" 
+   ],
+   "created": "2014-12-20T18:44:03.246000Z",
+   "edited": "2014-12-20T21:36:42.209000Z"
+},
+ {
+   "id": 36,
+   "name": "Kaleesh",
+   "classification": "reptile",
+   "resume": "Os Kaleesh eram uma espécie senciente do mundo Wild Space de Kalee. O membro mais notório da espécie, General Grievous, lutou como Comandante Marcial Supremo dos Exércitos Droides Separatistas durante as Guerras Clônicas .",
+   "image": "https://static.wikia.nocookie.net/starwars/images/d/d0/Kaleesh-Alien_Archive.jpg",
+   "designation": "sentient",
+   "average_height": "170",
+   "skin_colors": "brown, orange, tan",
+   "hair_colors": "none",
+   "eye_colors": "yellow",
+   "average_lifespan": "80",
+   "language": "Kaleesh",
+   "people": [
+      "Grievous"
+   ],
+   "films": [
+      "Revenge of the Sith"  
+   ],
+   "created": "2014-12-20T19:45:42.537000Z",
+   "edited": "2014-12-20T21:36:42.210000Z"
+},
+ {
+   "id": 37,
+   "name": "Pau'an",
+   "classification": "mammal",
+   "resume": "Pau'ans foram magro, de pernas compridas humanóides de Utapau. Eles moravam nos fossos de seu planeta e domesticaram o varactyl local para cavalgar. Devido à sua longa vida, eles também eram conhecidos como os Antigos. ",
+   "image": "https://static.wikia.nocookie.net/starwars/images/2/22/Pau%27an.jpg",
+   "designation": "sentient",
+   "average_height": "190",
+   "skin_colors": "grey",
+   "hair_colors": "none",
+   "eye_colors": "black",
+   "average_lifespan": "700",
+   "language": "Utapese",
+   "people": [
+      "Tion Medon"
+   ],
+   "films": [
+      "Revenge of the Sith"  
+   ],
+   "created": "2014-12-20T20:35:06.777000Z",
+   "edited": "2014-12-20T21:36:42.212000Z"
+}
+]
