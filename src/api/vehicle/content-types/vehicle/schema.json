@@ -4,11 +4,10 @@
   "info": {
     "singularName": "vehicle",
     "pluralName": "vehicles",
-    "displayName": "Vehicle",
-    "description": ""
+    "displayName": "Vehicle"
   },
   "options": {
-    "draftAndPublish": false
+    "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {

@@ -4,8 +4,7 @@
   "info": {
     "singularName": "all",
     "pluralName": "alls",
-    "displayName": "All",
-    "description": ""
+    "displayName": "All"
   },
   "options": {
     "draftAndPublish": true
