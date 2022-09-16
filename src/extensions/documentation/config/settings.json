@@ -19,6 +19,10 @@
     },
     "servers": [
       {
+        "url": "https://swapi-strapi.herokuapp.com/api",
+        "description": "Server"
+      },
+      {
         "url": "https://swapi.matheusmuniz.dev/api",
         "description": "Server"
       },

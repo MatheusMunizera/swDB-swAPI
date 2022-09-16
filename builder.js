@@ -11,9 +11,16 @@ const vehicles = require('./json/allVehicles.json')
 const planets = require('./json/allPlanets.json')
 const films = require('./json/allFilms.json')
 const series = require('./json/allSeries.json')
+const settings = require('./src/extensions/documentation/config/settings.json');
+const documentation = require('./src/extensions/documentation/documentation/1.0.0/full_documentation.json');
 
+const apiFolderPath = 'json'
 
-const apiFolderPath = 'api'
+  const swagger = async () => {
+    const filepath = path.join(__dirname,'./src/extensions/documentation/documentation/1.0.0/full_documentation.json')
+    await writeFile(filepath, JSON.stringify(settings,null,2))
+    console.log('build swagger successful')
+  }
 
  const rebuildCharacters = async () => {
    await Promise.all(characters.map(c => {
@@ -75,7 +82,7 @@ const apiFolderPath = 'api'
     console.log('build series sucessful')
   }
 
-
+swagger()
 rebuildFilms()
 rebuildCharacters()
 rebuildSpecies()

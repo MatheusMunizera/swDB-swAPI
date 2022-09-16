@@ -5,8 +5,8 @@
     "title": "swAPI Documentation",
     "description": "",
     "contact": {
-        "name": "Matheus Muniz Dantas",
-        "email": "matheus.munizera@gmail.com",
+      "name": "Matheus Muniz Dantas",
+      "email": "matheus.munizera@gmail.com",
       "url": "https://matheusmuniz.dev"
     },
     "x-generation-date": "2022-09-15T23:57:29.648Z"
@@ -18,6 +18,10 @@
     "plugins": []
   },
   "servers": [
+    {
+      "url": "https://swapi-strapi.herokuapp.com/api",
+      "description": "Server"
+    },
     {
       "url": "https://swapi.matheusmuniz.dev/api",
       "description": "Server"
@@ -21645,7 +21649,7 @@
   "paths": {
     "/all": {
       "get": {
-          "summary": "Get all characters, filmes, planets, series, speceis and vehicles",
+        "summary": "Get all characters, filmes, planets, series, speceis and vehicles",
         "responses": {
           "200": {
             "description": "OK",
@@ -21716,7 +21720,7 @@
     },
     "/characters": {
       "get": {
-          "summary": "Get all characters",
+        "summary": "Get all characters",
         "responses": {
           "200": {
             "description": "OK",
@@ -21787,7 +21791,7 @@
     },
     "/films": {
       "get": {
-          "summary": "Get all films",
+        "summary": "Get all films",
         "responses": {
           "200": {
             "description": "OK",
@@ -21858,7 +21862,7 @@
     },
     "/planets": {
       "get": {
-          "summary": "Get all planets",
+        "summary": "Get all planets",
         "responses": {
           "200": {
             "description": "OK",
@@ -21929,7 +21933,7 @@
     },
     "/series": {
       "get": {
-          "summary": "Get all series",
+        "summary": "Get all series",
         "responses": {
           "200": {
             "description": "OK",
@@ -22000,7 +22004,7 @@
     },
     "/species": {
       "get": {
-          "summary": "Get all species",
+        "summary": "Get all species",
         "responses": {
           "200": {
             "description": "OK",
@@ -22071,7 +22075,7 @@
     },
     "/vehicles": {
       "get": {
-          "summary": "Get all vehicles",
+        "summary": "Get all vehicles",
         "responses": {
           "200": {
             "description": "OK",
